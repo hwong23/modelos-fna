@@ -611,4 +611,7 @@
           href="ApplicationComponent_65b48590-373b-401c-bd77-a209093c858d.xml#65b48590-373b-401c-bd77-a209093c858d"/>
     </children>
   </children>
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
 </archimate:ArchimateDiagramModel>

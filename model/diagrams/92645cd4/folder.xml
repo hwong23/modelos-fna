@@ -1,4 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FNA"
-    id="92645cd4"/>
+    id="92645cd4">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:Folder>

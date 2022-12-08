@@ -9,8 +9,8 @@
       name="Capa de Negocio"
       textAlignment="1">
     <bounds
-        x="-1368"
-        y="516"
+        x="-1356"
+        y="24"
         width="2245"
         height="469"/>
     <children
@@ -632,8 +632,8 @@
       name="Aplicaciones Back"
       textAlignment="1">
     <bounds
-        x="-1368"
-        y="996"
+        x="-1356"
+        y="504"
         width="2244"
         height="541"/>
     <children
@@ -1390,4 +1390,7 @@
           href="ApplicationComponent_01d0062b.xml#01d0062b"/>
     </children>
   </children>
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
 </archimate:ArchimateDiagramModel>

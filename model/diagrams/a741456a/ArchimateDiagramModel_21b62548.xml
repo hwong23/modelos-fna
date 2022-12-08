@@ -917,4 +917,7 @@
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_7b27761a.xml#7b27761a"/>
   </children>
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
 </archimate:ArchimateDiagramModel>

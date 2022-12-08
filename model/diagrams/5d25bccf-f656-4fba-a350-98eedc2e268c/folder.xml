@@ -1,4 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Crédito Educativo"
-    id="5d25bccf-f656-4fba-a350-98eedc2e268c"/>
+    id="5d25bccf-f656-4fba-a350-98eedc2e268c">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:Folder>

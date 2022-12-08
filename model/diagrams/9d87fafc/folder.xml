@@ -1,4 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scoring"
-    id="9d87fafc"/>
+    id="9d87fafc">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:Folder>

@@ -4265,4 +4265,7 @@
           href="TechnologyService_2c60f532.xml#2c60f532"/>
     </children>
   </children>
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
 </archimate:ArchimateDiagramModel>

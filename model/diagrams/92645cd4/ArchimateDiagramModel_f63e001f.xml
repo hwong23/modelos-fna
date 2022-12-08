@@ -620,4 +620,7 @@
           href="BusinessProcess_2fdf87de.xml#2fdf87de"/>
     </children>
   </children>
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
 </archimate:ArchimateDiagramModel>
