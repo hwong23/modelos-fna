@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_207_Credito_ConsultarPuntaje"
-    id="343e048d-bb21-47b4-8cbd-effa88b23fc6"/>
+    id="343e048d-bb21-47b4-8cbd-effa88b23fc6">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationService>

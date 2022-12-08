@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SCORING"
-    id="7d93fbb1-b931-492a-b2d7-d01200357bcb"/>
+    id="7d93fbb1-b931-492a-b2d7-d01200357bcb">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationComponent>

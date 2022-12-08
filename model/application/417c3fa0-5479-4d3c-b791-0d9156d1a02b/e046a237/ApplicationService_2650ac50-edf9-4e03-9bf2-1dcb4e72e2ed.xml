@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XXX_Credito_TU_ScoreFNA"
-    id="2650ac50-edf9-4e03-9bf2-1dcb4e72e2ed"/>
+    id="2650ac50-edf9-4e03-9bf2-1dcb4e72e2ed">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationService>
