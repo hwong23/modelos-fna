@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="aad1e0cd-70aa-4741-8f98-357cd291308e">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_1a72dd46.xml#1a72dd46"/>
