@@ -1,4 +1,8 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servicios Process Server"
-    id="a417cca8"/>
+    id="a417cca8">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationCollaboration>

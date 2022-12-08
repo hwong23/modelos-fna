@@ -453,7 +453,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3227331567a246579e7e958dc4636f2e">
+      id="id-3227331567a246579e7e958dc4636f2e"
+      targetConnections="id-fde07f28314749da88b9c54384c978d7 id-e0210f9866fa4c5193ee22ea3aacbf70">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5f4a4b9ea6d548c0b526b90d652c85f7"
@@ -583,5 +584,47 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_cf461829.xml#cf461829"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b7cfdf0d25f0407db17077919388e6b9">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-fde07f28314749da88b9c54384c978d7"
+        source="id-b7cfdf0d25f0407db17077919388e6b9"
+        target="id-3227331567a246579e7e958dc4636f2e">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_02ad18e6.xml#02ad18e6"/>
+    </sourceConnections>
+    <bounds
+        x="876"
+        y="1008"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_7b27761a.xml#7b27761a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-18db1e2258f540ea89d5abbb56a8b2ef">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e0210f9866fa4c5193ee22ea3aacbf70"
+        source="id-18db1e2258f540ea89d5abbb56a8b2ef"
+        target="id-3227331567a246579e7e958dc4636f2e">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_d8cca29e.xml#d8cca29e"/>
+    </sourceConnections>
+    <bounds
+        x="1026"
+        y="1008"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_bb4a936f.xml#bb4a936f"/>
   </children>
 </archimate:ArchimateDiagramModel>

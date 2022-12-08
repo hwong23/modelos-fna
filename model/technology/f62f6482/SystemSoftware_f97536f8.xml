@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PROCESS SERVER 6.1"
-    id="f97536f8"/>
+    id="f97536f8">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:SystemSoftware>

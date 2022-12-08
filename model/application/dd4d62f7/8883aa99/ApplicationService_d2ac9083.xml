@@ -5,4 +5,7 @@
   <properties
       key="WI"
       value="WI5605"/>
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
 </archimate:ApplicationService>

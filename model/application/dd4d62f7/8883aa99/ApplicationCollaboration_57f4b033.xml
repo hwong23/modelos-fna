@@ -1,4 +1,8 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servicios COBIS"
-    id="57f4b033"/>
+    id="57f4b033">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationCollaboration>
