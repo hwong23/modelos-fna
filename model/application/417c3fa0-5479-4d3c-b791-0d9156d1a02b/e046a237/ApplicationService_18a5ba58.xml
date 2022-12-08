@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_113_Cesantias_EliminarGiroConsignacionEntidad - WI3987"
-    id="18a5ba58"/>
+    id="18a5ba58">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationService>

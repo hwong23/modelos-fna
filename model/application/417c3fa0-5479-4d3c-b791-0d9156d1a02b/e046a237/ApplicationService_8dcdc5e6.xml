@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_110_Creditos_EliminarDesembolsoObligacionCartera - WI3988"
-    id="8dcdc5e6"/>
+    id="8dcdc5e6">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationService>

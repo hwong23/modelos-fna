@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GW01_Gateway_Services"
-    id="1cdadd6d"/>
+    id="1cdadd6d">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationComponent>

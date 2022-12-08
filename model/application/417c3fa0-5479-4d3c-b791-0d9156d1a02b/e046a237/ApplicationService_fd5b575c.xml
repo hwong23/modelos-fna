@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_118_Cesantias_EliminarAporteEntidad - WI3994"
-    id="fd5b575c"/>
+    id="fd5b575c">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servicio de Data"
-    id="e61f2abb"/>
+    id="e61f2abb">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:TechnologyService>

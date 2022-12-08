@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_116_Creditos_EliminacionDevolucionSobranteCartera - WI3991"
-    id="4dca4389"/>
+    id="4dca4389">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationService>

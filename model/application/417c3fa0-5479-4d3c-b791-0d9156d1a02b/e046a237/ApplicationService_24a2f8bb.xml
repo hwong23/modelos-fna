@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_121_Cesantias_EncapsulaEliminacion - WI3992"
-    id="24a2f8bb"/>
+    id="24a2f8bb">
+  <properties
+      key="alcanceSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationService>
