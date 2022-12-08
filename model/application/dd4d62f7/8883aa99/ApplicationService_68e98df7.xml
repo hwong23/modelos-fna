@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AS135-ConsultaCargaTrabajoTramiteCredito"
+    id="68e98df7"
+    documentation="Operación:  ConsultarCargaTrabajoPorEtapa (Version 1.0)">
+  <properties
+      key="WI"
+      value="WI3457"/>
+</archimate:ApplicationService>

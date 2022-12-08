@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_024_ClientePN_RecuperarInformacionBasica"
+    id="a66117b8"
+    documentation="Version 2.1.0">
+  <properties
+      key="WI"
+      value="WI22848"/>
+</archimate:ApplicationService>

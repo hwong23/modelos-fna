@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JDBC"
+    id="708bc74f-ec37-4d9f-af66-8a0f7fe8a727">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_840d4fcb-b7ce-4312-881a-e048c6842420.xml#840d4fcb-b7ce-4312-881a-e048c6842420"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_0b8a4e79.xml#0b8a4e79"/>
+</archimate:FlowRelationship>

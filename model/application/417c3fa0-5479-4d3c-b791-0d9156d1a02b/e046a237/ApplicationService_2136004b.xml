@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_022_Credito_RecuperarTramiteSolicitudes"
+    id="2136004b">
+  <properties
+      key="WI"
+      value="WI16426"/>
+</archimate:ApplicationService>

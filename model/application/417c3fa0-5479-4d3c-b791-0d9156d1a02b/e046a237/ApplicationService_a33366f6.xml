@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_117_Tesoreria_ModificarOrdenPago"
+    id="a33366f6">
+  <properties
+      key="WI"
+      value="WI3993"/>
+</archimate:ApplicationService>

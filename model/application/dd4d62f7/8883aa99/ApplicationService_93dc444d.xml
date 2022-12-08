@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AS037-ConsultarEntidad"
+    id="93dc444d">
+  <properties
+      key="WI"
+      value="CQ162265"/>
+</archimate:ApplicationService>

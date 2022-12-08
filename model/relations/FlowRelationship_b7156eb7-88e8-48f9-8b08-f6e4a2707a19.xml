@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP BAPI"
+    id="b7156eb7-88e8-48f9-8b08-f6e4a2707a19">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_840d4fcb-b7ce-4312-881a-e048c6842420.xml#840d4fcb-b7ce-4312-881a-e048c6842420"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fb0dde3b.xml#fb0dde3b"/>
+</archimate:FlowRelationship>

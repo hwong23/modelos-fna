@@ -1,0 +1,4 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ra.andesscd.com.co    -⁠>  192.168.130.1 www.andesscd.com.co   -⁠>  192.168.130.2 tsa.andesscd.com.co   -⁠>  192.168.130.3 ocsp.andesscd.com.co  -⁠>  192.168.130.3 crl.andesscd.com.co   -⁠>  192.168.130.4 certs.andesscd.com.co -⁠>  192.168.130.4"
+    id="e407272c"/>

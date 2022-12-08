@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_135_Seguridad_RevocarCertificadoDigital"
+    id="279372ae">
+  <properties
+      key="WI"
+      value="WI12311 "/>
+</archimate:ApplicationService>

@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_005_Clientes_ValidarExistencia"
+    id="8eb4f4b1">
+  <properties
+      key="WI"
+      value="CQ76881"/>
+</archimate:ApplicationService>

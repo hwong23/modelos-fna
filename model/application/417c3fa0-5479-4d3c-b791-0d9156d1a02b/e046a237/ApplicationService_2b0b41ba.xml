@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_133_Credito_NotificarEstadoDesembolso"
+    id="2b0b41ba"
+    documentation="Version 1.0.0">
+  <properties
+      key="WI"
+      value="WI7289"/>
+  <properties
+      key="WI"
+      value="WI43160"/>
+</archimate:ApplicationService>

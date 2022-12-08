@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_106_Credito_EnrutarTramiteCredito"
+    id="23ffc257"
+    documentation="Versión 1.0.0">
+  <properties
+      key="WI"
+      value="WI3151"/>
+</archimate:ApplicationService>
