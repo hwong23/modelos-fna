@@ -598,9 +598,9 @@
           href="AggregationRelationship_02ad18e6.xml#02ad18e6"/>
     </sourceConnections>
     <bounds
-        x="888"
+        x="864"
         y="818"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
