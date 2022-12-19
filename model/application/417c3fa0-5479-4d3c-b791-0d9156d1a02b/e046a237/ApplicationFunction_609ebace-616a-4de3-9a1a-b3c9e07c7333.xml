@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_182_enviarProyeccionPagoAnual"
-    id="609ebace-616a-4de3-9a1a-b3c9e07c7333"/>
+    id="609ebace-616a-4de3-9a1a-b3c9e07c7333">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

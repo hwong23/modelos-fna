@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_223_Credito_ModificarTramiteCredito"
-    id="280073af-277b-409b-962a-ac79d3319c98"/>
+    id="280073af-277b-409b-962a-ac79d3319c98">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

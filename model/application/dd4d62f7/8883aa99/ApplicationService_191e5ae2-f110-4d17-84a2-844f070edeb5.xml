@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS144-CreacionRelacionCliente"
-    id="191e5ae2-f110-4d17-84a2-844f070edeb5"/>
+    id="191e5ae2-f110-4d17-84a2-844f070edeb5">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationService>

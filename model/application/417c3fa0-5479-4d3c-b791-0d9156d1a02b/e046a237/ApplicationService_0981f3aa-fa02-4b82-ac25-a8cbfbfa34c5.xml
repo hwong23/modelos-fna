@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_190_GestorDocumental_ConsultarDocumento"
-    id="0981f3aa-fa02-4b82-ac25-a8cbfbfa34c5"/>
+    id="0981f3aa-fa02-4b82-ac25-a8cbfbfa34c5">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

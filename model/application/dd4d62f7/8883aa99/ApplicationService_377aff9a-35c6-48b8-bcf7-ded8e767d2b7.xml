@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS165-GeneracionFormularioAfiliacionCesantias"
-    id="377aff9a-35c6-48b8-bcf7-ded8e767d2b7"/>
+    id="377aff9a-35c6-48b8-bcf7-ded8e767d2b7">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_178_ClientePJ_ConsultaInfoEmpresarial"
-    id="83bc81b9-759a-4605-8672-49ef71ae9662"/>
+    id="83bc81b9-759a-4605-8672-49ef71ae9662">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

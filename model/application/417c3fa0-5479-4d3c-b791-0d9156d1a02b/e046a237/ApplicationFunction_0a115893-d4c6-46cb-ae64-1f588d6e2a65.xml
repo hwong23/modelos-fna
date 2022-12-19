@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_194_ObtenerInformacionFormulario"
-    id="0a115893-d4c6-46cb-ae64-1f588d6e2a65"/>
+    id="0a115893-d4c6-46cb-ae64-1f588d6e2a65">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

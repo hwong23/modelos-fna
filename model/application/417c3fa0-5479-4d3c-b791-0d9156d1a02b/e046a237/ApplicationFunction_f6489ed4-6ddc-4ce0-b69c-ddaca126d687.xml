@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_164_validarPoliticasParaCreacionTramiteCredito"
-    id="f6489ed4-6ddc-4ce0-b69c-ddaca126d687"/>
+    id="f6489ed4-6ddc-4ce0-b69c-ddaca126d687">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

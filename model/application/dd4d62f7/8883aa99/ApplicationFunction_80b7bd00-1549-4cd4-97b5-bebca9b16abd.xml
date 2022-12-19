@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS061-generarProyeccionPagoAnual"
-    id="80b7bd00-1549-4cd4-97b5-bebca9b16abd"/>
+    id="80b7bd00-1549-4cd4-97b5-bebca9b16abd">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

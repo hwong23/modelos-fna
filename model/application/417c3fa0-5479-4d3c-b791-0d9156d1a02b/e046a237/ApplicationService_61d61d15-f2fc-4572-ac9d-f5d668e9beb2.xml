@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XXX_Cartera_RecaudoConsultarReferencia"
-    id="61d61d15-f2fc-4572-ac9d-f5d668e9beb2"/>
+    id="61d61d15-f2fc-4572-ac9d-f5d668e9beb2">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

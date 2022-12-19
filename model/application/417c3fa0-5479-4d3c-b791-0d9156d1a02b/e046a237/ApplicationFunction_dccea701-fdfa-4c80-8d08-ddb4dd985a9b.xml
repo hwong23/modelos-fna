@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_235_obtenerCertificadoSaldoDeuda"
-    id="dccea701-fdfa-4c80-8d08-ddb4dd985a9b"/>
+    id="dccea701-fdfa-4c80-8d08-ddb4dd985a9b">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

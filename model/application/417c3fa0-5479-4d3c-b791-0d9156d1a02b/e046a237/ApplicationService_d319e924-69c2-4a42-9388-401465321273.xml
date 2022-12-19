@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_082_ClientePN_RecuperarInformacionRapida"
-    id="d319e924-69c2-4a42-9388-401465321273"/>
+    id="d319e924-69c2-4a42-9388-401465321273">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

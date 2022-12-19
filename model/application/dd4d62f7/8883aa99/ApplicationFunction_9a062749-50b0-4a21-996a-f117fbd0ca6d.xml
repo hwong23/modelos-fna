@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS039-generarReporteMovimientosCuentaAVC"
-    id="9a062749-50b0-4a21-996a-f117fbd0ca6d"/>
+    id="9a062749-50b0-4a21-996a-f117fbd0ca6d">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

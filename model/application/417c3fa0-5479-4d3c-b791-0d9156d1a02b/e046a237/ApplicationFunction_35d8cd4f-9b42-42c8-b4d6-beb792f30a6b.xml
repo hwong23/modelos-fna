@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_179_generarReporteMovimientos"
-    id="35d8cd4f-9b42-42c8-b4d6-beb792f30a6b"/>
+    id="35d8cd4f-9b42-42c8-b4d6-beb792f30a6b">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

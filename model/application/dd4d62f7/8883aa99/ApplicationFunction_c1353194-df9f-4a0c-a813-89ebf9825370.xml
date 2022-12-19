@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS026-CambiarClaveLogin"
-    id="c1353194-df9f-4a0c-a813-89ebf9825370"/>
+    id="c1353194-df9f-4a0c-a813-89ebf9825370">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

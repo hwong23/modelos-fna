@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS071-generarExtractoDetallado"
-    id="5b3930f1-3f70-4f37-a2fb-e69c2ac53e83"/>
+    id="5b3930f1-3f70-4f37-a2fb-e69c2ac53e83">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

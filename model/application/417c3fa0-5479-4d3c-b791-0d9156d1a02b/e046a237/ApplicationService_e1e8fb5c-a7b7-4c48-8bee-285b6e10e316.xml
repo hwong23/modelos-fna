@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XXX_ConsultarPuntajeCredito"
-    id="e1e8fb5c-a7b7-4c48-8bee-285b6e10e316"/>
+    id="e1e8fb5c-a7b7-4c48-8bee-285b6e10e316">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XXX_Credito_TU_InfoComercial"
-    id="dd36d2ff-1fa5-44f2-8533-974248d3df64"/>
+    id="dd36d2ff-1fa5-44f2-8533-974248d3df64">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

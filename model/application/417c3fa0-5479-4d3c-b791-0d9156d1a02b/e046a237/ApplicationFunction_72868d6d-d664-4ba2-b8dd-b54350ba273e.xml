@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_202_crearOportunidad"
-    id="72868d6d-d664-4ba2-b8dd-b54350ba273e"/>
+    id="72868d6d-d664-4ba2-b8dd-b54350ba273e">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

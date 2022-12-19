@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_180_generarCertificadoCuentaAVC"
-    id="f98fd936-23bc-4204-8189-d431fbace9b5"/>
+    id="f98fd936-23bc-4204-8189-d431fbace9b5">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

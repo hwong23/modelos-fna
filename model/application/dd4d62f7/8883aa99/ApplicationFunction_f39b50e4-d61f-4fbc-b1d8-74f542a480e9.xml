@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS116_generarPlanillaConsignacionAporteCesantiasPorCodigo"
-    id="f39b50e4-d61f-4fbc-b1d8-74f542a480e9"/>
+    id="f39b50e4-d61f-4fbc-b1d8-74f542a480e9">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

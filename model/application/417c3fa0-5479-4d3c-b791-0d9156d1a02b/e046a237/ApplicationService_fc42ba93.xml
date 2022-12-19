@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_098_Seguridad_AdicionarUsuario2FA - CQ159867"
-    id="fc42ba93"/>
+    id="fc42ba93">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

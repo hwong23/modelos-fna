@@ -5,4 +5,7 @@
   <properties
       key="alcanceSOA"
       value="Fase 1.1"/>
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
 </archimate:ApplicationCollaboration>

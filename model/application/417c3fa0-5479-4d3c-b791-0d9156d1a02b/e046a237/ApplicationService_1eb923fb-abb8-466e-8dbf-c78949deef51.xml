@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XXX_Seguridad-RevocarCertificadoDigital"
-    id="1eb923fb-abb8-466e-8dbf-c78949deef51"/>
+    id="1eb923fb-abb8-466e-8dbf-c78949deef51">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

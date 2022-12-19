@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_205_validaAfiliadoORQ"
-    id="121fd4d1-e8fa-4fdc-b02e-b5a8d7907cca"/>
+    id="121fd4d1-e8fa-4fdc-b02e-b5a8d7907cca">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

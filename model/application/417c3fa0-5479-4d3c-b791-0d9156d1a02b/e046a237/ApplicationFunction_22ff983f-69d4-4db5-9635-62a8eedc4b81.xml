@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_001_recuperarProdIdentificacion"
-    id="22ff983f-69d4-4db5-9635-62a8eedc4b81"/>
+    id="22ff983f-69d4-4db5-9635-62a8eedc4b81">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

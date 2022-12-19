@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_076_recuperarUsuario2FA"
-    id="a7771dde-9a35-46b4-b80d-e52589272e3b"/>
+    id="a7771dde-9a35-46b4-b80d-e52589272e3b">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

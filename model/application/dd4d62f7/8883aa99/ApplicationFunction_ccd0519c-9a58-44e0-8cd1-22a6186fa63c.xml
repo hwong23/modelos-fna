@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS055-consultarRelacionesConsumidorFinanciero"
-    id="ccd0519c-9a58-44e0-8cd1-22a6186fa63c"/>
+    id="ccd0519c-9a58-44e0-8cd1-22a6186fa63c">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

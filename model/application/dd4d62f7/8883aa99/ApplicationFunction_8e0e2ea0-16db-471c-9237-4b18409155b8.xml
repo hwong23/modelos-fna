@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS093_rechazarTramiteCredito"
-    id="8e0e2ea0-16db-471c-9237-4b18409155b8"/>
+    id="8e0e2ea0-16db-471c-9237-4b18409155b8">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

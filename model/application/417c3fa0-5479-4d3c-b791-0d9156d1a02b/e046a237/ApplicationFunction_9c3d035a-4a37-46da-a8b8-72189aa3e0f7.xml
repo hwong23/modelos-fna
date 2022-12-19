@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_210_guardarSimulacion"
-    id="9c3d035a-4a37-46da-a8b8-72189aa3e0f7"/>
+    id="9c3d035a-4a37-46da-a8b8-72189aa3e0f7">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

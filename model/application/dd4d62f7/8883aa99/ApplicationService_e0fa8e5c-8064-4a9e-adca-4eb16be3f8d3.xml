@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS137-CreacionSolicitudRetiroAVC"
-    id="e0fa8e5c-8064-4a9e-adca-4eb16be3f8d3"/>
+    id="e0fa8e5c-8064-4a9e-adca-4eb16be3f8d3">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationService>

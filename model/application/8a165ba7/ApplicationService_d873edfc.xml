@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS009 - ConsultaRecaudo"
-    id="d873edfc"/>
+    id="d873edfc">
+  <properties
+      key="aplicacionProveedora"
+      value="Process Server"/>
+</archimate:ApplicationService>

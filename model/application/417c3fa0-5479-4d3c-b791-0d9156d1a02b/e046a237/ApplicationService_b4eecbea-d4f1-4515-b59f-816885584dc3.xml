@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_235_Cartera_ReporteCertSaldoDeuda"
-    id="b4eecbea-d4f1-4515-b59f-816885584dc3"/>
+    id="b4eecbea-d4f1-4515-b59f-816885584dc3">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

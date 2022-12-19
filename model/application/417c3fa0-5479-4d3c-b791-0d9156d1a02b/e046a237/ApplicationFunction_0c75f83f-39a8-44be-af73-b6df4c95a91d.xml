@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_034_calcularPuntaje"
-    id="0c75f83f-39a8-44be-af73-b6df4c95a91d"/>
+    id="0c75f83f-39a8-44be-af73-b6df4c95a91d">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

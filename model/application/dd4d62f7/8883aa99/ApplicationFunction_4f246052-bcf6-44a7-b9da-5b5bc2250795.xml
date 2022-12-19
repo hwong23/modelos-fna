@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS059-enviarCertificadoCuentaAVC"
-    id="4f246052-bcf6-44a7-b9da-5b5bc2250795"/>
+    id="4f246052-bcf6-44a7-b9da-5b5bc2250795">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

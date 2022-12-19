@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS146_Credito_ModificarCapacidadPago"
-    id="42a3a944-76ff-4d4b-9685-f8b4f990be51"/>
+    id="42a3a944-76ff-4d4b-9685-f8b4f990be51">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationService>

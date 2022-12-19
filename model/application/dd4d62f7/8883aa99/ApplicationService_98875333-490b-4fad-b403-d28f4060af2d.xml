@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS162-CrearGarantiaTramiteCredito*"
-    id="98875333-490b-4fad-b403-d28f4060af2d"/>
+    id="98875333-490b-4fad-b403-d28f4060af2d">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationService>

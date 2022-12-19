@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_218_modificarInfoFinancieraCapacidadPagoDeudor"
-    id="50bdc6bc-676c-4b47-8d6f-b5edd4cdc19e"/>
+    id="50bdc6bc-676c-4b47-8d6f-b5edd4cdc19e">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

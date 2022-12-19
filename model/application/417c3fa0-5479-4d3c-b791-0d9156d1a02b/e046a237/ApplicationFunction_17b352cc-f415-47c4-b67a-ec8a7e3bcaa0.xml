@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_082_recuperarInfoRapida"
-    id="17b352cc-f415-47c4-b67a-ec8a7e3bcaa0"/>
+    id="17b352cc-f415-47c4-b67a-ec8a7e3bcaa0">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

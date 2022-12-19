@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_232_Credito_SimularHipotecario"
-    id="08666875-93b1-4b0f-92d1-c4d9fb83ab30"/>
+    id="08666875-93b1-4b0f-92d1-c4d9fb83ab30">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

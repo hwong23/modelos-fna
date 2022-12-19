@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS067-crearProspectoConsumidorFinanciero"
-    id="516545dc-3602-42c7-ad45-ca2bd5632cc9"/>
+    id="516545dc-3602-42c7-ad45-ca2bd5632cc9">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

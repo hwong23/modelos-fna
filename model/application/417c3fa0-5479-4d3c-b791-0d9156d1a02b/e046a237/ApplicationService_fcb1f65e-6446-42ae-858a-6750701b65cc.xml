@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_185_Cartera_GeneracionFacturaObligacion"
-    id="fcb1f65e-6446-42ae-858a-6750701b65cc"/>
+    id="fcb1f65e-6446-42ae-858a-6750701b65cc">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

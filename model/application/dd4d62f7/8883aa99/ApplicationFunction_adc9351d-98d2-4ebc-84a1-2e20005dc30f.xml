@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS061-generarCertificadoIntereses "
-    id="adc9351d-98d2-4ebc-84a1-2e20005dc30f"/>
+    id="adc9351d-98d2-4ebc-84a1-2e20005dc30f">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS083_enviarFacturaObligacionCartera"
-    id="d2878597-eff4-4ff9-beef-06ea858fd673"/>
+    id="d2878597-eff4-4ff9-beef-06ea858fd673">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

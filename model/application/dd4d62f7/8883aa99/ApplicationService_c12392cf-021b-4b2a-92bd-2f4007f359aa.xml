@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS051-CreacionEntidad"
-    id="c12392cf-021b-4b2a-92bd-2f4007f359aa"/>
+    id="c12392cf-021b-4b2a-92bd-2f4007f359aa">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationService>

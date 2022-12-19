@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS061-generarCertificadoDeuda"
-    id="53acc01e-b5da-4d4b-8a0e-1de3b1da71b5"/>
+    id="53acc01e-b5da-4d4b-8a0e-1de3b1da71b5">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

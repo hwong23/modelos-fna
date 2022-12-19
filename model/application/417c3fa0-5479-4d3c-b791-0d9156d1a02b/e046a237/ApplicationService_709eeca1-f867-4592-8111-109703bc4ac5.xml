@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_182_Cartera_GeneraciónCertificado"
-    id="709eeca1-f867-4592-8111-109703bc4ac5"/>
+    id="709eeca1-f867-4592-8111-109703bc4ac5">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS124-ConsultarObligacionCartera"
-    id="6b3b4800-8991-4558-b943-b2b4b84123e4"/>
+    id="6b3b4800-8991-4558-b943-b2b4b84123e4">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_076_RecuperarTokenUsuario2FARq"
-    id="30aa8e94-188c-4858-a6c2-80a54299c171"/>
+    id="30aa8e94-188c-4858-a6c2-80a54299c171">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

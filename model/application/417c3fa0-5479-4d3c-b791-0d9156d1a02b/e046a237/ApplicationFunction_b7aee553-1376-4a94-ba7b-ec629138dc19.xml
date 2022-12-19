@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_181_GenerarCertificadoSaldo"
-    id="b7aee553-1376-4a94-ba7b-ec629138dc19"/>
+    id="b7aee553-1376-4a94-ba7b-ec629138dc19">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

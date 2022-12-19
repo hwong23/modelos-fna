@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_138_CuentaAVC_CrearSolicitudRetiro"
-    id="f94ccef7-5ad6-4184-a117-b128ec42ffe8"/>
+    id="f94ccef7-5ad6-4184-a117-b128ec42ffe8">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

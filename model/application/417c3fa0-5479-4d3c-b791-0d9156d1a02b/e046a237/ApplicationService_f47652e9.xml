@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_006_ClientePJ_RecuperarInformacion - CQ76477"
-    id="f47652e9"/>
+    id="f47652e9">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

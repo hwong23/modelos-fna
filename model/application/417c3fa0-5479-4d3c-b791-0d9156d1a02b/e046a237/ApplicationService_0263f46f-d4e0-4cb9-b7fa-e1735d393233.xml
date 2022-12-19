@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_165_Credito_CrearTramite"
-    id="0263f46f-d4e0-4cb9-b7fa-e1735d393233"/>
+    id="0263f46f-d4e0-4cb9-b7fa-e1735d393233">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

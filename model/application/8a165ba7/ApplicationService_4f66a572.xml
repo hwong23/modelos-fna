@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS019 - GestorConsultasClientes"
-    id="4f66a572"/>
+    id="4f66a572">
+  <properties
+      key="aplicacionProveedora"
+      value="Process Server"/>
+</archimate:ApplicationService>

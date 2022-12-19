@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_181_Cesantias_GeneracionCertificado"
-    id="71cc388b-ed62-4a9f-bf32-16afd320710e"/>
+    id="71cc388b-ed62-4a9f-bf32-16afd320710e">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

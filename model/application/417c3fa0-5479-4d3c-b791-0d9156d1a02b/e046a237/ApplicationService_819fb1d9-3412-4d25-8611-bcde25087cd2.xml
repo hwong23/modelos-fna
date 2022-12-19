@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XX2_Tesoreria_RegistrarRecaudo"
-    id="819fb1d9-3412-4d25-8611-bcde25087cd2"/>
+    id="819fb1d9-3412-4d25-8611-bcde25087cd2">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

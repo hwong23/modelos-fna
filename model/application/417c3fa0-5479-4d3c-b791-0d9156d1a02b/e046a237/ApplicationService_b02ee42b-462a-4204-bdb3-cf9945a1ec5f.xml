@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_171_Credito_ ModificarInformacionConyugeFormulario"
-    id="b02ee42b-462a-4204-bdb3-cf9945a1ec5f"/>
+    id="b02ee42b-462a-4204-bdb3-cf9945a1ec5f">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

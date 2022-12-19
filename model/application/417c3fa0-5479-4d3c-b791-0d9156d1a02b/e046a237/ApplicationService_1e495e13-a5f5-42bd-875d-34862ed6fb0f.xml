@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_216_Cartera_FirmarPagare"
-    id="1e495e13-a5f5-42bd-875d-34862ed6fb0f"/>
+    id="1e495e13-a5f5-42bd-875d-34862ed6fb0f">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

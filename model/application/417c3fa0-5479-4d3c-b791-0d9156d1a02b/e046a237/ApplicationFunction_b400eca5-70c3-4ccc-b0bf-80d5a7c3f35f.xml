@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_187_ConsultarObligacionPorIdentificacion"
-    id="b400eca5-70c3-4ccc-b0bf-80d5a7c3f35f"/>
+    id="b400eca5-70c3-4ccc-b0bf-80d5a7c3f35f">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

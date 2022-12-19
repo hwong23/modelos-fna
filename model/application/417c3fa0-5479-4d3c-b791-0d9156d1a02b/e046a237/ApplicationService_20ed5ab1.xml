@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_102_Seguridad_RemoverUsuario2FA - WI29972"
-    id="20ed5ab1"/>
+    id="20ed5ab1">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS093_modificarTramiteCredito"
-    id="7d8a65fa-df18-4663-a1dd-cd046bae8169"/>
+    id="7d8a65fa-df18-4663-a1dd-cd046bae8169">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

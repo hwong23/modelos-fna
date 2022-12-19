@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_187_ValidarRecaudoPorObligacion"
-    id="2fabd51b-7762-449a-983f-58ea0167f12c"/>
+    id="2fabd51b-7762-449a-983f-58ea0167f12c">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_215_Cartera_ConsultarPagare"
-    id="e1d37f99-4a98-4347-accc-f9ed7c4221fc"/>
+    id="e1d37f99-4a98-4347-accc-f9ed7c4221fc">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

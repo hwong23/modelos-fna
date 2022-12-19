@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_231_Credito_ConsultarSimulacionHipotecario"
-    id="4605282f-5517-466b-9b59-75bab3960d16"/>
+    id="4605282f-5517-466b-9b59-75bab3960d16">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

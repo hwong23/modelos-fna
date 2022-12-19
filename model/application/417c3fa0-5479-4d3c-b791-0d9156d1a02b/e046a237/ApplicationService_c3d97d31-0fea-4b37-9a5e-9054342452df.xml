@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XXX_GestorDocumental_ConsultarRadicado"
-    id="c3d97d31-0fea-4b37-9a5e-9054342452df"/>
+    id="c3d97d31-0fea-4b37-9a5e-9054342452df">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

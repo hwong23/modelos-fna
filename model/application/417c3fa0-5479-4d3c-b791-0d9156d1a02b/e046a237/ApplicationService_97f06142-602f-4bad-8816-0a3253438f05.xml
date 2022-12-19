@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_044_ClntePrsnaNtral_Crear"
-    id="97f06142-602f-4bad-8816-0a3253438f05"/>
+    id="97f06142-602f-4bad-8816-0a3253438f05">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

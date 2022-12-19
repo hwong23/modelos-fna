@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS151-GeneracionFormularioTramitedeCredito"
-    id="569d6815-4e12-4a18-9417-f284d8651cba"/>
+    id="569d6815-4e12-4a18-9417-f284d8651cba">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationService>

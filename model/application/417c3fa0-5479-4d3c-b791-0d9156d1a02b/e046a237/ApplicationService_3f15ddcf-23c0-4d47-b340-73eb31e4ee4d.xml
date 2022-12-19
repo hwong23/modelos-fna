@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XXX_Seguridad-ConsultarCertificadoDigital"
-    id="3f15ddcf-23c0-4d47-b340-73eb31e4ee4d"/>
+    id="3f15ddcf-23c0-4d47-b340-73eb31e4ee4d">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

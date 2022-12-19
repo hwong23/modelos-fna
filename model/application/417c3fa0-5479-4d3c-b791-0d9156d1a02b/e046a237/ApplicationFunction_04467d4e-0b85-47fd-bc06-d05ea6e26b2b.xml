@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_216_firmarPagare"
-    id="04467d4e-0b85-47fd-bc06-d05ea6e26b2b"/>
+    id="04467d4e-0b85-47fd-bc06-d05ea6e26b2b">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

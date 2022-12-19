@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_187_Tesoreria_RecaudoConsultarPorIdentificacion"
-    id="d33093e2-7818-4b6a-925d-5afe9fe7872e"/>
+    id="d33093e2-7818-4b6a-925d-5afe9fe7872e">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

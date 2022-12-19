@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="WI2896 -  ESB_048_ClientePN_GestionarCredenciales"
-    id="3cfab124"/>
+    id="3cfab124">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

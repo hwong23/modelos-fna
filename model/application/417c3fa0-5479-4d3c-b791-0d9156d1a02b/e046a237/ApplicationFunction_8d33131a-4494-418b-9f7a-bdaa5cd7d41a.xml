@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_168_modificarInformacionLaboralFormulario"
-    id="8d33131a-4494-418b-9f7a-bdaa5cd7d41a"/>
+    id="8d33131a-4494-418b-9f7a-bdaa5cd7d41a">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

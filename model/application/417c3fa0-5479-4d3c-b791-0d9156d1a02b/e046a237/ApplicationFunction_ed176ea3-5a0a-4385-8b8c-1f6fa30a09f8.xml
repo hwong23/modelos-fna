@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_185_enviarFacturaObligacionCartera"
-    id="ed176ea3-5a0a-4385-8b8c-1f6fa30a09f8"/>
+    id="ed176ea3-5a0a-4385-8b8c-1f6fa30a09f8">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

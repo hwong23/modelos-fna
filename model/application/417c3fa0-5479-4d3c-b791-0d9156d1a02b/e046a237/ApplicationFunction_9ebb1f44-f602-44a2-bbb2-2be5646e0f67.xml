@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_076_RecuperarTareaAprov2FARq"
-    id="9ebb1f44-f602-44a2-bbb2-2be5646e0f67"/>
+    id="9ebb1f44-f602-44a2-bbb2-2be5646e0f67">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

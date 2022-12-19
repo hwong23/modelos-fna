@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_162_ClientePersonaNatural_CreacionRelacionCliente"
-    id="338459f5-5045-426f-9907-c7fd39ade51a"/>
+    id="338459f5-5045-426f-9907-c7fd39ade51a">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

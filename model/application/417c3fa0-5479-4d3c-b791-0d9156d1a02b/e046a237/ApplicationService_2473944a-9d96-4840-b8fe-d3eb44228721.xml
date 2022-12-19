@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_195_GestorDocumental_InicioFlujoTrabajoDocumento"
-    id="2473944a-9d96-4840-b8fe-d3eb44228721"/>
+    id="2473944a-9d96-4840-b8fe-d3eb44228721">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

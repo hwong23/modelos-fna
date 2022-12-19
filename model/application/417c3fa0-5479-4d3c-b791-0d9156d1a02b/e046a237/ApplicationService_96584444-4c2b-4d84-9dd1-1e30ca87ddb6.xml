@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_201_Comercial_crearProspecto"
-    id="96584444-4c2b-4d84-9dd1-1e30ca87ddb6"/>
+    id="96584444-4c2b-4d84-9dd1-1e30ca87ddb6">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

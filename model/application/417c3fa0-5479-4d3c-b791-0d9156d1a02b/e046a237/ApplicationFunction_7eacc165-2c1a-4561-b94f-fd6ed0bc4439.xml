@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_182_enviarCertificadoIntereses"
-    id="7eacc165-2c1a-4561-b94f-fd6ed0bc4439"/>
+    id="7eacc165-2c1a-4561-b94f-fd6ed0bc4439">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

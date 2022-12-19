@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_184_Cesantias_GeneracionExtractoCuenta"
-    id="c1f35525-0879-4b4b-9c81-8f805a50ccde"/>
+    id="c1f35525-0879-4b4b-9c81-8f805a50ccde">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

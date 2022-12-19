@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_209_simular"
-    id="97362cec-6979-49a3-ab31-02721230638d"/>
+    id="97362cec-6979-49a3-ab31-02721230638d">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

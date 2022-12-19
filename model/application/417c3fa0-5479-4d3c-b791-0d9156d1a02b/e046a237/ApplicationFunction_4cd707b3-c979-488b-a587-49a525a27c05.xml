@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_187_ConfirmarRecaudo"
-    id="4cd707b3-c979-488b-a587-49a525a27c05"/>
+    id="4cd707b3-c979-488b-a587-49a525a27c05">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

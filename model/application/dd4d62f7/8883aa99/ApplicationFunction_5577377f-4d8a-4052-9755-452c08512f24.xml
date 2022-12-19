@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS060-EnviarCertificadoCesantiasSinSaldo"
-    id="5577377f-4d8a-4052-9755-452c08512f24"/>
+    id="5577377f-4d8a-4052-9755-452c08512f24">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

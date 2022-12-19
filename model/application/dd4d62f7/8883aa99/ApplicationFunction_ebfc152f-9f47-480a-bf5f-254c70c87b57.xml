@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS137-validarPoliticasParaSolicitudRetiroAVC"
-    id="ebfc152f-9f47-480a-bf5f-254c70c87b57"/>
+    id="ebfc152f-9f47-480a-bf5f-254c70c87b57">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

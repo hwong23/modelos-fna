@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_XX2_registrarRecaudo"
-    id="18244c6e-6db0-4ba4-94e1-c3e51f95380d"/>
+    id="18244c6e-6db0-4ba4-94e1-c3e51f95380d">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

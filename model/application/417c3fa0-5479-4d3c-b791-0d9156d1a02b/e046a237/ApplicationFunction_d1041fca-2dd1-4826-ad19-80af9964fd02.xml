@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_048_CambiarClaveUsuario"
-    id="d1041fca-2dd1-4826-ad19-80af9964fd02"/>
+    id="d1041fca-2dd1-4826-ad19-80af9964fd02">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

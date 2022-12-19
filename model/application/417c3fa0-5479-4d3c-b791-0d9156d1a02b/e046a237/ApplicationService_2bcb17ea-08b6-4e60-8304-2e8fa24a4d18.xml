@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_023_ClientePersonaNatural_RecuperarInformacionConsolidada"
-    id="2bcb17ea-08b6-4e60-8304-2e8fa24a4d18"/>
+    id="2bcb17ea-08b6-4e60-8304-2e8fa24a4d18">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

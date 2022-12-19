@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS079_generarExtractoResumenPorRangoFecha "
-    id="40111050-3519-4f4f-8737-befbb185b8b1"/>
+    id="40111050-3519-4f4f-8737-befbb185b8b1">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

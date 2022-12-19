@@ -6,4 +6,7 @@
       key="WI"
       value="WI4684 "/>
   <properties/>
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
 </archimate:ApplicationService>

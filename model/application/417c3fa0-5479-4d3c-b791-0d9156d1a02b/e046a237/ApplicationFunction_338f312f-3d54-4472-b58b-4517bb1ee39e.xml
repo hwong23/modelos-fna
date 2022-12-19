@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_176_verificarNotificacionesPush"
-    id="338f312f-3d54-4472-b58b-4517bb1ee39e"/>
+    id="338f312f-3d54-4472-b58b-4517bb1ee39e">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

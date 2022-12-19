@@ -5,4 +5,7 @@
   <properties
       key="WI"
       value="CQ162265"/>
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
 </archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_147_Credito_DetalleTramiteLegalizadora"
-    id="cf49aa5a-244c-4a51-852a-920973f437bb"/>
+    id="cf49aa5a-244c-4a51-852a-920973f437bb">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

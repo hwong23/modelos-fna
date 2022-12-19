@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_233_Credito_GuardarSimulacionHipotecario"
-    id="16ddc987-820d-4131-aeed-3cd70c86b429"/>
+    id="16ddc987-820d-4131-aeed-3cd70c86b429">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationService>

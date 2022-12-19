@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_187_ValidarEstadoServicio"
-    id="15e39dc0-8b68-4b08-bf2d-f9d95530cbcc"/>
+    id="15e39dc0-8b68-4b08-bf2d-f9d95530cbcc">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

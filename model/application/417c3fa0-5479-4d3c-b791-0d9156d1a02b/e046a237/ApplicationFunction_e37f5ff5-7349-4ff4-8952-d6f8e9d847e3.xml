@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB_076_EnrolarUsuario2FARq"
-    id="e37f5ff5-7349-4ff4-8952-d6f8e9d847e3"/>
+    id="e37f5ff5-7349-4ff4-8952-d6f8e9d847e3">
+  <properties
+      key="aplicacionProveedora"
+      value="ESB"/>
+</archimate:ApplicationFunction>

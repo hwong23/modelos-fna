@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS150-modificarReferenciaFormulario"
-    id="974ff4bc-2283-42c5-b5cf-e75efc7bb9e8"/>
+    id="974ff4bc-2283-42c5-b5cf-e75efc7bb9e8">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>

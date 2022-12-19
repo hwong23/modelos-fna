@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AS060-GenerarCertificadoTiempoTrasladoCesantias"
-    id="e14a3e7c-4b5f-4dfa-a843-fe3a136d3273"/>
+    id="e14a3e7c-4b5f-4dfa-a843-fe3a136d3273">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationFunction>
