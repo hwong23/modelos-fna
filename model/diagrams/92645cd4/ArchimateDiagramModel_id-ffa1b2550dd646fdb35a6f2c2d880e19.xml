@@ -11,7 +11,7 @@
     <bounds
         x="24"
         y="216"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -24,7 +24,7 @@
     <bounds
         x="24"
         y="289"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -36,7 +36,7 @@
     <bounds
         x="24"
         y="504"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -49,7 +49,7 @@
     <bounds
         x="24"
         y="360"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -62,7 +62,7 @@
     <bounds
         x="24"
         y="432"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
