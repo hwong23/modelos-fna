@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adaptador Integración Cobis"
+    id="id-4d7f1051569d4ea3bdcf0bf6c8f58040">
+  <properties
+      key="impacto"
+      value="0"/>
+  <properties
+      key="brecha"
+      value="sustitución"/>
+</archimate:ApplicationComponent>

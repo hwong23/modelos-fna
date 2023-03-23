@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicios Cobis"
+    id="id-dbb54e6e87c94b7fa8da73c28000e263">
+  <properties
+      key="impacto"
+      value="60"/>
+  <properties
+      key="brecha"
+      value="actualización"/>
+</archimate:ApplicationService>

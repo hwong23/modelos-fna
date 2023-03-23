@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cobis "
+    id="id-f922bd91d91d4a2486b72af3794ac9cf">
+  <properties
+      key="impacto"
+      value="60"/>
+  <properties
+      key="brecha"
+      value="actualizacion"/>
+</archimate:ApplicationComponent>

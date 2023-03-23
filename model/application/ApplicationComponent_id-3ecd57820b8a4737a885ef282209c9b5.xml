@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adaptador Tecnologia SOAP"
+    id="id-3ecd57820b8a4737a885ef282209c9b5">
+  <properties
+      key="impacto"
+      value="0"/>
+  <properties
+      key="brecha"
+      value="sustitución"/>
+</archimate:ApplicationComponent>

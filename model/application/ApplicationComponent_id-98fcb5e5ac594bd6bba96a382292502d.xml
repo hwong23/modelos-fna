@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bizagi IBM (java)"
+    id="id-98fcb5e5ac594bd6bba96a382292502d">
+  <properties
+      key="impacto"
+      value="60"/>
+  <properties
+      key="brecha"
+      value="actualizacion"/>
+</archimate:ApplicationComponent>

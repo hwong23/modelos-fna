@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cuadro Ventas CCP"
+    id="id-e794df80ce9b4443a20a68eedd613a8b">
+  <properties
+      key="impacto"
+      value="60"/>
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
+  <properties
+      key="brecha"
+      value="actualizacion"/>
+</archimate:ApplicationComponent>
