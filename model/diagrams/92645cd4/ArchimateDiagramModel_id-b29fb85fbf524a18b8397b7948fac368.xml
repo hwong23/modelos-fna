@@ -9,9 +9,9 @@
       id="id-aaa8bc23cbdf479ab8b03f03a0c7f531"
       targetConnections="id-353f4fb9d19446b58cc9d85e2a1bba4e id-d508ac960af0469f8f7626ce000f2bc8 id-c9d029fc951e4b1d880d8d367eae875e id-ee588493c76844ad99e9d46d50a61354">
     <bounds
-        x="24"
+        x="-24"
         y="36"
-        width="120"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -22,9 +22,9 @@
       id="id-9620ccd7da154b59af3b6d3043c874b1"
       targetConnections="id-979e9f12d6b54b07933645f1aec1a2e5 id-5e6630c7b42a4501b178c7dd4e7f3d9f id-e01cd43738624eb69072b7e0c5ba9200 id-556a2770b1f74e69b8a578b84543e099">
     <bounds
-        x="24"
+        x="-24"
         y="109"
-        width="120"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -34,9 +34,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2ade60339ef84ad7888b1f9ca57b4bfd">
     <bounds
-        x="24"
+        x="-24"
         y="324"
-        width="120"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -47,9 +47,9 @@
       id="id-ef9a11282fe44983ae39d1d20402ba54"
       targetConnections="id-1523fe1a93ec4fa88a1b1b461e1c7439 id-d6048885e1f240d38457c29aaee9b799 id-0d2831d6d1e1434ca5f6a90ab8ca8793 id-cc55511751714afd869b88ebc210cdec">
     <bounds
-        x="24"
+        x="-24"
         y="180"
-        width="120"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -60,9 +60,9 @@
       id="id-8c0c088ce86541a29605c8871087d63f"
       targetConnections="id-4ebab2b713054e7e86779aa57d4cb1ad id-6c4f30ef54064c049d0e3908a654b565 id-db5cd14cd9aa4cd68a0ed22b839a5236">
     <bounds
-        x="24"
+        x="-24"
         y="252"
-        width="120"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
