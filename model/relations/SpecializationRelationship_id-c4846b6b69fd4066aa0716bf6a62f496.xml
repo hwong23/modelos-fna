@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aumenta"
+    id="id-c4846b6b69fd4066aa0716bf6a62f496">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c7eebf6d9cf8479e91674a2d9445edc0.xml#id-c7eebf6d9cf8479e91674a2d9445edc0"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-7c3a56e6eb8d4f88b96ead473d882cf3.xml#id-7c3a56e6eb8d4f88b96ead473d882cf3"/>
+</archimate:SpecializationRelationship>
