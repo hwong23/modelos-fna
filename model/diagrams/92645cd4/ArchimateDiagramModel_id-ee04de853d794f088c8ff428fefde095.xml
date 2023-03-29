@@ -378,17 +378,6 @@
         href="WorkPackage_id-e165645706214c6db8620a9205549684.xml#id-e165645706214c6db8620a9205549684"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-de12a5da05344ec8b769dc1a9a8ff137"
-      textAlignment="1"
-      content="Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023&#xD;&#xA;&#xA;Abril 2023 a Dic 2023&#xD;&#xA;&#xD;&#xA;Ver 1.0">
-    <bounds
-        x="34"
-        y="22"
-        width="265"
-        height="99"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-69f9309e90aa43b79e06faa842e127d7"
       targetConnections="id-cc8f0309026b4e8d83dd394c926921f2">
@@ -483,5 +472,15 @@
         y="228"
         width="185"
         height="48"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2167ae32d7ab4ce5af38d0fdbfd7dd1b"
+      textAlignment="1"
+      content="Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023&#xD;&#xA;&#xA;Pryecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA&#xA;Abril 2023 a Agosto 2023&#xD;&#xA;&#xD;&#xA;Ver 1.1">
+    <bounds
+        x="34"
+        width="339"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>
