@@ -1,0 +1,9 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fase 1. Definición gobierno"
+    id="id-3cf171d307214ab1819264ad9035d7a1"
+    documentation="Diagnóstico situación actual&#xD;&#xA;---&#xD;&#xA;&#xD;&#xA;PR1. SOA Actual&#xD;&#xA;PR2. Estudio Madurez SOA FNA&#xD;&#xA;PR3. Resultado Diagnóstico Situación Actual&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Actividades planeación Fase 1&#xD;&#xA;----------&#xD;&#xA;1. desglosar PR de Fase 2: tabla de contenidos de cada producto&#xD;&#xA;2. distribución responsabilidad (encargado) de productos&#xD;&#xA;--PR1. SOA Actual&#xD;&#xA;--PR2. Estudio Madurez SOA FNA&#xD;&#xA;--PR3. Resultado Diagnóstico Situación Actual&#xD;&#xA;&#xD;&#xA;3. (4dic): enviar para aprobación (tablas) Contenidos de los productos; miércoles, &#xD;&#xA;4. (9dic): presentación Inicio Fase 2 (kickoff)&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;https://github.com/hwong23/fna-devdoc-f1.git">
+  <properties
+      key="Valor"
+      value="555"/>
+</archimate:WorkPackage>
