@@ -381,7 +381,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-db9103d1b02c424bb91bc7d2ae14bd93"
       textAlignment="1"
-      content="Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023&#xD;&#xA;&#xA;Abril 2023 a Dic 2023&#xD;&#xA;&#xD;&#xA;Ver 1.0">
+      content="Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023&#xD;&#xA;&#xA;Abril 2023 a Agosto 2023&#xD;&#xA;&#xD;&#xA;Ver 1.1">
     <bounds
         x="34"
         y="22"
@@ -450,7 +450,7 @@
       id="id-168557f771fb4fcf94d5c71364bd8204"
       fontColor="#ff9300"
       textAlignment="1"
-      content="abril/ 2023&#xA;mayo/ 2023"
+      content="abril/ 2023&#xA;"
       borderType="2">
     <bounds
         x="168"
@@ -463,7 +463,7 @@
       id="id-0138690394c94d18b408d2e037737214"
       fontColor="#ff9300"
       textAlignment="1"
-      content="junio/ 2023&#xA;septiembre/ 2023"
+      content="junio/ 2023"
       borderType="2">
     <bounds
         x="444"
@@ -476,7 +476,7 @@
       id="id-8b66d0f65e79404ca3b9dfbad4b0551f"
       fontColor="#ff9300"
       textAlignment="1"
-      content="septiembre/ 2023&#xA;dic/ 2023"
+      content="agosto/ 2023"
       borderType="2">
     <bounds
         x="816"

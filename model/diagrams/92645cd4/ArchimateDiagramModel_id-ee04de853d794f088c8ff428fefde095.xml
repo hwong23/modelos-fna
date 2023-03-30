@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-2167ae32d7ab4ce5af38d0fdbfd7dd1b"
       textAlignment="1"
-      content="Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023&#xD;&#xA;&#xA;Pryecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA&#xA;Abril 2023 a Agosto 2023&#xD;&#xA;&#xD;&#xA;Ver 1.1">
+      content="Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023&#xD;&#xA;&#xA;Pryecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA&#xA;Abril 2023 a Agosto 2023&#xD;&#xA;&#xD;&#xA;Ver 1.2">
     <bounds
         x="34"
         width="339"
@@ -427,7 +427,7 @@
       content="mayo/ 2023"
       borderType="2">
     <bounds
-        x="154"
+        x="34"
         y="240"
         width="185"
         height="48"/>
@@ -440,7 +440,7 @@
       content="junio/ 2023&#xA;agosto/ 2023"
       borderType="2">
     <bounds
-        x="636"
+        x="576"
         y="240"
         width="185"
         height="48"/>
