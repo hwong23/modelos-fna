@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-541406e53cbb4fb3b095f17a41615903"
       textAlignment="1"
-      content="Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023&#xD;&#xA;&#xA;Proyecto 1 (PRY01). Gobierno FNA&#xA;Abril 2023 a Agosto 2023&#xD;&#xA;&#xD;&#xA;Ver 1.2">
+      content="Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023&#xD;&#xA;&#xA;Proyecto 1 (PRY01). Gobierno FNA&#xA;Abril 2023 a Agosto 2023&#xD;&#xA;&#xD;&#xA;Ver 1.4">
     <bounds
         x="34"
         width="339"
@@ -65,7 +65,7 @@
     </sourceConnections>
     <bounds
         x="34"
-        y="324"
+        y="168"
         width="962"
         height="385"/>
     <children
@@ -356,80 +356,120 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-dcdb9aa24dcd4cc78b0ec9993d62a817"
-      targetConnections="id-cd34585b31c24c2cbf0ff2563bd25a4d">
+      id="id-ee4b2fd7676741cabcc577562ae42a97"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-21e4347a5bf64e85bd9764f70970f4a5"
+        source="id-ee4b2fd7676741cabcc577562ae42a97"
+        target="id-9d685c2e36ec4a138ff6627935ec82bf">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-9188d52425144c01a55ad83a792e1908.xml#id-9188d52425144c01a55ad83a792e1908"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c52cdb1c22da4b46a9acd3d3762b7e8c"
+        source="id-ee4b2fd7676741cabcc577562ae42a97"
+        target="id-dcdb9aa24dcd4cc78b0ec9993d62a817">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-f8d117cd3a2c42ee90527d27cb5b9cff.xml#id-f8d117cd3a2c42ee90527d27cb5b9cff"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e9306ca763c84f5383f6060c6aa671a3"
+        source="id-ee4b2fd7676741cabcc577562ae42a97"
+        target="id-7f5fb378c8814af697ca934cf2ac74e0">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-66bc449bc9694bddad6f1a540d8ddcb4.xml#id-66bc449bc9694bddad6f1a540d8ddcb4"/>
+    </sourceConnections>
     <bounds
-        x="60"
-        y="156"
-        width="193"
-        height="72"/>
+        x="34"
+        y="588"
+        width="962"
+        height="180"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-dcdb9aa24dcd4cc78b0ec9993d62a817"
+        targetConnections="id-cd34585b31c24c2cbf0ff2563bd25a4d id-c52cdb1c22da4b46a9acd3d3762b7e8c">
+      <bounds
+          x="24"
+          y="48"
+          width="193"
+          height="72"/>
+      <archimateElement
+          xsi:type="archimate:Plateau"
+          href="Plateau_id-db7ef519134c40dca55235bc3d9c2b3c.xml#id-db7ef519134c40dca55235bc3d9c2b3c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9d685c2e36ec4a138ff6627935ec82bf"
+        targetConnections="id-06c5d890e258497b8fe4b98620168851 id-2fe0ce4d773c467fb6ec92f75ad09c89 id-21e4347a5bf64e85bd9764f70970f4a5">
+      <bounds
+          x="312"
+          y="48"
+          width="193"
+          height="72"/>
+      <archimateElement
+          xsi:type="archimate:Plateau"
+          href="Plateau_id-87dfe95d48ac4e7b86e33a5a96a0897e.xml#id-87dfe95d48ac4e7b86e33a5a96a0897e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7f5fb378c8814af697ca934cf2ac74e0"
+        targetConnections="id-93b21bb41ae649549f883da29c8d16be id-4318767a4d6147bb9428c16ee84d4aaf id-e9306ca763c84f5383f6060c6aa671a3">
+      <bounds
+          x="636"
+          y="48"
+          width="193"
+          height="72"/>
+      <archimateElement
+          xsi:type="archimate:Plateau"
+          href="Plateau_id-fd1670f6f9354ba1abd45acc2c883fa1.xml#id-fd1670f6f9354ba1abd45acc2c883fa1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3f352039618544a1b500b801098be0b5"
+        fontColor="#ff9300"
+        textAlignment="1"
+        content="abril/ 2023"
+        borderType="2">
+      <bounds
+          x="24"
+          y="120"
+          width="185"
+          height="48"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-2d83e78d5fac45af8a45b8bcdeac2bc3"
+        fontColor="#ff9300"
+        textAlignment="1"
+        content="mayo/ 2023&#xA;junio/ 2023"
+        borderType="2">
+      <bounds
+          x="312"
+          y="120"
+          width="185"
+          height="48"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-dbd7b8b251014874a9530e40101d3abb"
+        fontColor="#ff9300"
+        textAlignment="1"
+        content="junio/ 2023&#xA;agosto/ 2023"
+        borderType="2">
+      <bounds
+          x="636"
+          y="120"
+          width="185"
+          height="48"/>
+    </children>
     <archimateElement
-        xsi:type="archimate:Plateau"
-        href="Plateau_id-db7ef519134c40dca55235bc3d9c2b3c.xml#id-db7ef519134c40dca55235bc3d9c2b3c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7f5fb378c8814af697ca934cf2ac74e0"
-      targetConnections="id-93b21bb41ae649549f883da29c8d16be id-4318767a4d6147bb9428c16ee84d4aaf">
-    <bounds
-        x="672"
-        y="156"
-        width="193"
-        height="72"/>
-    <archimateElement
-        xsi:type="archimate:Plateau"
-        href="Plateau_id-fd1670f6f9354ba1abd45acc2c883fa1.xml#id-fd1670f6f9354ba1abd45acc2c883fa1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3f352039618544a1b500b801098be0b5"
-      fontColor="#ff9300"
-      textAlignment="1"
-      content="abril/ 2023"
-      borderType="2">
-    <bounds
-        x="60"
-        y="228"
-        width="185"
-        height="48"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-2d83e78d5fac45af8a45b8bcdeac2bc3"
-      fontColor="#ff9300"
-      textAlignment="1"
-      content="mayo/ 2023&#xA;junio/ 2023"
-      borderType="2">
-    <bounds
-        x="348"
-        y="228"
-        width="185"
-        height="48"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-dbd7b8b251014874a9530e40101d3abb"
-      fontColor="#ff9300"
-      textAlignment="1"
-      content="junio/ 2023&#xA;agosto/ 2023"
-      borderType="2">
-    <bounds
-        x="672"
-        y="228"
-        width="185"
-        height="48"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9d685c2e36ec4a138ff6627935ec82bf"
-      targetConnections="id-06c5d890e258497b8fe4b98620168851 id-2fe0ce4d773c467fb6ec92f75ad09c89">
-    <bounds
-        x="348"
-        y="156"
-        width="193"
-        height="72"/>
-    <archimateElement
-        xsi:type="archimate:Plateau"
-        href="Plateau_id-87dfe95d48ac4e7b86e33a5a96a0897e.xml#id-87dfe95d48ac4e7b86e33a5a96a0897e"/>
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-16ff383e07174e26836db5fe885b123f.xml#id-16ff383e07174e26836db5fe885b123f"/>
   </children>
 </archimate:ArchimateDiagramModel>
