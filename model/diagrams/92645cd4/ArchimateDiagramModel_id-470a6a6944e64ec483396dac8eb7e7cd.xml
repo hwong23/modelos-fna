@@ -10,7 +10,7 @@
     <bounds
         x="28"
         y="24"
-        width="416"
+        width="476"
         height="36"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
@@ -34,9 +34,9 @@
       id="id-e9083b808e194d7e963ddf85c83c16c4"
       fillColor="#ffffff">
     <bounds
-        x="864"
+        x="828"
         y="24"
-        width="108"
+        width="144"
         height="36"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
