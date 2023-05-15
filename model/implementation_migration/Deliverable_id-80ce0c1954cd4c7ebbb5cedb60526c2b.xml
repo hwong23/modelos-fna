@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes"
-    id="id-80ce0c1954cd4c7ebbb5cedb60526c2b"/>
+    id="id-80ce0c1954cd4c7ebbb5cedb60526c2b">
+  <properties
+      key="alcanseSOA"
+      value="PRY01"/>
+</archimate:Deliverable>

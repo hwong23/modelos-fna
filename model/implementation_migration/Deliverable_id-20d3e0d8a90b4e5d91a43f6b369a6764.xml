@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes"
     id="id-20d3e0d8a90b4e5d91a43f6b369a6764"
-    documentation="## PR1 SOA Actual&#xD;&#xA;... &#xD;&#xA;"/>
+    documentation="## PR1 SOA Actual&#xD;&#xA;... &#xD;&#xA;">
+  <properties
+      key="alcanseSOA"
+      value="PRY02"/>
+</archimate:Deliverable>

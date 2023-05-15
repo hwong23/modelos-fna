@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fase 0. Levantamiento"
     id="id-68779b91543e457087bc255dcb6de5c7"
-    documentation="Métodos&#xD;&#xA;Herramientas&#xD;&#xA;Equipo&#xD;&#xA;Recursos&#xD;&#xA;Comunicación&#xD;&#xA;Cronograma&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Métodos&#xD;&#xA;Herramientas&#xD;&#xA;Equipo&#xD;&#xA;Recursos&#xD;&#xA;Comunicación&#xD;&#xA;Cronograma&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="alcanseSOA"
+      value="PRY01"/>
+</archimate:WorkPackage>

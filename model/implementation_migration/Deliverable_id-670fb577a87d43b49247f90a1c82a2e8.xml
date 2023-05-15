@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="- PR07. Métricas de efectividad del gobierno"
-    id="id-670fb577a87d43b49247f90a1c82a2e8"/>
+    id="id-670fb577a87d43b49247f90a1c82a2e8">
+  <properties
+      key="alcanseSOA"
+      value="PRY01"/>
+</archimate:Deliverable>
