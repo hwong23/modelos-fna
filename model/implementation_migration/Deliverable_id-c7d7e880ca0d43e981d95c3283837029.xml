@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​"
     id="id-c7d7e880ca0d43e981d95c3283837029"
-    documentation="## PR2 Estudio Madurez SOA FNA&#xD;&#xA;...&#xD;&#xA;"/>
+    documentation="## PR2 Estudio Madurez SOA FNA&#xD;&#xA;...&#xD;&#xA;">
+  <properties
+      key="alcanseSOA"
+      value="PRY02"/>
+</archimate:Deliverable>

@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR03. Diseño de los procesos y responsabilidades del comité de gobierno"
-    id="id-7d926d1289c842789bd9b02a8f48a03c"/>
+    id="id-7d926d1289c842789bd9b02a8f48a03c">
+  <properties
+      key="alcanseSOA"
+      value="PRY01"/>
+</archimate:Deliverable>

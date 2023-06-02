@@ -6,9 +6,6 @@
       key="impacto"
       value="60"/>
   <properties
-      key="alcanseSOA"
-      value="Fase 1.1"/>
-  <properties
       key="brecha"
       value="actualizacion"/>
 </archimate:ApplicationComponent>

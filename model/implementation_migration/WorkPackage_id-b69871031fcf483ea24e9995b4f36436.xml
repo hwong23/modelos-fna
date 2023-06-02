@@ -6,4 +6,7 @@
   <properties
       key="Valor"
       value="555"/>
+  <properties
+      key="alcanseSOA"
+      value="PRY02"/>
 </archimate:WorkPackage>

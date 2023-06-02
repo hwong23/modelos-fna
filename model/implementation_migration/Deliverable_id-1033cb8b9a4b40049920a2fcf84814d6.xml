@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR01. Detalle de los ítems de arquitectura impactados por el proyecto "
-    id="id-1033cb8b9a4b40049920a2fcf84814d6"/>
+    id="id-1033cb8b9a4b40049920a2fcf84814d6">
+  <properties
+      key="alcanseSOA"
+      value="PRY01"/>
+</archimate:Deliverable>

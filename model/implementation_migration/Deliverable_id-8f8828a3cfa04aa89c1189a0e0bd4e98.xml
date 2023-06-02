@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar"
     id="id-8f8828a3cfa04aa89c1189a0e0bd4e98"
-    documentation="Métodos&#xD;&#xA;Herramientas&#xD;&#xA;Equipo&#xD;&#xA;Recursos&#xD;&#xA;Comunicación&#xD;&#xA;Cronograma&#xD;&#xA;"/>
+    documentation="Métodos&#xD;&#xA;Herramientas&#xD;&#xA;Equipo&#xD;&#xA;Recursos&#xD;&#xA;Comunicación&#xD;&#xA;Cronograma&#xD;&#xA;">
+  <properties
+      key="alcanseSOA"
+      value="PRY03"/>
+</archimate:Deliverable>

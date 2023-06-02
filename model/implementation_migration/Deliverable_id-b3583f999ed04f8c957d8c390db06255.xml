@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos"
-    id="id-b3583f999ed04f8c957d8c390db06255"/>
+    id="id-b3583f999ed04f8c957d8c390db06255">
+  <properties
+      key="alcanseSOA"
+      value="PRY01"/>
+</archimate:Deliverable>
