@@ -4,7 +4,7 @@
     id="53c01560-a3e9-4a72-981d-7e711a8b17f8">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_5a17ac91-3352-4311-ba0f-9253c120bc72.xml#5a17ac91-3352-4311-ba0f-9253c120bc72"/>
+      href="ApplicationComponent_f8a1a465.xml#f8a1a465"/>
   <target
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_52f7056c.xml#52f7056c"/>
