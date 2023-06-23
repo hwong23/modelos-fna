@@ -1,7 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR01. Detalle de los ítems de arquitectura impactados por el proyecto "
-    id="id-1033cb8b9a4b40049920a2fcf84814d6">
+    id="id-1033cb8b9a4b40049920a2fcf84814d6"
+    documentation=">    E-Service. Fase II&#xA;> &#xA;>    PRY01 Gobierno SOA. Contenido de los Productos Contractuales&#xA;> &#xA;>    Contrato 1812020&#xA;> &#xA;>    FNA, Stefanini&#xA;> &#xA;>    $FECHA_COMPILACION&#xA;>&#xA;>    **Versión** 1.$COMMIT&#xA;&#xA;&lt;br>&#xA;&#xA;# Producto 1: PR01. Detalle de los ítems de arquitectura impactados por el proyecto &#xA;Lista de las partes de la arquitectura actual del FNA relacionados con el Gobierno SOA, objeto del proyecto.&#xA;&#xA;**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.&#xA;&#xA;&lt;br>&#xA;&#xA;## Justificación&#xA;Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, en su  Etapa 0, tal que garantice la continuidad y ejecución de la etapa&#xA;&#xA;## Contenidos&#xA;1. Vista de segmento de la empresa, campo de acción del proyecto&#xA;1. Justificación del segmento de la empresa susceptibles de gobierno&#xA;1. Flujos críticos de trabajo sensibles al gobierno (relación con E-Service, Fase I)&#xA;&#xA;&lt;br>&#xA;&#xA;## Criterios de Aceptación&#xA;&#xA;* Lista de los ítems de arquitectura y flujos críticos de trabajo sujetos al gobierno SOA&#xA;* Descripción de los ítems del segmento de la empresa del proyecto 1 (PRY01), gobierno SOA FNA&#xA;&#xA;&lt;br>&#xA;&#xA;">
   <properties
       key="alcanseSOA"
       value="PRY01"/>
