@@ -824,7 +824,7 @@
       <bounds
           x="936"
           y="36"
-          width="216"
+          width="228"
           height="456"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -833,7 +833,7 @@
         <bounds
             x="36"
             y="36"
-            width="144"
+            width="168"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Constraint"
@@ -846,7 +846,7 @@
         <bounds
             x="36"
             y="96"
-            width="144"
+            width="168"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Constraint"
@@ -859,7 +859,7 @@
         <bounds
             x="36"
             y="156"
-            width="144"
+            width="168"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Constraint"
@@ -872,7 +872,7 @@
         <bounds
             x="36"
             y="216"
-            width="144"
+            width="168"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Constraint"
@@ -885,7 +885,7 @@
         <bounds
             x="36"
             y="276"
-            width="144"
+            width="168"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Constraint"
@@ -898,7 +898,7 @@
         <bounds
             x="36"
             y="336"
-            width="144"
+            width="168"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Constraint"
@@ -911,7 +911,7 @@
         <bounds
             x="36"
             y="396"
-            width="144"
+            width="168"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Constraint"
