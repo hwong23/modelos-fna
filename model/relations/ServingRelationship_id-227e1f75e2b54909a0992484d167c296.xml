@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="incidencia"
+    id="id-227e1f75e2b54909a0992484d167c296">
+  <source
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_id-0698e33d751a4b15931ed6aab4508fe6.xml#id-0698e33d751a4b15931ed6aab4508fe6"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-307c42587b714fc5847206e4aca764c6.xml#id-307c42587b714fc5847206e4aca764c6"/>
+</archimate:ServingRelationship>
