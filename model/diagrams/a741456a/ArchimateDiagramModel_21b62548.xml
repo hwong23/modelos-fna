@@ -551,23 +551,6 @@
           type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="e32a36cd"
-            source="2422fff9"
-            target="2ac1806d">
-          <bendpoints
-              startY="247"
-              endX="-972"
-              endY="180"/>
-          <bendpoints
-              startX="972"
-              startY="247"
-              endY="180"/>
-          <archimateRelationship
-              xsi:type="archimate:AggregationRelationship"
-              href="AggregationRelationship_a9bdd097.xml#a9bdd097"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="3c4e715a"
             source="2422fff9"
             target="a88afc6b">
@@ -583,6 +566,23 @@
           <archimateRelationship
               xsi:type="archimate:AggregationRelationship"
               href="AggregationRelationship_b59ae6f2.xml#b59ae6f2"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="e32a36cd"
+            source="2422fff9"
+            target="2ac1806d">
+          <bendpoints
+              startY="247"
+              endX="-972"
+              endY="180"/>
+          <bendpoints
+              startX="972"
+              startY="247"
+              endY="180"/>
+          <archimateRelationship
+              xsi:type="archimate:AggregationRelationship"
+              href="AggregationRelationship_a9bdd097.xml#a9bdd097"/>
         </sourceConnections>
         <bounds
             x="12"
@@ -626,7 +626,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="fa2bf814"
-            targetConnections="f013ffa5 15ec3b7a">
+            targetConnections="15ec3b7a f013ffa5">
           <bounds
               x="12"
               y="36"

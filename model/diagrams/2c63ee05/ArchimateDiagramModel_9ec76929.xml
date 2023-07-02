@@ -556,20 +556,6 @@
           type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="e6a34c7b"
-            source="db04e4d4"
-            target="0f4ed511">
-          <bendpoints
-              startX="168"
-              startY="-53"
-              endX="74"
-              endY="43"/>
-          <archimateRelationship
-              xsi:type="archimate:ServingRelationship"
-              href="ServingRelationship_947a6bc5.xml#947a6bc5"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="d08403fe"
             source="db04e4d4"
             target="91cb66e9">
@@ -586,6 +572,20 @@
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_f751635a.xml#f751635a"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="e6a34c7b"
+            source="db04e4d4"
+            target="0f4ed511">
+          <bendpoints
+              startX="168"
+              startY="-53"
+              endX="74"
+              endY="43"/>
+          <archimateRelationship
+              xsi:type="archimate:ServingRelationship"
+              href="ServingRelationship_947a6bc5.xml#947a6bc5"/>
         </sourceConnections>
         <bounds
             x="229"
@@ -889,15 +889,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c06e3d8d"
-        source="1a99b100"
-        target="8313897c">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_7eedd372.xml#7eedd372"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="0735d3a3"
         source="1a99b100"
         target="2f1d7eff">
@@ -922,6 +913,15 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_8df5cdff.xml#8df5cdff"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c06e3d8d"
+        source="1a99b100"
+        target="8313897c">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_7eedd372.xml#7eedd372"/>
     </sourceConnections>
     <bounds
         x="13"

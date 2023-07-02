@@ -996,7 +996,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="71485011"
-          targetConnections="cb6c17d6 e93e6703"
+          targetConnections="e93e6703 cb6c17d6"
           type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1065,7 +1065,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5fb0e45f"
-        targetConnections="370e13e6 88130b9a cd13653a 5c2f3b95"
+        targetConnections="cd13653a 5c2f3b95 88130b9a 370e13e6"
         type="1">
       <bounds
           x="12"
@@ -1137,7 +1137,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="fb8c66bb"
-            targetConnections="8a00d65e 14e12d71">
+            targetConnections="14e12d71 8a00d65e">
           <bounds
               x="12"
               y="24"

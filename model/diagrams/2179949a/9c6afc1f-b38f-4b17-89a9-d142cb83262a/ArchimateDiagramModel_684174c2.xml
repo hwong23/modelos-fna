@@ -944,20 +944,6 @@
           type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="e05d9e46"
-            source="367c3f1b"
-            target="f751bd2a">
-          <bendpoints
-              startX="-84"
-              startY="-161"
-              endX="-516"
-              endY="247"/>
-          <archimateRelationship
-              xsi:type="archimate:AggregationRelationship"
-              href="AggregationRelationship_6d222f7d.xml#6d222f7d"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="e3823073"
             source="367c3f1b"
             target="5bd46960">
@@ -973,6 +959,20 @@
           <archimateRelationship
               xsi:type="archimate:AggregationRelationship"
               href="AggregationRelationship_9d27e986.xml#9d27e986"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="e05d9e46"
+            source="367c3f1b"
+            target="f751bd2a">
+          <bendpoints
+              startX="-84"
+              startY="-161"
+              endX="-516"
+              endY="247"/>
+          <archimateRelationship
+              xsi:type="archimate:AggregationRelationship"
+              href="AggregationRelationship_6d222f7d.xml#6d222f7d"/>
         </sourceConnections>
         <bounds
             x="12"
@@ -1007,7 +1007,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="3009d5c4"
-          targetConnections="9743e5fc 3ad34bd0"
+          targetConnections="3ad34bd0 9743e5fc"
           type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1077,7 +1077,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f751bd2a"
-        targetConnections="47964bd8 e05d9e46 93656465 d7450915"
+        targetConnections="93656465 d7450915 47964bd8 e05d9e46"
         type="1">
       <bounds
           x="12"

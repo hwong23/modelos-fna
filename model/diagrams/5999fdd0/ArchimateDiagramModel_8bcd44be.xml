@@ -179,7 +179,7 @@
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="51e0e9b0"
-              targetConnections="8254f36e 5ae475da eddc5ee3 bacdb9f7">
+              targetConnections="bacdb9f7 eddc5ee3 5ae475da 8254f36e">
             <bounds
                 x="24"
                 y="24"
@@ -238,7 +238,7 @@
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="0f74efcb"
-              targetConnections="a860e01c b9cb2e00">
+              targetConnections="b9cb2e00 a860e01c">
             <sourceConnections
                 xsi:type="archimate:DiagramModelArchimateConnection"
                 id="1cc35d4f"

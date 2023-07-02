@@ -434,7 +434,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="15bc67ef"
-            targetConnections="7481d7e5 ddef597c">
+            targetConnections="ddef597c 7481d7e5">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="3fd0865d"

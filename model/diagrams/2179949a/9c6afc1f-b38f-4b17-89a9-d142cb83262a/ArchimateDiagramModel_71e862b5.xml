@@ -937,7 +937,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="785676bf"
-        targetConnections="3288e80a 2bc76a5d"
+        targetConnections="2bc76a5d 3288e80a"
         type="1">
       <bounds
           x="12"
@@ -996,7 +996,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="aeacffc7"
-            targetConnections="1255d668 8afc9b73">
+            targetConnections="8afc9b73 1255d668">
           <bounds
               x="12"
               y="36"
