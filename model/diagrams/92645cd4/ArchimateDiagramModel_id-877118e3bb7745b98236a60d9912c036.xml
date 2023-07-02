@@ -75,7 +75,7 @@
       <bounds
           x="23"
           y="114"
-          width="120"
+          width="181"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -83,23 +83,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-76d7e71bbd3d41e6a8047458471542b3">
-      <bounds
-          x="24"
-          y="180"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-456d3963f0c04efc971e1ea4538ae3f7.xml#id-456d3963f0c04efc971e1ea4538ae3f7"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="id-ea37d231437b4f5d984abd4e686c40a5">
       <bounds
           x="24"
           y="48"
-          width="120"
+          width="181"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -142,7 +130,7 @@
       <bounds
           x="24"
           y="48"
-          width="120"
+          width="180"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -468,7 +456,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-f435a2009a20425fb033b9cfad5c61d2"
       textAlignment="1"
-      content="Modelo de Gobierno SOA&#xA;Adaptación FNA. 2023&#xA;&#xA;Recursos y Herramientas de Gestión del Riesgo de Arquitectura del FNA.&#xA;&#xA;versión 0.3&#xA;">
+      content="Modelo de Gobierno SOA&#xA;Adaptación FNA. 2023&#xA;&#xA;Recursos y Herramientas de Gestión del Riesgo de Arquitectura del FNA.&#xA;&#xA;versión 0.4&#xA;">
     <bounds
         x="-1"
         y="828"
