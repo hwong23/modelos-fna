@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista Negocio"
+    name="Negocio FNA. 1. Capa de Negocio"
     id="f63e001f">
   <children
       xsi:type="archimate:DiagramModelGroup"
