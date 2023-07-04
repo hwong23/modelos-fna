@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fortalezas / diferencias"
+    id="id-6440c0fea587443e83c068f4f5e8937e">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-e7d3168978a0458993282e4836152b3f.xml#id-e7d3168978a0458993282e4836152b3f"/>
+  <target
+      xsi:type="archimate:Gap"
+      href="Gap_id-4f716b2f80de47719468be01d502a470.xml#id-4f716b2f80de47719468be01d502a470"/>
+</archimate:AssociationRelationship>
