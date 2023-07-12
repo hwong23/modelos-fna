@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SCOR001_ScoringGenerar"
-    id="ac96e276-a336-4686-a9fb-dd943ab34a2d">
-  <properties
-      key="alcanceSOA"
-      value="Fase 1.1"/>
-</archimate:ApplicationService>

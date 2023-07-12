@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS034-consultarestadocuentaCartera"
-    id="25a2c4dd-25f5-4693-aa30-a0ffdecf5ebe">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationFunction>

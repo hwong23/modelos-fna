@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS017 - GestorConsultasAVOL"
-    id="fa363d98">
-  <properties
-      key="aplicacionProveedora"
-      value="Process Server"/>
-</archimate:ApplicationService>

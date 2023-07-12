@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_162_crearRelacionClientePorIdentificacionPN"
-    id="55e1bf75-480b-47b8-ba68-83356cbd0c36">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

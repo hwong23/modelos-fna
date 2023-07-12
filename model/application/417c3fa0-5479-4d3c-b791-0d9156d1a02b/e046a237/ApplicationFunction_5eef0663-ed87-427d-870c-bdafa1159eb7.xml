@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_195_InicioFlujoTrabajoDocumento"
-    id="5eef0663-ed87-427d-870c-bdafa1159eb7">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

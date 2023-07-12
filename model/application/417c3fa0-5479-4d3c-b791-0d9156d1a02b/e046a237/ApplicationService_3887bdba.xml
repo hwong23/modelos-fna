@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_026_ClientePN_RecuperarInformacionLaboral"
-    id="3887bdba">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

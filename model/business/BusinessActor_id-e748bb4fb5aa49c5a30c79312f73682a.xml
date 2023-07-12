@@ -1,8 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Agente de riesgo 001"
-    id="id-e748bb4fb5aa49c5a30c79312f73682a">
-  <properties
-      key="alcanceSOA"
-      value="Fase 1.1"/>
-</archimate:BusinessActor>

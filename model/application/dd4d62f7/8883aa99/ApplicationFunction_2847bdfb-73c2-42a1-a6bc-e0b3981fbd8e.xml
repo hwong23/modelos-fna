@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS033-ConsultarProductosGeneralPorIdentificacion"
-    id="2847bdfb-73c2-42a1-a6bc-e0b3981fbd8e">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationFunction>

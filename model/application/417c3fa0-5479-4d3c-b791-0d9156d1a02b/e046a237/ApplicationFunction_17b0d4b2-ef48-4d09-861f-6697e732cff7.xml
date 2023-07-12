@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_025_recuperarInformacionFinanciera "
-    id="17b0d4b2-ef48-4d09-861f-6697e732cff7">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

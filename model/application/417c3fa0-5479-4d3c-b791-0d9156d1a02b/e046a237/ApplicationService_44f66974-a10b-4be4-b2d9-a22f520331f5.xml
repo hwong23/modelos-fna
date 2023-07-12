@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_XXX_GestorDocumental_ObtenerCodigoArchivo"
-    id="44f66974-a10b-4be4-b2d9-a22f520331f5">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

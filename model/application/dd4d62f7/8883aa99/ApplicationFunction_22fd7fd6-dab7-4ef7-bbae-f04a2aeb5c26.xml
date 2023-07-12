@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS059-generarCertificadoCuentaAVC"
-    id="22fd7fd6-dab7-4ef7-bbae-f04a2aeb5c26">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationFunction>

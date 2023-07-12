@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_177_notificarCambioEstadoTramite"
-    id="e544d713-a74a-47ad-afc6-316048d3cccd">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

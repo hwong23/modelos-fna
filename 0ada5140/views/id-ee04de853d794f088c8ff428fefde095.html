@@ -1,0 +1,540 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Implementación. 3. pry2. arqref2.0</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Implementaci&#243;n. 3. pry2. arqref2.0</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-ee04de853d794f088c8ff428fefde095.png" alt="Implementación. 3. pry2. arqref2.0" usemap="#id-ee04de853d794f088c8ff428fefde095map"/>
+			   <map name="id-ee04de853d794f088c8ff428fefde095map">
+				  		        <area shape="rect" coords="1628,596,1998,692" href="../objects/id-87bc82cbc97a412e817dca7299d34cf9.html" target="element" >
+				  				<area shape="rect" coords="1556,428,1942,572" href="../elements/id-b6a4a13f789b4dc1b1091f24046bfc39.html"  target="element">
+				  				<area shape="rect" coords="88,428,474,572" href="../elements/id-09b632bea2eb4fb488a274b5d6500b03.html"  target="element">
+				  				<area shape="rect" coords="740,428,1126,572" href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html"  target="element">
+				  		        <area shape="rect" coords="88,596,458,692" href="../objects/id-6ef34e2f46eb465380fdd01bc751fcf0.html" target="element" >
+				  		        <area shape="rect" coords="812,596,1182,692" href="../objects/id-ad96bd48dad34ae782d20063a7d183a7.html" target="element" >
+
+				  		<area shape="rect" coords="20,332,2084,716" href="../elements/id-16ff383e07174e26836db5fe885b123f.html"  target="element">
+				  						<area shape="rect" coords="1748,1148,1988,1258" href="../elements/id-8200de93eb6848de938bc513edbfd549.html"  target="element">
+				  						<area shape="rect" coords="1748,1028,1988,1138" href="../elements/id-6f2750cbf26f408d94e449df7afe6d10.html"  target="element">
+
+				  				<area shape="rect" coords="1700,932,2014,1484" href="../elements/id-cf8536746b7a465ba1a4e09bbde0a623.html"  target="element">
+				  						<area shape="rect" coords="1364,1028,1604,1138" href="../elements/id-761f1c7525f442be8fad38d02fc0771d.html"  target="element">
+
+				  				<area shape="rect" coords="1316,932,1654,1484" href="../elements/id-e3a7b6c16d7b4a5bb71155dc05449b1b.html"  target="element">
+				  						<area shape="rect" coords="956,1028,1196,1138" href="../elements/id-8166a50038c449289cda1938bd726504.html"  target="element">
+				  						<area shape="rect" coords="956,1172,1196,1282" href="../elements/id-9c35c6560a25435c887fee0ff250019e.html"  target="element">
+
+				  				<area shape="rect" coords="908,932,1244,1484" href="../elements/id-6d05cde3f2fe41d18ec316a5d82fc8b8.html"  target="element">
+				  						<area shape="rect" coords="140,1028,380,1138" href="../elements/id-1e932736e9234db3b79cf9233d0fd9e6.html"  target="element">
+
+				  				<area shape="rect" coords="92,932,428,1270" href="../elements/id-712bce414f7142788935d3835f2fef11.html"  target="element">
+				  						<area shape="rect" coords="548,1172,788,1282" href="../elements/id-c7d7e880ca0d43e981d95c3283837029.html"  target="element">
+				  						<area shape="rect" coords="548,1028,788,1138" href="../elements/id-20d3e0d8a90b4e5d91a43f6b369a6764.html"  target="element">
+
+				  				<area shape="rect" coords="500,932,836,1484" href="../elements/id-b69871031fcf483ea24e9995b4f36436.html"  target="element">
+
+				  		<area shape="rect" coords="20,812,2084,1582" href="../elements/id-a53fe8920f0448da86f775d3f60b30ff.html"  target="element">
+				          <area shape="rect" coords="20,20,530,286" href="../objects/id-2167ae32d7ab4ce5af38d0fdbfd7dd1b.html" target="element" >
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">|Tema            |Portafolio de iniciativas y brechas: **Hoja de ruta de los proyectos de cambio**|
+|----------------|---------------------------------------------------|
+|Palabras clave  |SOA, An&#225;lisis de brecha, GAP, Comparativa          |
+|Autor           |                                                   |
+|Fuente          |                                                   |
+|Version|$COMMIT del $FECHA_COMPILACION                              |
+|V&#237;nculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+&lt;br&gt;
+
+## Hoja de Ruta E-Service FNA de los Proyectos de Cambio
+
+![](images/hojaruta1.png)
+
+[Imagen 1.]() Proyectos de cierre de brecha FNA. Prioridades, dependencias, secuencia, puntos de control de la evoluci&#243;n de la arquitectura de referencia SOA 2.0 del Fondo.
+
+_Fuente: elaboraci&#243;n propia._
+
+&lt;br&gt;
+
+## Asunto
+La ejecuci&#243;n de la hoja de ruta E-Service (diagn&#243;stico SOA) plantea la implementaci&#243;n de los proyectos de cierre de brechas que impacten a los problemas diagnosticados en dicho proyecto. Estos son: a la flexibilidad de negocio, al fortalecimiento de construcci&#243;n y dise&#241;o de servicios, y a la independencia de proveedor, en el &#225;mbito de las vicepresidencias de Cr&#233;dito y de Operaci&#243;n, en el per&#237;odo de ejecuci&#243;n 2023.
+
+Como resultado del inicio de la ejecuci&#243;n de la hoja de ruta el Fondo Nacional del Ahorro (FNA) procura 1) aumentar las capacidades de desarrollo de soluciones y requerimientos, y 2) modernizar y aumentar la capacidad del uso tecnol&#243;gico de estas soluciones.
+
+Puntualmente, la implementaci&#243;n (todos los proyectos) de la hoja de ruta, tal como est&#225; diagnosticada por E-Service, buscan los objetivos de:
+
+	&#8226; Flexibilidad y tiempo de mercado (OBJ3)
+	&#8226; Fortaleza SOA de las aplicaciones (OBJ2)
+	&#8226; Independencia de proveedor (OBJ1)
+	
+Para lo cual, la hoja de ruta E-Service est&#225; orientada a impactar los siguientes brechas y oportunidades:
+	&#8226; OP1. Instaurar la figura de gobierno SOA, capacidad, proceso y recursos
+	&#8226; OP2. Mejorar proceso de dise&#241;o,  construcci&#243;n y DevOps de soluciones SOA
+	&#8226; OP3. Mejorar la oferta de servicios anal&#237;ticos en segmento FNA
+	&#8226; OP4. Aumentar el nivel de utilizaci&#243;n de la Tecnolog&#237;a SOA del FNA
+	&#8226; OP5. Desarrollo de Servicios FNA guiada por la arquitectura de referencia 2.0
+	&#8226; OP6. Gesti&#243;n de la Tecnolog&#237;a (gobierno) orientada por arquitectura 2.0
+	&#8226; OP7. Articulaci&#243;n y fortalecimiento del equipo de arquitectura del FNA junto a proveedores
+	&#8226; OP8. Monitoreo de los &#237;ndices de eficacia de los servicios FNA
+
+&lt;br&gt;
+
+## Alcance 
+Para el per&#237;odo 2023, la implementaci&#243;n de la hoja de ruta E-Service impactar&#225; los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA de dise&#241;o e implementaci&#243;n de soluciones de negocio (ver todas las capacidades FNA, diagn&#243;stico E-Service, fase 1), en el dominio de aplicaciones y servicios solamente. 
+
+Las capacidades impactadas en el alcance del proyecto hoja de ruta E-Service, per&#237;odo 2023, para el dominio de aplicaciones y servicios 
+	&#8226; CAP1. Capacidad de gesti&#243;n de tecnolog&#237;a
+	&#8226; CAP2. Entrega de productos y funcionalidades.
+
+El incremento de las capacidades de gesti&#243;n de tecnolog&#237;a (TI), y la de entrega de productos y funcionalidades, incluidas en el alcance del per&#237;odo 2023, se realizar&#225; mediante la ejecuci&#243;n de los proyectos aqu&#237; indicados:
+
+	1. (proy. cierre brecha) PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios &#250;nicamente
+	2. (proy. cierre brecha) Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios &#250;nicamente
+
+El alcance del proyecto de ejecuci&#243;n de la hoja de ruta, per&#237;odo 2023, es el ilustrado en la imagen siguente.
+
+![](images/vistaevolucion.png)
+
+[Imagen 1.]() Vista de evoluci&#243;n de capacidades dentro del alcance del proyecto hoja de ruta E-Service, per&#237;odo 2023, dominio de aplicaciones y servicios. Capacidades incrementadas para impactar a los objetivos Flexibilidad (OBJ3) y Fortalecimiento (OBJ2).
+
+Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el per&#237;odo 2023, y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionar&#225; a su vez en dos versiones nuevas, como sigue
+
+![](images/vistaevolarquitectura.png)
+
+[Imagen 2.]() Vista de evoluci&#243;n de arquitectura de referencia FNA a raz&#243;n del las capacidades incrementadas.
+
+&lt;br&gt;
+
+## Componentes modificados
+Los aumentos de versi&#243;n de la arquitectura SOA del FNA implica que &#237;tems de trabajo, componentes de software, aplicaciones, tecnolog&#237;as o recursos de capital humano deban ser modificados (aumentado de versi&#243;n).
+
+Con prop&#243;sito &#250;nicamente ilustrativo de los &#237;tems que pueden ser sujetos de variante (especializaci&#243;n) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios &#250;nicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatci&#243;n de hoja de ruta E-Service, per&#237;odo 2023, presentamos a continuaci&#243;n una lista de aplicaciones de software que pueden llegar a cambiar (otros &#237;tems se no presentes en este ejemplo pueden ser impactados).
+
+![](images/vistaitemsarq.png)
+
+[Imagen 2.]() Aplicaciones de software del FNA involucrados en los incrementos de versi&#243;n de la arquitectura de referencia.
+
+&lt;br&gt;
+
+## Equipo de Trabajo
+Organizado por proyecto.
+
+### PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios
+	&#8226; Director / Gerente proyecto (Stefanini)
+Nota: este recurso puede ser individual, o com&#250;n entre ambos proyectos del alcance
+
+	&#8226; Especialista SOA 1, o Arquitectura empresarial (Stefanini)
+	&#8226; Especialista construcci&#243;n software, servicios y componentes (Stefanini)
+	&#8226; Personal del FNA
+		&#9675; Especialista SOA
+		&#9675; Especialista(s) construcci&#243;n software
+	
+### PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios
+	&#8226; Director / Gerente proyecto (Stefanini)
+Nota: este recurso puede ser individual, o com&#250;n entre ambos proyectos del alcance
+
+	&#8226; Especialista SOA o Arquitectura de software (Stefanini)
+	&#8226; Especialista construcci&#243;n software, servicios y componentes (Stefanini)
+	&#8226; Personal del FNA
+		&#9675; Especialistas de aplicaciones pertenecientes al incremento de versi&#243;n de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versi&#243;n de la arquitectura de referencia)
+		&#9675; L&#237;der funcional de aplicaciones pertenecientes al incremento de versi&#243;n de la arquitectura FNA
+
+&lt;br&gt;
+
+## Plan de Trabajo
+![](images/vistaimplementacion.png)
+
+[Imagen 4.]() Plan de Implementaci&#243;n del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
+
+&lt;br&gt;
+
+## Costo Beneficio (aproximado)
+&#8230;
+
+&lt;br&gt;
+
+## Consideraciones
+&#8230;
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+									        <tr>
+									           <td> <a href="../objects/id-2167ae32d7ab4ce5af38d0fdbfd7dd1b.html" target="element">  </a> </td>
+									           <td> <a href="../objects/id-2167ae32d7ab4ce5af38d0fdbfd7dd1b.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+											<tr>
+											    <td> <a href="../elements/id-a53fe8920f0448da86f775d3f60b30ff.html" target="element"> Proyecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA. Abril 2023 a Agosto 2023 </a> </td>
+											    <td> <a href="../elements/id-a53fe8920f0448da86f775d3f60b30ff.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-b69871031fcf483ea24e9995b4f36436.html" target="element"> Fase 1. Dise&#241;o incremento 1 arq. referencia </a> </td>
+													    <td> <a href="../elements/id-b69871031fcf483ea24e9995b4f36436.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-20d3e0d8a90b4e5d91a43f6b369a6764.html" target="element"> PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes </a> </td>
+															    <td> <a href="../elements/id-20d3e0d8a90b4e5d91a43f6b369a6764.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-c7d7e880ca0d43e981d95c3283837029.html" target="element"> PR12. Dise&#241;o detallado y vistas funcional, despliegue, informaci&#243;n, integraci&#243;n y tecnolog&#237;a&#8203; </a> </td>
+															    <td> <a href="../elements/id-c7d7e880ca0d43e981d95c3283837029.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-712bce414f7142788935d3835f2fef11.html" target="element"> Fase 0. Definici&#243;n </a> </td>
+													    <td> <a href="../elements/id-712bce414f7142788935d3835f2fef11.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-1e932736e9234db3b79cf9233d0fd9e6.html" target="element"> PR10. Detalle de los &#237;tems de arquitectura impactados por el proyecto  </a> </td>
+															    <td> <a href="../elements/id-1e932736e9234db3b79cf9233d0fd9e6.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-6d05cde3f2fe41d18ec316a5d82fc8b8.html" target="element"> Fase 2. Incremento 1 arq. referencia </a> </td>
+													    <td> <a href="../elements/id-6d05cde3f2fe41d18ec316a5d82fc8b8.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-9c35c6560a25435c887fee0ff250019e.html" target="element"> PR14. Administraci&#243;n de las transiciones hacia la arquitectura versi&#243;n 2.0 </a> </td>
+															    <td> <a href="../elements/id-9c35c6560a25435c887fee0ff250019e.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-8166a50038c449289cda1938bd726504.html" target="element"> PR13. Modelado en lenguaje y herramienta de dise&#241;o del FNA&#8203; </a> </td>
+															    <td> <a href="../elements/id-8166a50038c449289cda1938bd726504.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-e3a7b6c16d7b4a5bb71155dc05449b1b.html" target="element"> Fase 3. Optimizaci&#243;n arq. referencia </a> </td>
+													    <td> <a href="../elements/id-e3a7b6c16d7b4a5bb71155dc05449b1b.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-761f1c7525f442be8fad38d02fc0771d.html" target="element"> PR15. Inventario de artefactos gen&#233;ricos y concretos de aceleraci&#243;n de implementaci&#243;n </a> </td>
+															    <td> <a href="../elements/id-761f1c7525f442be8fad38d02fc0771d.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-cf8536746b7a465ba1a4e09bbde0a623.html" target="element"> Fase 4. Integraci&#243;n SOA </a> </td>
+													    <td> <a href="../elements/id-cf8536746b7a465ba1a4e09bbde0a623.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-6f2750cbf26f408d94e449df7afe6d10.html" target="element"> PR16. An&#225;lisis de impacto y modelos actualizados de los &#237;tems de arquitectura  </a> </td>
+															    <td> <a href="../elements/id-6f2750cbf26f408d94e449df7afe6d10.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-8200de93eb6848de938bc513edbfd549.html" target="element"> PR17. &#205;tems de arquitectura incrementados en ejecuci&#243;n </a> </td>
+															    <td> <a href="../elements/id-8200de93eb6848de938bc513edbfd549.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+											
+											<tr>
+											    <td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element"> Evoluci&#243;n de arquitectura SOA FNA </a> </td>
+											    <td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element" class="i18n-elementtype-Grouping"> </a> </td>
+											</tr>
+
+											        <tr>
+											           <td> <a href="../objects/id-ad96bd48dad34ae782d20063a7d183a7.html" target="element">  </a> </td>
+											           <td> <a href="../objects/id-ad96bd48dad34ae782d20063a7d183a7.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+											        </tr>
+
+											        <tr>
+											           <td> <a href="../objects/id-6ef34e2f46eb465380fdd01bc751fcf0.html" target="element">  </a> </td>
+											           <td> <a href="../objects/id-6ef34e2f46eb465380fdd01bc751fcf0.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+											        </tr>
+
+													<tr>
+													    <td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+													    <td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element" class="i18n-elementtype-Plateau"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-09b632bea2eb4fb488a274b5d6500b03.html" target="element"> Arquitectura l&#237;nea base (ALB) </a> </td>
+													    <td> <a href="../elements/id-09b632bea2eb4fb488a274b5d6500b03.html" target="element" class="i18n-elementtype-Plateau"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-b6a4a13f789b4dc1b1091f24046bfc39.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+													    <td> <a href="../elements/id-b6a4a13f789b4dc1b1091f24046bfc39.html" target="element" class="i18n-elementtype-Plateau"> </a> </td>
+													</tr>
+
+											        <tr>
+											           <td> <a href="../objects/id-87bc82cbc97a412e817dca7299d34cf9.html" target="element">  </a> </td>
+											           <td> <a href="../objects/id-87bc82cbc97a412e817dca7299d34cf9.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+											        </tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+																	<tr>
+																		<td> <a href="../elements/id-e51ade18c9a04b059bc926f09b76fed7.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e51ade18c9a04b059bc926f09b76fed7.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-a53fe8920f0448da86f775d3f60b30ff.html" target="element"> Proyecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-712bce414f7142788935d3835f2fef11.html" target="element"> Fase 0. Definici&#243;n </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-3da143acf35c43ccb915dae93d6cf558.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-3da143acf35c43ccb915dae93d6cf558.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-a53fe8920f0448da86f775d3f60b30ff.html" target="element"> Proyecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-e3a7b6c16d7b4a5bb71155dc05449b1b.html" target="element"> Fase 3. Optimizaci&#243;n arq. referencia </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-88bc2b822c22429a9f3575217285308f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-88bc2b822c22429a9f3575217285308f.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-a53fe8920f0448da86f775d3f60b30ff.html" target="element"> Proyecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-b69871031fcf483ea24e9995b4f36436.html" target="element"> Fase 1. Dise&#241;o incremento 1 arq. referencia </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-34546c381f794941bc79a7c9eef510a5.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-34546c381f794941bc79a7c9eef510a5.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-a53fe8920f0448da86f775d3f60b30ff.html" target="element"> Proyecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-6d05cde3f2fe41d18ec316a5d82fc8b8.html" target="element"> Fase 2. Incremento 1 arq. referencia </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-ddb38ee13c1d401fb18a689f655988d7.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-ddb38ee13c1d401fb18a689f655988d7.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-a53fe8920f0448da86f775d3f60b30ff.html" target="element"> Proyecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-cf8536746b7a465ba1a4e09bbde0a623.html" target="element"> Fase 4. Integraci&#243;n SOA </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-92faf911c5ff4f5b9a5625ed8a41f4ef.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-92faf911c5ff4f5b9a5625ed8a41f4ef.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-b69871031fcf483ea24e9995b4f36436.html" target="element"> Fase 1. Dise&#241;o incremento 1 arq. referencia </a> </td>
+																				<td> <a href="../elements/id-20d3e0d8a90b4e5d91a43f6b369a6764.html" target="element"> PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-a6c89f23d7104e4dba11835b39934411.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-a6c89f23d7104e4dba11835b39934411.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-b69871031fcf483ea24e9995b4f36436.html" target="element"> Fase 1. Dise&#241;o incremento 1 arq. referencia </a> </td>
+																				<td> <a href="../elements/id-c7d7e880ca0d43e981d95c3283837029.html" target="element"> PR12. Dise&#241;o detallado y vistas funcional, despliegue, informaci&#243;n, integraci&#243;n y tecnolog&#237;a&#8203; </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-f3fe504488574ac48f486f1801b1030b.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-f3fe504488574ac48f486f1801b1030b.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-b69871031fcf483ea24e9995b4f36436.html" target="element"> Fase 1. Dise&#241;o incremento 1 arq. referencia </a> </td>
+																				<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-411250d6478d4cfe8fb5b5d7298f4649.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-411250d6478d4cfe8fb5b5d7298f4649.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-712bce414f7142788935d3835f2fef11.html" target="element"> Fase 0. Definici&#243;n </a> </td>
+																				<td> <a href="../elements/id-1e932736e9234db3b79cf9233d0fd9e6.html" target="element"> PR10. Detalle de los &#237;tems de arquitectura impactados por el proyecto  </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-d4653eb6572846e8bedc535e695f08c2.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-d4653eb6572846e8bedc535e695f08c2.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-712bce414f7142788935d3835f2fef11.html" target="element"> Fase 0. Definici&#243;n </a> </td>
+																				<td> <a href="../elements/id-09b632bea2eb4fb488a274b5d6500b03.html" target="element"> Arquitectura l&#237;nea base (ALB) </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-ccda682006f8475485dd7647eb1707e7.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-ccda682006f8475485dd7647eb1707e7.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-6d05cde3f2fe41d18ec316a5d82fc8b8.html" target="element"> Fase 2. Incremento 1 arq. referencia </a> </td>
+																				<td> <a href="../elements/id-9c35c6560a25435c887fee0ff250019e.html" target="element"> PR14. Administraci&#243;n de las transiciones hacia la arquitectura versi&#243;n 2.0 </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-07342ab6501348a89fa36b5e754ea3d9.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-07342ab6501348a89fa36b5e754ea3d9.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-6d05cde3f2fe41d18ec316a5d82fc8b8.html" target="element"> Fase 2. Incremento 1 arq. referencia </a> </td>
+																				<td> <a href="../elements/id-8166a50038c449289cda1938bd726504.html" target="element"> PR13. Modelado en lenguaje y herramienta de dise&#241;o del FNA&#8203; </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-e883dbd4be994630a788199f67264354.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-e883dbd4be994630a788199f67264354.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-6d05cde3f2fe41d18ec316a5d82fc8b8.html" target="element"> Fase 2. Incremento 1 arq. referencia </a> </td>
+																				<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-bb69bcc660364b6f96ffd7b1c3f6142b.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-bb69bcc660364b6f96ffd7b1c3f6142b.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-e3a7b6c16d7b4a5bb71155dc05449b1b.html" target="element"> Fase 3. Optimizaci&#243;n arq. referencia </a> </td>
+																				<td> <a href="../elements/id-761f1c7525f442be8fad38d02fc0771d.html" target="element"> PR15. Inventario de artefactos gen&#233;ricos y concretos de aceleraci&#243;n de implementaci&#243;n </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-b20d969ebd2d4aa3a8d86f00fc8cf65d.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-b20d969ebd2d4aa3a8d86f00fc8cf65d.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-e3a7b6c16d7b4a5bb71155dc05449b1b.html" target="element"> Fase 3. Optimizaci&#243;n arq. referencia </a> </td>
+																				<td> <a href="../elements/id-b6a4a13f789b4dc1b1091f24046bfc39.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-c9272f4bb66746a79601b63b58a14e73.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-c9272f4bb66746a79601b63b58a14e73.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-e3a7b6c16d7b4a5bb71155dc05449b1b.html" target="element"> Fase 3. Optimizaci&#243;n arq. referencia </a> </td>
+																				<td> <a href="../elements/id-8200de93eb6848de938bc513edbfd549.html" target="element"> PR17. &#205;tems de arquitectura incrementados en ejecuci&#243;n </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-dcd8c786a75d4fab9070b0668c29560e.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-dcd8c786a75d4fab9070b0668c29560e.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-e3a7b6c16d7b4a5bb71155dc05449b1b.html" target="element"> Fase 3. Optimizaci&#243;n arq. referencia </a> </td>
+																				<td> <a href="../elements/id-6f2750cbf26f408d94e449df7afe6d10.html" target="element"> PR16. An&#225;lisis de impacto y modelos actualizados de los &#237;tems de arquitectura  </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-b4ae351908fb490aa39d5e64d301063c.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-b4ae351908fb490aa39d5e64d301063c.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-cf8536746b7a465ba1a4e09bbde0a623.html" target="element"> Fase 4. Integraci&#243;n SOA </a> </td>
+																				<td> <a href="../elements/id-8200de93eb6848de938bc513edbfd549.html" target="element"> PR17. &#205;tems de arquitectura incrementados en ejecuci&#243;n </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-d51bf6c5705144c985096e747016b41c.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-d51bf6c5705144c985096e747016b41c.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-cf8536746b7a465ba1a4e09bbde0a623.html" target="element"> Fase 4. Integraci&#243;n SOA </a> </td>
+																				<td> <a href="../elements/id-6f2750cbf26f408d94e449df7afe6d10.html" target="element"> PR16. An&#225;lisis de impacto y modelos actualizados de los &#237;tems de arquitectura  </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-881a1fdddb1d4f66964c5c6fe50adb47.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-881a1fdddb1d4f66964c5c6fe50adb47.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-cf8536746b7a465ba1a4e09bbde0a623.html" target="element"> Fase 4. Integraci&#243;n SOA </a> </td>
+																				<td> <a href="../elements/id-b6a4a13f789b4dc1b1091f24046bfc39.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+																			</tr>
+
+													
+											
+																	<tr>
+																		<td> <a href="../elements/id-9188d52425144c01a55ad83a792e1908.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9188d52425144c01a55ad83a792e1908.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element"> Evoluci&#243;n de arquitectura SOA FNA </a> </td>
+																		<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b264ef3905d54c0884a7f0329afdc947.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b264ef3905d54c0884a7f0329afdc947.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element"> Evoluci&#243;n de arquitectura SOA FNA </a> </td>
+																		<td> <a href="../elements/id-09b632bea2eb4fb488a274b5d6500b03.html" target="element"> Arquitectura l&#237;nea base (ALB) </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-4e9d5d103ce5486194fd3b4906b5e930.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-4e9d5d103ce5486194fd3b4906b5e930.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element"> Evoluci&#243;n de arquitectura SOA FNA </a> </td>
+																		<td> <a href="../elements/id-b6a4a13f789b4dc1b1091f24046bfc39.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+																	</tr>
+
+													<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+													<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+																			<tr>
+																				<td> <a href="../elements/id-4be8945a4121407ba8fda67eaa6730f1.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-4be8945a4121407ba8fda67eaa6730f1.html" target="element" class="i18n-elementtype-TriggeringRelationship"></a> </td>
+																				<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																				<td> <a href="../elements/id-b6a4a13f789b4dc1b1091f24046bfc39.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-5a9ef885732e49879a6711da84ad410f.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-5a9ef885732e49879a6711da84ad410f.html" target="element" class="i18n-elementtype-TriggeringRelationship"></a> </td>
+																				<td> <a href="../elements/id-09b632bea2eb4fb488a274b5d6500b03.html" target="element"> Arquitectura l&#237;nea base (ALB) </a> </td>
+																				<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																			</tr>
+
+													<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+											
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

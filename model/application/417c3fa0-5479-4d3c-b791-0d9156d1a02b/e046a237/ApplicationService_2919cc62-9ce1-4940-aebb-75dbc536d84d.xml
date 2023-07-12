@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_103_Credito_RechazarTramiteCredito"
-    id="2919cc62-9ce1-4940-aebb-75dbc536d84d">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

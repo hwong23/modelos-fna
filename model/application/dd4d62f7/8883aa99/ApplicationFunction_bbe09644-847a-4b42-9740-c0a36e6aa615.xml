@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS026-validardatosaccesologin"
-    id="bbe09644-847a-4b42-9740-c0a36e6aa615">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationFunction>

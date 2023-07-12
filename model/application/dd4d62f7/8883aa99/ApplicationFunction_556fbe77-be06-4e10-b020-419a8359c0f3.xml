@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS061-enviarReportePagoAnual"
-    id="556fbe77-be06-4e10-b020-419a8359c0f3">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationFunction>

@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_126_Seguridad_RecuperarPlantillaToken2FA - WI6634"
-    id="e569d02b">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

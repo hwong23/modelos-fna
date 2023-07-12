@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Frontend</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Frontend</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+											    <td> <a href="../elements/8a5026b1.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/c3799fae.html" target="element"> Andes SCD </a> </td>
+											    <td> <a href="../elements/c3799fae.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/96ed9017-694d-4068-ab46-0627d1be52f5.html" target="element"> Atenci&#243;n al Cliente </a> </td>
+											    <td> <a href="../elements/96ed9017-694d-4068-ab46-0627d1be52f5.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/f0839ca6-87d3-4a7f-a292-bccd21da2793.html" target="element"> WM_Capture </a> </td>
+											    <td> <a href="../elements/f0839ca6-87d3-4a7f-a292-bccd21da2793.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/536d11f6.html" target="element"> CRM </a> </td>
+											    <td> <a href="../elements/536d11f6.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/b3d71f10-1e0e-4340-8638-c2f61e942956.html" target="element">  </a> </td>
+																		<td> <a href="../elements/b3d71f10-1e0e-4340-8638-c2f61e942956.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/be34ce94.html" target="element"> SQL Server 2014 </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/6ded6148-b1c8-4bc5-80ba-78937d3916a8.html" target="element">  </a> </td>
+																		<td> <a href="../elements/6ded6148-b1c8-4bc5-80ba-78937d3916a8.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/5ef0965c.html" target="element"> Microsoft Active Directory </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/bbedc3d2-85fe-472e-959f-2c7ffc12d3c3.html" target="element">  </a> </td>
+																		<td> <a href="../elements/bbedc3d2-85fe-472e-959f-2c7ffc12d3c3.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/da67f30e.html" target="element"> Servidor Correo (10.5.78.3) </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/3c703126-7fc1-4d44-8bda-202c41883c7d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/3c703126-7fc1-4d44-8bda-202c41883c7d.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/115dda03-4902-455c-92aa-6fb1082ff406.html" target="element"> ProxyBizagi </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/b80664db-02e5-4ea4-a472-0c511fe532fe.html" target="element">  </a> </td>
+																		<td> <a href="../elements/b80664db-02e5-4ea4-a472-0c511fe532fe.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/c3799fae.html" target="element"> Andes SCD </a> </td>
+																		<td> <a href="../elements/e48b6f3d.html" target="element"> Andes SealMail </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/23bf06e5-7204-4b00-85af-89cae2029f5c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/23bf06e5-7204-4b00-85af-89cae2029f5c.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/c3799fae.html" target="element"> Andes SCD </a> </td>
+																		<td> <a href="../elements/8958819d.html" target="element"> Andes HUB Documental </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/81b26d91-3ee9-4318-b7f7-77e2210d1970.html" target="element">  </a> </td>
+																		<td> <a href="../elements/81b26d91-3ee9-4318-b7f7-77e2210d1970.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/96ed9017-694d-4068-ab46-0627d1be52f5.html" target="element"> Atenci&#243;n al Cliente </a> </td>
+																		<td> <a href="../elements/2abeddc5.html" target="element"> ESB - BROKER9 </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/9b523ce4-f204-41fe-bf76-75b10b0181a9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/9b523ce4-f204-41fe-bf76-75b10b0181a9.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/f0839ca6-87d3-4a7f-a292-bccd21da2793.html" target="element"> WM_Capture </a> </td>
+																		<td> <a href="../elements/2d355af1.html" target="element"> WM_APIv2 </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/436ddc36-a2b6-41f1-a42f-611c5222ed39.html" target="element">  </a> </td>
+																		<td> <a href="../elements/436ddc36-a2b6-41f1-a42f-611c5222ed39.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/536d11f6.html" target="element"> CRM </a> </td>
+																		<td> <a href="../elements/2abeddc5.html" target="element"> ESB - BROKER9 </a> </td>
+																	</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

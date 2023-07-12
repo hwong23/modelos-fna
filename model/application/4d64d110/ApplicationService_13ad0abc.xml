@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Score TSI"
-    id="13ad0abc">
-  <properties
-      key="alcanceSOA"
-      value="Fase 1.1"/>
-</archimate:ApplicationService>

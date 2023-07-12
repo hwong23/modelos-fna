@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS079-GeneracionExtractoCuentaCesantias"
-    id="dab72f45-bc31-4482-bb51-05e2113680d1">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationService>

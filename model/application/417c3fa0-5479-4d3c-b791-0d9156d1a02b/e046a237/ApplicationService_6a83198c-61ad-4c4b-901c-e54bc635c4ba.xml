@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_204_Credito_CalcularPuntajeOrq"
-    id="6a83198c-61ad-4c4b-901c-e54bc635c4ba">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

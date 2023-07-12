@@ -1,0 +1,515 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Implementación. 2. pry1. gobierno</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Implementaci&#243;n. 2. pry1. gobierno</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-bbdf1778bbc14d188015f7325be6cd75.png" alt="Implementación. 2. pry1. gobierno" usemap="#id-bbdf1778bbc14d188015f7325be6cd75map"/>
+			   <map name="id-bbdf1778bbc14d188015f7325be6cd75map">
+				  		        <area shape="rect" coords="1292,572,1662,668" href="../objects/id-dbd7b8b251014874a9530e40101d3abb.html" target="element" >
+				  		        <area shape="rect" coords="644,572,1014,668" href="../objects/id-2d83e78d5fac45af8a45b8bcdeac2bc3.html" target="element" >
+				  		        <area shape="rect" coords="68,572,438,668" href="../objects/id-3f352039618544a1b500b801098be0b5.html" target="element" >
+				  				<area shape="rect" coords="1292,428,1678,572" href="../elements/id-fd1670f6f9354ba1abd45acc2c883fa1.html"  target="element">
+				  				<area shape="rect" coords="644,428,1030,572" href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html"  target="element">
+				  				<area shape="rect" coords="68,428,454,572" href="../elements/id-db7ef519134c40dca55235bc3d9c2b3c.html"  target="element">
+
+				  		<area shape="rect" coords="20,332,1944,692" href="../elements/id-16ff383e07174e26836db5fe885b123f.html"  target="element">
+				  						<area shape="rect" coords="1556,1004,1844,1148" href="../elements/id-670fb577a87d43b49247f90a1c82a2e8.html"  target="element">
+
+				  				<area shape="rect" coords="1508,908,1894,1460" href="../elements/id-f44e01774f69414aa01f93d45c02f7a6.html"  target="element">
+				  						<area shape="rect" coords="1172,1004,1460,1148" href="../elements/id-d227123c6f33438694a3485175bafd50.html"  target="element">
+
+				  				<area shape="rect" coords="1148,908,1486,1460" href="../elements/id-aa29832af742488c9ea1d20a040b0664.html"  target="element">
+				  						<area shape="rect" coords="812,1004,1100,1148" href="../elements/id-0d07b24c6fd94928a121fd0237dba7e7.html"  target="element">
+				  						<area shape="rect" coords="812,1172,1100,1316" href="../elements/id-b3583f999ed04f8c957d8c390db06255.html"  target="element">
+
+				  				<area shape="rect" coords="788,908,1124,1460" href="../elements/id-eda2e2ecb4f34a2380db14aab7e3ca34.html"  target="element">
+				  						<area shape="rect" coords="92,1004,380,1148" href="../elements/id-1033cb8b9a4b40049920a2fcf84814d6.html"  target="element">
+
+				  				<area shape="rect" coords="68,908,404,1246" href="../elements/id-68779b91543e457087bc255dcb6de5c7.html"  target="element">
+				  						<area shape="rect" coords="452,1172,740,1316" href="../elements/id-7d926d1289c842789bd9b02a8f48a03c.html"  target="element">
+				  						<area shape="rect" coords="452,1004,740,1148" href="../elements/id-80ce0c1954cd4c7ebbb5cedb60526c2b.html"  target="element">
+
+				  				<area shape="rect" coords="428,908,764,1460" href="../elements/id-3cf171d307214ab1819264ad9035d7a1.html"  target="element">
+
+				  		<area shape="rect" coords="20,788,1944,1558" href="../elements/id-3ef00fadc122442b9a5ec9a488b15a2e.html"  target="element">
+				          <area shape="rect" coords="20,20,698,262" href="../objects/id-541406e53cbb4fb3b095f17a41615903.html" target="element" >
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">|Tema            |Portafolio de iniciativas y brechas: **Hoja de ruta de los proyectos de cambio**|
+|----------------|---------------------------------------------------|
+|Palabras clave  |SOA, An&#225;lisis de brecha, GAP, Comparativa          |
+|Autor           |                                                   |
+|Fuente          |                                                   |
+|Version|$COMMIT del $FECHA_COMPILACION                              |
+|V&#237;nculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+&lt;br&gt;
+
+## Hoja de Ruta E-Service FNA de los Proyectos de Cambio
+
+![](images/hojaruta1.png)
+
+[Imagen 1.]() Proyectos de cierre de brecha FNA. Prioridades, dependencias, secuencia, puntos de control de la evoluci&#243;n de la arquitectura de referencia SOA 2.0 del Fondo.
+
+_Fuente: elaboraci&#243;n propia._
+
+&lt;br&gt;
+
+## Asunto
+La ejecuci&#243;n de la hoja de ruta E-Service (diagn&#243;stico SOA) plantea la implementaci&#243;n de los proyectos de cierre de brechas que impacten a los problemas diagnosticados en dicho proyecto. Estos son: a la flexibilidad de negocio, al fortalecimiento de construcci&#243;n y dise&#241;o de servicios, y a la independencia de proveedor, en el &#225;mbito de las vicepresidencias de Cr&#233;dito y de Operaci&#243;n, en el per&#237;odo de ejecuci&#243;n 2023.
+
+Como resultado del inicio de la ejecuci&#243;n de la hoja de ruta el Fondo Nacional del Ahorro (FNA) procura 1) aumentar las capacidades de desarrollo de soluciones y requerimientos, y 2) modernizar y aumentar la capacidad del uso tecnol&#243;gico de estas soluciones.
+
+Puntualmente, la implementaci&#243;n (todos los proyectos) de la hoja de ruta, tal como est&#225; diagnosticada por E-Service, buscan los objetivos de:
+
+	&#8226; Flexibilidad y tiempo de mercado (OBJ3)
+	&#8226; Fortaleza SOA de las aplicaciones (OBJ2)
+	&#8226; Independencia de proveedor (OBJ1)
+	
+Para lo cual, la hoja de ruta E-Service est&#225; orientada a impactar los siguientes brechas y oportunidades:
+	&#8226; OP1. Instaurar la figura de gobierno SOA, capacidad, proceso y recursos
+	&#8226; OP2. Mejorar proceso de dise&#241;o,  construcci&#243;n y DevOps de soluciones SOA
+	&#8226; OP3. Mejorar la oferta de servicios anal&#237;ticos en segmento FNA
+	&#8226; OP4. Aumentar el nivel de utilizaci&#243;n de la Tecnolog&#237;a SOA del FNA
+	&#8226; OP5. Desarrollo de Servicios FNA guiada por la arquitectura de referencia 2.0
+	&#8226; OP6. Gesti&#243;n de la Tecnolog&#237;a (gobierno) orientada por arquitectura 2.0
+	&#8226; OP7. Articulaci&#243;n y fortalecimiento del equipo de arquitectura del FNA junto a proveedores
+	&#8226; OP8. Monitoreo de los &#237;ndices de eficacia de los servicios FNA
+
+&lt;br&gt;
+
+## Alcance 
+Para el per&#237;odo 2023, la implementaci&#243;n de la hoja de ruta E-Service impactar&#225; los objetivos de Flexibilidad (OBJ3) y Fortalecimiento (OBJ2), mediante el incremento de las capacidades del FNA de dise&#241;o e implementaci&#243;n de soluciones de negocio (ver todas las capacidades FNA, diagn&#243;stico E-Service, fase 1), en el dominio de aplicaciones y servicios solamente. 
+
+Las capacidades impactadas en el alcance del proyecto hoja de ruta E-Service, per&#237;odo 2023, para el dominio de aplicaciones y servicios 
+	&#8226; CAP1. Capacidad de gesti&#243;n de tecnolog&#237;a
+	&#8226; CAP2. Entrega de productos y funcionalidades.
+
+El incremento de las capacidades de gesti&#243;n de tecnolog&#237;a (TI), y la de entrega de productos y funcionalidades, incluidas en el alcance del per&#237;odo 2023, se realizar&#225; mediante la ejecuci&#243;n de los proyectos aqu&#237; indicados:
+
+	1. (proy. cierre brecha) PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios &#250;nicamente
+	2. (proy. cierre brecha) Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios &#250;nicamente
+
+El alcance del proyecto de ejecuci&#243;n de la hoja de ruta, per&#237;odo 2023, es el ilustrado en la imagen siguente.
+
+![](images/vistaevolucion.png)
+
+[Imagen 1.]() Vista de evoluci&#243;n de capacidades dentro del alcance del proyecto hoja de ruta E-Service, per&#237;odo 2023, dominio de aplicaciones y servicios. Capacidades incrementadas para impactar a los objetivos Flexibilidad (OBJ3) y Fortalecimiento (OBJ2).
+
+Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el per&#237;odo 2023, y del consiguiente incremento en las capacidades del FNA incluidas en este alcance, la arquitectura SOA del Fondo evolucionar&#225; a su vez en dos versiones nuevas, como sigue
+
+![](images/vistaevolarquitectura.png)
+
+[Imagen 2.]() Vista de evoluci&#243;n de arquitectura de referencia FNA a raz&#243;n del las capacidades incrementadas.
+
+&lt;br&gt;
+
+## Componentes modificados
+Los aumentos de versi&#243;n de la arquitectura SOA del FNA implica que &#237;tems de trabajo, componentes de software, aplicaciones, tecnolog&#237;as o recursos de capital humano deban ser modificados (aumentado de versi&#243;n).
+
+Con prop&#243;sito &#250;nicamente ilustrativo de los &#237;tems que pueden ser sujetos de variante (especializaci&#243;n) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios &#250;nicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatci&#243;n de hoja de ruta E-Service, per&#237;odo 2023, presentamos a continuaci&#243;n una lista de aplicaciones de software que pueden llegar a cambiar (otros &#237;tems se no presentes en este ejemplo pueden ser impactados).
+
+![](images/vistaitemsarq.png)
+
+[Imagen 2.]() Aplicaciones de software del FNA involucrados en los incrementos de versi&#243;n de la arquitectura de referencia.
+
+&lt;br&gt;
+
+## Equipo de Trabajo
+Organizado por proyecto.
+
+### PRY01. Gobierno SOA FNA --Incremento 1: dominio de aplicaciones y servicios
+	&#8226; Director / Gerente proyecto (Stefanini)
+Nota: este recurso puede ser individual, o com&#250;n entre ambos proyectos del alcance
+
+	&#8226; Especialista SOA 1, o Arquitectura empresarial (Stefanini)
+	&#8226; Especialista construcci&#243;n software, servicios y componentes (Stefanini)
+	&#8226; Personal del FNA
+		&#9675; Especialista SOA
+		&#9675; Especialista(s) construcci&#243;n software
+	
+### PRY02. Arquitectura Referencia --Incremento 1: dominio de aplicaciones y servicios
+	&#8226; Director / Gerente proyecto (Stefanini)
+Nota: este recurso puede ser individual, o com&#250;n entre ambos proyectos del alcance
+
+	&#8226; Especialista SOA o Arquitectura de software (Stefanini)
+	&#8226; Especialista construcci&#243;n software, servicios y componentes (Stefanini)
+	&#8226; Personal del FNA
+		&#9675; Especialistas de aplicaciones pertenecientes al incremento de versi&#243;n de la arquitectura FNA (ver Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versi&#243;n de la arquitectura de referencia)
+		&#9675; L&#237;der funcional de aplicaciones pertenecientes al incremento de versi&#243;n de la arquitectura FNA
+
+&lt;br&gt;
+
+## Plan de Trabajo
+![](images/vistaimplementacion.png)
+
+[Imagen 4.]() Plan de Implementaci&#243;n del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
+
+&lt;br&gt;
+
+## Costo Beneficio (aproximado)
+&#8230;
+
+&lt;br&gt;
+
+## Consideraciones
+&#8230;
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+									        <tr>
+									           <td> <a href="../objects/id-541406e53cbb4fb3b095f17a41615903.html" target="element">  </a> </td>
+									           <td> <a href="../objects/id-541406e53cbb4fb3b095f17a41615903.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+											<tr>
+											    <td> <a href="../elements/id-3ef00fadc122442b9a5ec9a488b15a2e.html" target="element"> Proyecto 1 (PRY01). Gobierno FNA. Abril 2023 a Agosto 2023 </a> </td>
+											    <td> <a href="../elements/id-3ef00fadc122442b9a5ec9a488b15a2e.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-3cf171d307214ab1819264ad9035d7a1.html" target="element"> Etapa 1. Definici&#243;n gobierno </a> </td>
+													    <td> <a href="../elements/id-3cf171d307214ab1819264ad9035d7a1.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-80ce0c1954cd4c7ebbb5cedb60526c2b.html" target="element"> PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes </a> </td>
+															    <td> <a href="../elements/id-80ce0c1954cd4c7ebbb5cedb60526c2b.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-7d926d1289c842789bd9b02a8f48a03c.html" target="element"> PR03. Dise&#241;o de los procesos y responsabilidades del comit&#233; de gobierno </a> </td>
+															    <td> <a href="../elements/id-7d926d1289c842789bd9b02a8f48a03c.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-68779b91543e457087bc255dcb6de5c7.html" target="element"> Etapa 0. Levantamiento </a> </td>
+													    <td> <a href="../elements/id-68779b91543e457087bc255dcb6de5c7.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-1033cb8b9a4b40049920a2fcf84814d6.html" target="element"> PR01. Detalle de los &#237;tems de arquitectura impactados por el proyecto  </a> </td>
+															    <td> <a href="../elements/id-1033cb8b9a4b40049920a2fcf84814d6.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-eda2e2ecb4f34a2380db14aab7e3ca34.html" target="element"> Etapa 2. Ejecuci&#243;n gobierno. Incremento 1 </a> </td>
+													    <td> <a href="../elements/id-eda2e2ecb4f34a2380db14aab7e3ca34.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-b3583f999ed04f8c957d8c390db06255.html" target="element"> PR05. Procesos de mejoramiento de dise&#241;o y vigilancia de riesgos t&#233;cnicos </a> </td>
+															    <td> <a href="../elements/id-b3583f999ed04f8c957d8c390db06255.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-0d07b24c6fd94928a121fd0237dba7e7.html" target="element"> PR04. Definici&#243;n de roles y responsabilidades y selecci&#243;n e instalaci&#243;n del comit&#233; </a> </td>
+															    <td> <a href="../elements/id-0d07b24c6fd94928a121fd0237dba7e7.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-aa29832af742488c9ea1d20a040b0664.html" target="element"> Etapa 3. Ejecuci&#243;n gobierno. Incremento 2 </a> </td>
+													    <td> <a href="../elements/id-aa29832af742488c9ea1d20a040b0664.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-d227123c6f33438694a3485175bafd50.html" target="element"> PR06. Modelos actualizados de los &#237;tems de arquitectura impactados por el proyecto </a> </td>
+															    <td> <a href="../elements/id-d227123c6f33438694a3485175bafd50.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-f44e01774f69414aa01f93d45c02f7a6.html" target="element"> Etapa 4. Integraci&#243;n gobierno </a> </td>
+													    <td> <a href="../elements/id-f44e01774f69414aa01f93d45c02f7a6.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-670fb577a87d43b49247f90a1c82a2e8.html" target="element"> PR07. M&#233;tricas de efectividad del gobierno </a> </td>
+															    <td> <a href="../elements/id-670fb577a87d43b49247f90a1c82a2e8.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+															</tr>
+
+													
+											
+											<tr>
+											    <td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element"> Evoluci&#243;n de arquitectura SOA FNA </a> </td>
+											    <td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element" class="i18n-elementtype-Grouping"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-db7ef519134c40dca55235bc3d9c2b3c.html" target="element"> Arquitectura l&#237;nea base (ALB) </a> </td>
+													    <td> <a href="../elements/id-db7ef519134c40dca55235bc3d9c2b3c.html" target="element" class="i18n-elementtype-Plateau"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+													    <td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element" class="i18n-elementtype-Plateau"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-fd1670f6f9354ba1abd45acc2c883fa1.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+													    <td> <a href="../elements/id-fd1670f6f9354ba1abd45acc2c883fa1.html" target="element" class="i18n-elementtype-Plateau"> </a> </td>
+													</tr>
+
+											        <tr>
+											           <td> <a href="../objects/id-3f352039618544a1b500b801098be0b5.html" target="element">  </a> </td>
+											           <td> <a href="../objects/id-3f352039618544a1b500b801098be0b5.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+											        </tr>
+
+											        <tr>
+											           <td> <a href="../objects/id-2d83e78d5fac45af8a45b8bcdeac2bc3.html" target="element">  </a> </td>
+											           <td> <a href="../objects/id-2d83e78d5fac45af8a45b8bcdeac2bc3.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+											        </tr>
+
+											        <tr>
+											           <td> <a href="../objects/id-dbd7b8b251014874a9530e40101d3abb.html" target="element">  </a> </td>
+											           <td> <a href="../objects/id-dbd7b8b251014874a9530e40101d3abb.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+											        </tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+																	<tr>
+																		<td> <a href="../elements/id-6187099b98244975b9af8b1567b1cafa.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6187099b98244975b9af8b1567b1cafa.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-3ef00fadc122442b9a5ec9a488b15a2e.html" target="element"> Proyecto 1 (PRY01). Gobierno FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-68779b91543e457087bc255dcb6de5c7.html" target="element"> Etapa 0. Levantamiento </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-23cd83a2145b4840ba510697b1ca1d8a.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-23cd83a2145b4840ba510697b1ca1d8a.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-3ef00fadc122442b9a5ec9a488b15a2e.html" target="element"> Proyecto 1 (PRY01). Gobierno FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-eda2e2ecb4f34a2380db14aab7e3ca34.html" target="element"> Etapa 2. Ejecuci&#243;n gobierno. Incremento 1 </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-2b6d01b9e8c945169fdde39d3b4cc751.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-2b6d01b9e8c945169fdde39d3b4cc751.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-3ef00fadc122442b9a5ec9a488b15a2e.html" target="element"> Proyecto 1 (PRY01). Gobierno FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-aa29832af742488c9ea1d20a040b0664.html" target="element"> Etapa 3. Ejecuci&#243;n gobierno. Incremento 2 </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-f9c52169bf2646d795190a8e6f2563c2.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f9c52169bf2646d795190a8e6f2563c2.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-3ef00fadc122442b9a5ec9a488b15a2e.html" target="element"> Proyecto 1 (PRY01). Gobierno FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-f44e01774f69414aa01f93d45c02f7a6.html" target="element"> Etapa 4. Integraci&#243;n gobierno </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-004612d0bcd24d7191314f7050bf7e62.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-004612d0bcd24d7191314f7050bf7e62.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-3ef00fadc122442b9a5ec9a488b15a2e.html" target="element"> Proyecto 1 (PRY01). Gobierno FNA. Abril 2023 a Agosto 2023 </a> </td>
+																		<td> <a href="../elements/id-3cf171d307214ab1819264ad9035d7a1.html" target="element"> Etapa 1. Definici&#243;n gobierno </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-f246b7ae77144b7b8eb06fb4bacfa716.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-f246b7ae77144b7b8eb06fb4bacfa716.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-3cf171d307214ab1819264ad9035d7a1.html" target="element"> Etapa 1. Definici&#243;n gobierno </a> </td>
+																				<td> <a href="../elements/id-7d926d1289c842789bd9b02a8f48a03c.html" target="element"> PR03. Dise&#241;o de los procesos y responsabilidades del comit&#233; de gobierno </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-fd1a6e207fed43d99ca7d94086156e45.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-fd1a6e207fed43d99ca7d94086156e45.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-3cf171d307214ab1819264ad9035d7a1.html" target="element"> Etapa 1. Definici&#243;n gobierno </a> </td>
+																				<td> <a href="../elements/id-80ce0c1954cd4c7ebbb5cedb60526c2b.html" target="element"> PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-bd571a38e6154cafacefc6b6d9d9bb21.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-bd571a38e6154cafacefc6b6d9d9bb21.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-3cf171d307214ab1819264ad9035d7a1.html" target="element"> Etapa 1. Definici&#243;n gobierno </a> </td>
+																				<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-12b2f143c5974573b07fe820d98b6903.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-12b2f143c5974573b07fe820d98b6903.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-68779b91543e457087bc255dcb6de5c7.html" target="element"> Etapa 0. Levantamiento </a> </td>
+																				<td> <a href="../elements/id-1033cb8b9a4b40049920a2fcf84814d6.html" target="element"> PR01. Detalle de los &#237;tems de arquitectura impactados por el proyecto  </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-a062fcca972d485fa452dfaa0c14ed89.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-a062fcca972d485fa452dfaa0c14ed89.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-68779b91543e457087bc255dcb6de5c7.html" target="element"> Etapa 0. Levantamiento </a> </td>
+																				<td> <a href="../elements/id-db7ef519134c40dca55235bc3d9c2b3c.html" target="element"> Arquitectura l&#237;nea base (ALB) </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-d31c67296b2b4b8189be44adcca1724e.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-d31c67296b2b4b8189be44adcca1724e.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-eda2e2ecb4f34a2380db14aab7e3ca34.html" target="element"> Etapa 2. Ejecuci&#243;n gobierno. Incremento 1 </a> </td>
+																				<td> <a href="../elements/id-0d07b24c6fd94928a121fd0237dba7e7.html" target="element"> PR04. Definici&#243;n de roles y responsabilidades y selecci&#243;n e instalaci&#243;n del comit&#233; </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-ce722011ce524dcf83b4757c83ef1c30.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-ce722011ce524dcf83b4757c83ef1c30.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-eda2e2ecb4f34a2380db14aab7e3ca34.html" target="element"> Etapa 2. Ejecuci&#243;n gobierno. Incremento 1 </a> </td>
+																				<td> <a href="../elements/id-b3583f999ed04f8c957d8c390db06255.html" target="element"> PR05. Procesos de mejoramiento de dise&#241;o y vigilancia de riesgos t&#233;cnicos </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-d23ad278e72a49059bdc52964e38b62f.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-d23ad278e72a49059bdc52964e38b62f.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-eda2e2ecb4f34a2380db14aab7e3ca34.html" target="element"> Etapa 2. Ejecuci&#243;n gobierno. Incremento 1 </a> </td>
+																				<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-adc60086023b45f0bb57c177b109387a.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-adc60086023b45f0bb57c177b109387a.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-aa29832af742488c9ea1d20a040b0664.html" target="element"> Etapa 3. Ejecuci&#243;n gobierno. Incremento 2 </a> </td>
+																				<td> <a href="../elements/id-d227123c6f33438694a3485175bafd50.html" target="element"> PR06. Modelos actualizados de los &#237;tems de arquitectura impactados por el proyecto </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-df992936e5a84065ba8d9ec5ddef364c.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-df992936e5a84065ba8d9ec5ddef364c.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-aa29832af742488c9ea1d20a040b0664.html" target="element"> Etapa 3. Ejecuci&#243;n gobierno. Incremento 2 </a> </td>
+																				<td> <a href="../elements/id-670fb577a87d43b49247f90a1c82a2e8.html" target="element"> PR07. M&#233;tricas de efectividad del gobierno </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-8c56cda41ec54120af876cc2c875e43f.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-8c56cda41ec54120af876cc2c875e43f.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-aa29832af742488c9ea1d20a040b0664.html" target="element"> Etapa 3. Ejecuci&#243;n gobierno. Incremento 2 </a> </td>
+																				<td> <a href="../elements/id-fd1670f6f9354ba1abd45acc2c883fa1.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-35f2ff0f5e134fc689d609785cb87450.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-35f2ff0f5e134fc689d609785cb87450.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-f44e01774f69414aa01f93d45c02f7a6.html" target="element"> Etapa 4. Integraci&#243;n gobierno </a> </td>
+																				<td> <a href="../elements/id-670fb577a87d43b49247f90a1c82a2e8.html" target="element"> PR07. M&#233;tricas de efectividad del gobierno </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-a45bc9ff551a42c6ab193e1e2c92f7d2.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-a45bc9ff551a42c6ab193e1e2c92f7d2.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/id-f44e01774f69414aa01f93d45c02f7a6.html" target="element"> Etapa 4. Integraci&#243;n gobierno </a> </td>
+																				<td> <a href="../elements/id-fd1670f6f9354ba1abd45acc2c883fa1.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+																			</tr>
+
+													
+											
+																	<tr>
+																		<td> <a href="../elements/id-9188d52425144c01a55ad83a792e1908.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9188d52425144c01a55ad83a792e1908.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element"> Evoluci&#243;n de arquitectura SOA FNA </a> </td>
+																		<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-f8d117cd3a2c42ee90527d27cb5b9cff.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f8d117cd3a2c42ee90527d27cb5b9cff.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element"> Evoluci&#243;n de arquitectura SOA FNA </a> </td>
+																		<td> <a href="../elements/id-db7ef519134c40dca55235bc3d9c2b3c.html" target="element"> Arquitectura l&#237;nea base (ALB) </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-66bc449bc9694bddad6f1a540d8ddcb4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-66bc449bc9694bddad6f1a540d8ddcb4.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/id-16ff383e07174e26836db5fe885b123f.html" target="element"> Evoluci&#243;n de arquitectura SOA FNA </a> </td>
+																		<td> <a href="../elements/id-fd1670f6f9354ba1abd45acc2c883fa1.html" target="element"> Arquitectura ref 2.0 -Incremento 2 </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-e533d5cc9df94c0a8f54fdfa08969584.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-e533d5cc9df94c0a8f54fdfa08969584.html" target="element" class="i18n-elementtype-TriggeringRelationship"></a> </td>
+																				<td> <a href="../elements/id-db7ef519134c40dca55235bc3d9c2b3c.html" target="element"> Arquitectura l&#237;nea base (ALB) </a> </td>
+																				<td> <a href="../elements/id-87dfe95d48ac4e7b86e33a5a96a0897e.html" target="element"> Arquitectura ref 2.0 -Incremento 1 </a> </td>
+																			</tr>
+
+													<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+													<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+													<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+											
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS149-validarPoliticasParaCreacionTramiteCredito"
-    id="2ea4358e-cb38-4569-9695-ba24d33368c3">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationFunction>

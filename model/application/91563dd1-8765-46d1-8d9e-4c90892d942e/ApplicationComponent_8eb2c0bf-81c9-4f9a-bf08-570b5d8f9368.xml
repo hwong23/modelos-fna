@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TRANSUNION"
-    id="8eb2c0bf-81c9-4f9a-bf08-570b5d8f9368">
-  <properties
-      key="alcanceSOA"
-      value="Fase 1.1"/>
-</archimate:ApplicationComponent>

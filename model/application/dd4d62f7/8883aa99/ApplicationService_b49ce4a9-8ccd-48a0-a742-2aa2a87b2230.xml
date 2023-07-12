@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS068-ModificacionConsumidorFinanciero"
-    id="b49ce4a9-8ccd-48a0-a742-2aa2a87b2230">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationService>

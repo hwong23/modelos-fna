@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aplicación Web - Viabilidad de Crédito"
-    id="cceaf32b-c94f-47aa-b0d6-35f530990fe8">
-  <properties
-      key="alcanceSOA"
-      value="Fase 1.1"/>
-</archimate:ApplicationComponent>

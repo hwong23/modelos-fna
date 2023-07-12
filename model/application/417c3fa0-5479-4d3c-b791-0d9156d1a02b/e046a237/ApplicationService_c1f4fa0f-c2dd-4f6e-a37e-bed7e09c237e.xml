@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_194_GestorDocumental_ObtenerInformacionFormulario"
-    id="c1f4fa0f-c2dd-4f6e-a37e-bed7e09c237e">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

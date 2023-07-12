@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BROKER9_BUS"
-    id="2a08dfb0">
-  <properties
-      key="alcanceSOA"
-      value="Fase 1.1"/>
-</archimate:ApplicationComponent>

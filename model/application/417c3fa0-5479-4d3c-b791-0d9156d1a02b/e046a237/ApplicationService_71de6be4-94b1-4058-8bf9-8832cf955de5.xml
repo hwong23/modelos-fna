@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_056_ClientePersonaNatural_ModificarInfoLaboralRq"
-    id="71de6be4-94b1-4058-8bf9-8832cf955de5">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

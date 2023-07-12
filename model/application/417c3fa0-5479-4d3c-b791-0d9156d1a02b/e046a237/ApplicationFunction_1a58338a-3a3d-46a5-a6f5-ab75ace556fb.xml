@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_172_modificarInformacionFormularioTramiteCreditoEducativo"
-    id="1a58338a-3a3d-46a5-a6f5-ab75ace556fb">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS079_enviarExtractoDetalladoPorRangoFecha "
-    id="db623944-e0b1-4313-8b90-d6edcc848d02">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationFunction>

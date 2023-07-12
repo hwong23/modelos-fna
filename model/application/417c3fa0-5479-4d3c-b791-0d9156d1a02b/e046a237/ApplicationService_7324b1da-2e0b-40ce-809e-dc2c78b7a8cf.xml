@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_003_Credito_RecuperarEstadoCuenta"
-    id="7324b1da-2e0b-40ce-809e-dc2c78b7a8cf">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

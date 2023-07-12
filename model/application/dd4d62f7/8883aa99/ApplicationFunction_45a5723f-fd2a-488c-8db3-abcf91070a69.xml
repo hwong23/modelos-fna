@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS150-modificarInformacionFormularioTramiteCreditoEducativo"
-    id="45a5723f-fd2a-488c-8db3-abcf91070a69">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationFunction>

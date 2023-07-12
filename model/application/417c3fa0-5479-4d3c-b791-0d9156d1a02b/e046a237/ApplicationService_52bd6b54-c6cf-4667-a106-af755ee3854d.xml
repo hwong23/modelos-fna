@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_048_ClntePrsnaNtral_GestionarCredenciales"
-    id="52bd6b54-c6cf-4667-a106-af755ee3854d">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Bizagi</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Bizagi</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+											    <td> <a href="../elements/19558b78.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/c96b0ed0-5d74-444a-aabc-925883d6c244.html" target="element"> SP_SQLServer_Bizagi </a> </td>
+													    <td> <a href="../elements/c96b0ed0-5d74-444a-aabc-925883d6c244.html" target="element" class="i18n-elementtype-ApplicationCollaboration"> </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/516e948b-d90d-40e2-9da6-dd8b624e0c97.html" target="element"> sp_detalleTramiteXNoTramite </a> </td>
+															    <td> <a href="../elements/516e948b-d90d-40e2-9da6-dd8b624e0c97.html" target="element" class="i18n-elementtype-ApplicationFunction"> </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/f951f823-4d40-421c-b27c-b43422e674bc.html" target="element"> sp_notificarEstadoDesembolso </a> </td>
+															    <td> <a href="../elements/f951f823-4d40-421c-b27c-b43422e674bc.html" target="element" class="i18n-elementtype-ApplicationFunction"> </a> </td>
+															</tr>
+
+													
+											
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/9705b51a-5df5-4940-99d8-0c308482abf2.html" target="element">  </a> </td>
+																		<td> <a href="../elements/9705b51a-5df5-4940-99d8-0c308482abf2.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/13018f58-4f1c-4c16-aa5f-834f68e326b7.html" target="element"> 164 CobisProxy_ValidarExistenciaService </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/c2f3b297-cb86-4c08-8e63-87611ff46a3f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/c2f3b297-cb86-4c08-8e63-87611ff46a3f.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/7b825bb5-955d-4275-9af8-b3533781fbe1.html" target="element"> 160 CobisProxy_RecuperarInfoPNService </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/702b377f-5e67-412e-b11e-c65d63bac7b1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/702b377f-5e67-412e-b11e-c65d63bac7b1.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/cd8af584-b9f0-4b94-a37e-8bdec41912d5.html" target="element"> 176 CobisProxy_RecuperarDetalleTramiteService </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/37253ff8-1bf3-4400-b0a2-1044c5fc8d80.html" target="element">  </a> </td>
+																		<td> <a href="../elements/37253ff8-1bf3-4400-b0a2-1044c5fc8d80.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/557c4819-0295-4f5b-a33e-876f28b64bc3.html" target="element"> 150 CobisProxy_RecuperarTramites </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/78d7dc18-a83c-49c9-9fb8-106f73f0c716.html" target="element">  </a> </td>
+																		<td> <a href="../elements/78d7dc18-a83c-49c9-9fb8-106f73f0c716.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/d30be440-e709-42de-8e94-7af48e384117.html" target="element"> 158 CobisProxy_EnrutarTramiteCredito </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/7c9ef6bd-d94b-4e42-95ea-af6382452b1f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/7c9ef6bd-d94b-4e42-95ea-af6382452b1f.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/591db45d-2315-41e1-bec3-c12634b6c9aa.html" target="element"> 194 GestorDocumentalProxy_ObtenerInformacionFormulario </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/2bb194a0-6d92-48e1-92bf-ac859c9ac5f7.html" target="element">  </a> </td>
+																		<td> <a href="../elements/2bb194a0-6d92-48e1-92bf-ac859c9ac5f7.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/bdb104d0-47f2-49cd-9c69-9079e1f001d2.html" target="element"> 172 GestorDocumentalProxy_ConsultaDocumento </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/a033dd7e-f552-4105-bdd1-85e167d0d636.html" target="element">  </a> </td>
+																		<td> <a href="../elements/a033dd7e-f552-4105-bdd1-85e167d0d636.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/6aa1bc66-ad79-4c6c-9ae6-25370c80599e.html" target="element"> 140 CobisProxy_NotificarApp </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/3baf1347-493a-47b4-b02f-cdeee1de0770.html" target="element">  </a> </td>
+																		<td> <a href="../elements/3baf1347-493a-47b4-b02f-cdeee1de0770.html" target="element" class="i18n-elementtype-AggregationRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/c96b0ed0-5d74-444a-aabc-925883d6c244.html" target="element"> SP_SQLServer_Bizagi </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/06b37a76-01ef-41d5-8f84-47df070ed3c4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/06b37a76-01ef-41d5-8f84-47df070ed3c4.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/19558b78.html" target="element"> Aplicaci&#243;n Back - Bizagi Engine </a> </td>
+																		<td> <a href="../elements/4df28699-e4d8-462c-ac06-17de0c043689.html" target="element"> 144 CobisProxy_RecuperarFlujo </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/36b906be-0688-42b1-9862-1e08287e9a3d.html" target="element">  </a> </td>
+																				<td> <a href="../elements/36b906be-0688-42b1-9862-1e08287e9a3d.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/c96b0ed0-5d74-444a-aabc-925883d6c244.html" target="element"> SP_SQLServer_Bizagi </a> </td>
+																				<td> <a href="../elements/516e948b-d90d-40e2-9da6-dd8b624e0c97.html" target="element"> sp_detalleTramiteXNoTramite </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/36fcfc74-d589-42f6-aef9-9c5b575311a5.html" target="element">  </a> </td>
+																				<td> <a href="../elements/36fcfc74-d589-42f6-aef9-9c5b575311a5.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/c96b0ed0-5d74-444a-aabc-925883d6c244.html" target="element"> SP_SQLServer_Bizagi </a> </td>
+																				<td> <a href="../elements/f951f823-4d40-421c-b27c-b43422e674bc.html" target="element"> sp_notificarEstadoDesembolso </a> </td>
+																			</tr>
+
+													
+											
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_XXX_Credito_ConsultarEstadoGrantiaPorTramite"
-    id="5051b4f9-050a-4fde-93ed-e562d292c4fe">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

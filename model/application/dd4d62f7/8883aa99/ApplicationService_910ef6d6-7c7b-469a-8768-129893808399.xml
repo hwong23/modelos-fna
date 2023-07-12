@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS067-CreacionConsumidorFinanciero"
-    id="910ef6d6-7c7b-469a-8768-129893808399">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationService>

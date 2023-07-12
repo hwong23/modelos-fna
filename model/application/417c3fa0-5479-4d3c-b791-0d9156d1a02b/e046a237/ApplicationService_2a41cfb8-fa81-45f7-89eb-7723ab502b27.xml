@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_XX1_Tesorería_ValidarRecaudo"
-    id="2a41cfb8-fa81-45f7-89eb-7723ab502b27">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_170_Credito_ModificarInformacionReferenciaFormulario"
-    id="08322af0-524f-493a-8f92-9832b92fb168">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

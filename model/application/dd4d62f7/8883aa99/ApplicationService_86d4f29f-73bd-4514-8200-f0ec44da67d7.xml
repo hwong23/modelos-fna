@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS071-GeneracionExtractoCuentaAVC"
-    id="86d4f29f-73bd-4514-8200-f0ec44da67d7">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationService>

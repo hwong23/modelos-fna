@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_197_GestorDocumental_ActualizarFormulario"
-    id="8a1007cf-51d6-4949-9ec7-9e493c17b471">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_034_Cesantias_CalcularPuntaje"
-    id="77ec1ba9-fa6b-4901-95fb-c092e5f21246">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

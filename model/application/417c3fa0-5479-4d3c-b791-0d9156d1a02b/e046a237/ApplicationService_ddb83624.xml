@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_155_Credito_GetUserExternalLog - WI23155"
-    id="ddb83624"
-    documentation="Versión 1.0.0">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

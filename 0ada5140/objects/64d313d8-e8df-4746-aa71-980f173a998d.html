@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Frontend</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Frontend</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/f59874b1-e521-4dfc-a891-a1accf0aa4e8.html" target="element"> Denuncias WEB </a> </td>
+											    <td> <a href="../elements/f59874b1-e521-4dfc-a891-a1accf0aa4e8.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+											    <td> <a href="../elements/8a5026b1.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/788bb640-d5ad-4929-b177-7277fb570018.html" target="element"> Cliente Desencriptar Archivos </a> </td>
+											    <td> <a href="../elements/788bb640-d5ad-4929-b177-7277fb570018.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/3b024b0b-301e-46c2-8853-bf62f4a47835.html" target="element">  </a> </td>
+																		<td> <a href="../elements/3b024b0b-301e-46c2-8853-bf62f4a47835.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/f59874b1-e521-4dfc-a891-a1accf0aa4e8.html" target="element"> Denuncias WEB </a> </td>
+																		<td> <a href="../elements/be34ce94.html" target="element"> SQL Server 2014 </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/6f2ca34c-e82b-4091-a5f5-fc900b070199.html" target="element">  </a> </td>
+																		<td> <a href="../elements/6f2ca34c-e82b-4091-a5f5-fc900b070199.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/f59874b1-e521-4dfc-a891-a1accf0aa4e8.html" target="element"> Denuncias WEB </a> </td>
+																		<td> <a href="../elements/e455fc36-9210-4bf1-88cd-6ab701d57404.html" target="element"> Andes CA </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/e1acf381-54d1-44e6-9f64-ecaddb0072f8.html" target="element">  </a> </td>
+																		<td> <a href="../elements/e1acf381-54d1-44e6-9f64-ecaddb0072f8.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/f59874b1-e521-4dfc-a891-a1accf0aa4e8.html" target="element"> Denuncias WEB </a> </td>
+																		<td> <a href="../elements/c93a5deb.html" target="element"> ESB-File </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/234dd26a-478c-4e18-8f2f-bf3a283f85f9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/234dd26a-478c-4e18-8f2f-bf3a283f85f9.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/f59874b1-e521-4dfc-a891-a1accf0aa4e8.html" target="element"> Denuncias WEB </a> </td>
+																		<td> <a href="../elements/2abeddc5.html" target="element"> ESB - BROKER9 </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/e088419f-41c2-43e0-ae23-5f7c4df14d2f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/e088419f-41c2-43e0-ae23-5f7c4df14d2f.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/be34ce94.html" target="element"> SQL Server 2014 </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/6781699a-a6ab-42f9-8097-5d15f8750b33.html" target="element">  </a> </td>
+																		<td> <a href="../elements/6781699a-a6ab-42f9-8097-5d15f8750b33.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/2d355af1.html" target="element"> WM_APIv2 </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/9b795718-1300-414d-8cce-4ed59ec559ae.html" target="element">  </a> </td>
+																		<td> <a href="../elements/9b795718-1300-414d-8cce-4ed59ec559ae.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/5ef0965c.html" target="element"> Microsoft Active Directory </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/0de2ff63-b5d6-48f6-924f-374877c239f7.html" target="element">  </a> </td>
+																		<td> <a href="../elements/0de2ff63-b5d6-48f6-924f-374877c239f7.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/115dda03-4902-455c-92aa-6fb1082ff406.html" target="element"> ProxyBizagi </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/90781904-c1ac-48e6-91de-3a55cf059f91.html" target="element">  </a> </td>
+																		<td> <a href="../elements/90781904-c1ac-48e6-91de-3a55cf059f91.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/8a5026b1.html" target="element"> BIZAGI </a> </td>
+																		<td> <a href="../elements/c93a5deb.html" target="element"> ESB-File </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/ccd68e2a-6f50-4600-bebe-13b0711b5bd1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/ccd68e2a-6f50-4600-bebe-13b0711b5bd1.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																		<td> <a href="../elements/788bb640-d5ad-4929-b177-7277fb570018.html" target="element"> Cliente Desencriptar Archivos </a> </td>
+																		<td> <a href="../elements/e455fc36-9210-4bf1-88cd-6ab701d57404.html" target="element"> Andes CA </a> </td>
+																	</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

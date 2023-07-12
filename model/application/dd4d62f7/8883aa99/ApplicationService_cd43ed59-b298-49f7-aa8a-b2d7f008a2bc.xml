@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS050-ConsultaPuntajeCredito"
-    id="cd43ed59-b298-49f7-aa8a-b2d7f008a2bc">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationService>

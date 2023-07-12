@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_051_ConsultaReferenciaInhibitoria"
-    id="5ee0e34b-4dc7-43c2-9d37-d8eec748849e">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

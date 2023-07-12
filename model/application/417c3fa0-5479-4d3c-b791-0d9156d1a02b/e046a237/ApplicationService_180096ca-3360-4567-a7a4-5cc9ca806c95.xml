@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_111_Seguridad_AdministrarConexionCRM "
-    id="180096ca-3360-4567-a7a4-5cc9ca806c95">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

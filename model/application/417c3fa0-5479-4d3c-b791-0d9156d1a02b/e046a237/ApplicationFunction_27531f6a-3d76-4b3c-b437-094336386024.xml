@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_142_generarFormularioSolicitudRetiroSinSolicitud"
-    id="27531f6a-3d76-4b3c-b437-094336386024">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

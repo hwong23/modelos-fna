@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_186_generarPlanillaConsignacionAporteCesantiasPorCodigo"
-    id="dcbcdb19-1b24-4a14-b383-f2d98a529ef3">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

@@ -1,8 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FWK_WebServicesIntegrationAdapter"
-    id="28162ccb">
-  <properties
-      key="alcanceSOA"
-      value="Fase 1.1"/>
-</archimate:ApplicationInterface>

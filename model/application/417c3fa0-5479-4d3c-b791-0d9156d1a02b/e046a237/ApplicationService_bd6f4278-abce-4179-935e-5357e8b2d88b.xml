@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_032_CuentaAVC_RecuperarMovimientos "
-    id="bd6f4278-abce-4179-935e-5357e8b2d88b">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

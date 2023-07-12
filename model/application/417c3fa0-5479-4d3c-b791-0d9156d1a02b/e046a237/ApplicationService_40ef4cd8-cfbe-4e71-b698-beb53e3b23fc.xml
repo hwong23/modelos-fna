@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_079_ClientePersonaJuridica_CreacionRapidaPersonaJuridica"
-    id="40ef4cd8-cfbe-4e71-b698-beb53e3b23fc">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

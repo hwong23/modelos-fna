@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_078_ClientePersonaNatural_CreacionRapidaPN"
-    id="2ed08323-fa13-40a0-8a7f-1eb419b0142f">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

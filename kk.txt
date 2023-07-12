@@ -1,3 +1,0 @@
-images
-kk.txt
-model

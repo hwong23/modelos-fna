@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS134-GeneracionFormularioSolicitudRetiroAVC"
-    id="c74816c8-2dfb-4fe0-96b2-89deac262711">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationService>

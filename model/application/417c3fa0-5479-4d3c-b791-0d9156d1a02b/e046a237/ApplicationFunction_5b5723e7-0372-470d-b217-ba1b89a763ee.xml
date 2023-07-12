@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_138_validarPoliticasParaSolicitudRetiroAVC"
-    id="5b5723e7-0372-470d-b217-ba1b89a763ee">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

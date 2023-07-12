@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_202_Comercial_crearOportunidad"
-    id="dc3ef5d7-f8d6-4539-a046-3ea6d23ed936">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

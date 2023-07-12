@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_072_CuentaAVC_CalcularPuntaje"
-    id="afc3434f-a161-46ff-a344-f54697f4bdb8">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

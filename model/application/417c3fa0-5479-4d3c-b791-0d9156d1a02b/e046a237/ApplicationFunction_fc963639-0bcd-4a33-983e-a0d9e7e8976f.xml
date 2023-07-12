@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_181_GenerarCertificadoTiempoTraslado"
-    id="fc963639-0bcd-4a33-983e-a0d9e7e8976f">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

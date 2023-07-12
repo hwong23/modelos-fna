@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_076_AprovisionarTokenUsuario2FARq"
-    id="74cac1fa-a76a-4e23-af18-94edbb4fa090">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationFunction>

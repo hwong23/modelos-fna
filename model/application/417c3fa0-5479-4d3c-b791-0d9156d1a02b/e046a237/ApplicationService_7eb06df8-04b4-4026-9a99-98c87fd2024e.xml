@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESB_175_GestorDocumental_CrearRadicadoDocumento"
-    id="7eb06df8-04b4-4026-9a99-98c87fd2024e">
-  <properties
-      key="aplicacionProveedora"
-      value="ESB"/>
-</archimate:ApplicationService>

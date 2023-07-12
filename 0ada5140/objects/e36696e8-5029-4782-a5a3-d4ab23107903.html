@@ -1,0 +1,162 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Integración</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Integraci&#243;n</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/2abeddc5.html" target="element"> ESB - BROKER9 </a> </td>
+											    <td> <a href="../elements/2abeddc5.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/4605282f-5517-466b-9b59-75bab3960d16.html" target="element"> ESB_231_Credito_ConsultarSimulacionHipotecario </a> </td>
+													    <td> <a href="../elements/4605282f-5517-466b-9b59-75bab3960d16.html" target="element" class="i18n-elementtype-ApplicationService"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/08666875-93b1-4b0f-92d1-c4d9fb83ab30.html" target="element"> ESB_232_Credito_SimularHipotecario </a> </td>
+													    <td> <a href="../elements/08666875-93b1-4b0f-92d1-c4d9fb83ab30.html" target="element" class="i18n-elementtype-ApplicationService"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/16ddc987-820d-4131-aeed-3cd70c86b429.html" target="element"> ESB_233_Credito_GuardarSimulacionHipotecario </a> </td>
+													    <td> <a href="../elements/16ddc987-820d-4131-aeed-3cd70c86b429.html" target="element" class="i18n-elementtype-ApplicationService"> </a> </td>
+													</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/6ad0aabc-ec19-4619-a38a-751f1f930739.html" target="element">  </a> </td>
+																		<td> <a href="../elements/6ad0aabc-ec19-4619-a38a-751f1f930739.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/2abeddc5.html" target="element"> ESB - BROKER9 </a> </td>
+																		<td> <a href="../elements/4605282f-5517-466b-9b59-75bab3960d16.html" target="element"> ESB_231_Credito_ConsultarSimulacionHipotecario </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/351b7ee6-d852-432c-94ed-ade3d40fa1ea.html" target="element">  </a> </td>
+																		<td> <a href="../elements/351b7ee6-d852-432c-94ed-ade3d40fa1ea.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/2abeddc5.html" target="element"> ESB - BROKER9 </a> </td>
+																		<td> <a href="../elements/08666875-93b1-4b0f-92d1-c4d9fb83ab30.html" target="element"> ESB_232_Credito_SimularHipotecario </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/b0746cf2-54d5-4c0d-a5e7-f665e11c5f1f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/b0746cf2-54d5-4c0d-a5e7-f665e11c5f1f.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/2abeddc5.html" target="element"> ESB - BROKER9 </a> </td>
+																		<td> <a href="../elements/16ddc987-820d-4131-aeed-3cd70c86b429.html" target="element"> ESB_233_Credito_GuardarSimulacionHipotecario </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/690cbb54-1ecf-4106-a5c3-bb843a18c027.html" target="element">  </a> </td>
+																				<td> <a href="../elements/690cbb54-1ecf-4106-a5c3-bb843a18c027.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																				<td> <a href="../elements/4605282f-5517-466b-9b59-75bab3960d16.html" target="element"> ESB_231_Credito_ConsultarSimulacionHipotecario </a> </td>
+																				<td> <a href="../elements/6704b854-8388-4fe7-8c22-1d7ccf8fda27.html" target="element"> consultarSimulacionById </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/d9ae02c9-efa0-4456-badc-4b5257343880.html" target="element">  </a> </td>
+																				<td> <a href="../elements/d9ae02c9-efa0-4456-badc-4b5257343880.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																				<td> <a href="../elements/08666875-93b1-4b0f-92d1-c4d9fb83ab30.html" target="element"> ESB_232_Credito_SimularHipotecario </a> </td>
+																				<td> <a href="../elements/31d21042-fbac-4b38-9256-047d940193fb.html" target="element"> simulacion </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/0317c8a4-8d45-4c92-a0a0-888b3d943af7.html" target="element">  </a> </td>
+																				<td> <a href="../elements/0317c8a4-8d45-4c92-a0a0-888b3d943af7.html" target="element" class="i18n-elementtype-FlowRelationship"></a> </td>
+																				<td> <a href="../elements/16ddc987-820d-4131-aeed-3cd70c86b429.html" target="element"> ESB_233_Credito_GuardarSimulacionHipotecario </a> </td>
+																				<td> <a href="../elements/3e873a08-d4af-40f3-b177-c6583eb15eab.html" target="element"> guardarSimulacion </a> </td>
+																			</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

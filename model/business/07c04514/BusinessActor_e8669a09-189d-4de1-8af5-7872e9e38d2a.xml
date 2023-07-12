@@ -1,8 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Crédito"
-    id="e8669a09-189d-4de1-8af5-7872e9e38d2a">
-  <properties
-      key="alcanceSOA"
-      value="Fase 1.1"/>
-</archimate:BusinessActor>

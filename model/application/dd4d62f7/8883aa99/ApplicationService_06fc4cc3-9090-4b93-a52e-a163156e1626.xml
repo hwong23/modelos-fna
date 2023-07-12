@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS152-ConsultarInformacionConsumidorFinanciero*"
-    id="06fc4cc3-9090-4b93-a52e-a163156e1626">
-  <properties
-      key="aplicacionProveedora"
-      value="COBIS"/>
-</archimate:ApplicationService>
