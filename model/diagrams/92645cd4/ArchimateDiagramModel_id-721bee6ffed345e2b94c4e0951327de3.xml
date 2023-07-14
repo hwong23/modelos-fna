@@ -5,7 +5,8 @@
     id="id-721bee6ffed345e2b94c4e0951327de3">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b33278c8f1054575b248a02a37203f89">
+      id="id-b33278c8f1054575b248a02a37203f89"
+      targetConnections="id-1e36cfd943e7477a8d367284d0d6ffde">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e1693a65924143d3ab44c272bba3698e"
@@ -451,7 +452,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ed84c9321109427c88a0cfa0a8fdb9b9"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ02. Colaboración para el modelado de soluciones, base para el análsis y la generación de contenidos.&#xA;&#xA;versión 0.28">
+      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ02. Colaboración para el modelado de soluciones, base para el análsis y la generación de contenidos.&#xA;&#xA;versión 0.31">
     <bounds
         x="60"
         y="60"
@@ -636,5 +637,39 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-b08e80cbef404eb8b4365982502a415a.xml#id-b08e80cbef404eb8b4365982502a415a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c643184302c14e91b11a51c98a8c40f5"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1e36cfd943e7477a8d367284d0d6ffde"
+        source="id-c643184302c14e91b11a51c98a8c40f5"
+        target="id-b33278c8f1054575b248a02a37203f89">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-97d4c759a7814a99bcc94c028be20338.xml#id-97d4c759a7814a99bcc94c028be20338"/>
+    </sourceConnections>
+    <bounds
+        x="-336"
+        y="204"
+        width="244"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-ccfdc5e05f3041278df57fc3e28bb4eb">
+      <bounds
+          x="36"
+          y="48"
+          width="180"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-825eafdcf9dc47679a8bdbf5def0c86c.xml#id-825eafdcf9dc47679a8bdbf5def0c86c"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-b1be462fdae14b8897f73a28510e78e1.xml#id-b1be462fdae14b8897f73a28510e78e1"/>
   </children>
 </archimate:ArchimateDiagramModel>

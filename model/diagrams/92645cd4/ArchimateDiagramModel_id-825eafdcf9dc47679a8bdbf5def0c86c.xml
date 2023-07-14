@@ -18,15 +18,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4c3bb0b50442418ea65b1d6c28ed9260"
-        source="id-bb0e04b0f25e43608dd013ca26842280"
-        target="id-f7370ea8d49e435e82bfb7598430412f">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-d7ae6afa568f4ba1ad7fec4ba21db318.xml#id-d7ae6afa568f4ba1ad7fec4ba21db318"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bc5df7181f9e4b81b9cd345217d9da72"
         source="id-bb0e04b0f25e43608dd013ca26842280"
         target="id-7f678b49c9cd4b73ba123c39fe19c3a1">
@@ -35,9 +26,9 @@
           href="TriggeringRelationship_id-961b8044f2894daeba473c2c7dde7dc3.xml#id-961b8044f2894daeba473c2c7dde7dc3"/>
     </sourceConnections>
     <bounds
-        x="178"
+        x="168"
         y="456"
-        width="132"
+        width="142"
         height="67"/>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -47,7 +38,7 @@
         content="2."
         borderType="1">
       <bounds
-          x="72"
+          x="82"
           y="36"
           width="49"
           height="25"/>
@@ -78,9 +69,9 @@
           href="TriggeringRelationship_id-dd76a62501b84888b6f1470b5bfcf650.xml#id-dd76a62501b84888b6f1470b5bfcf650"/>
     </sourceConnections>
     <bounds
-        x="178"
+        x="168"
         y="192"
-        width="132"
+        width="142"
         height="67"/>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -90,7 +81,7 @@
         content="1."
         borderType="1">
       <bounds
-          x="72"
+          x="82"
           y="36"
           width="49"
           height="25"/>
@@ -142,7 +133,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-774e19f085004ee8927fd02e3fed4f59"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ01. Interno. Oficina de arquitectura. Para el modelado de soluciones, base para el análsis y la generación de contenidos.&#xA;&#xA;versión 0.11">
+      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ01. Interno. Oficina de arquitectura. Para el modelado de soluciones, base para el análsis y la generación de contenidos.&#xA;&#xA;versión 0.14">
     <bounds
         x="24"
         y="24"
@@ -152,7 +143,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-af0599b1982b4b398221c9630ce488d7"
-      targetConnections="id-51ed3d77fea04474824f2c9794fe005f id-a0137e0e9a574802864af3b451f5ac0d id-0098639da50b4fb489f17ed283dde264">
+      targetConnections="id-51ed3d77fea04474824f2c9794fe005f id-a0137e0e9a574802864af3b451f5ac0d">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7093e7c906cd4cd8ba2e76a05fa854f8"
@@ -190,7 +181,7 @@
           href="FlowRelationship_id-2565eea24e27423d92eb8bceeeb12d6c.xml#id-2565eea24e27423d92eb8bceeeb12d6c"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="48"
         y="600"
         width="143"
         height="67"/>
@@ -213,41 +204,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f7370ea8d49e435e82bfb7598430412f"
-      targetConnections="id-4c3bb0b50442418ea65b1d6c28ed9260">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0098639da50b4fb489f17ed283dde264"
-        source="id-f7370ea8d49e435e82bfb7598430412f"
-        target="id-af0599b1982b4b398221c9630ce488d7">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-465920e1f3134ac3affff44bb080c961.xml#id-465920e1f3134ac3affff44bb080c961"/>
-    </sourceConnections>
-    <bounds
-        x="372"
-        y="600"
-        width="169"
-        height="67"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-b129809fdaa04bd6aed32233c15577c2"
-        textAlignment="1"
-        fillColor="#ff9300"
-        content="5."
-        borderType="1">
-      <bounds
-          x="108"
-          y="36"
-          width="49"
-          height="25"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:ApplicationCollaboration"
-        href="ApplicationCollaboration_id-1ac71b1850014e06a1339ccff7433856.xml#id-1ac71b1850014e06a1339ccff7433856"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d089033780ac4ec6bcccd5fe27192fbb"
       targetConnections="id-24e741ff7f78415094b79e105c367159">
     <sourceConnections
@@ -260,7 +216,7 @@
           href="FlowRelationship_id-375741996cf344fba4f7ba3dc9ea3172.xml#id-375741996cf344fba4f7ba3dc9ea3172"/>
     </sourceConnections>
     <bounds
-        x="178"
+        x="278"
         y="600"
         width="159"
         height="67"/>
@@ -487,6 +443,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-820ecefb5c3b4ef0b3dcd4dfb47ff9ae"
       targetConnections="id-39d5db4892da48389a9f2f7919d09996">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-95fedb5b284c41a8be9585bc31dbbc5c"
+        source="id-820ecefb5c3b4ef0b3dcd4dfb47ff9ae"
+        target="id-c9ec2c5d7c1f4e579c5db8c94796bdcb">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-b3f4c1518c8944ff9eecc22297bc57fa.xml#id-b3f4c1518c8944ff9eecc22297bc57fa"/>
+    </sourceConnections>
     <bounds
         x="812"
         y="108"
@@ -529,5 +494,31 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-c90933fdafe1467bbe820f44a3ccdbdc.xml#id-c90933fdafe1467bbe820f44a3ccdbdc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c9ec2c5d7c1f4e579c5db8c94796bdcb"
+      targetConnections="id-95fedb5b284c41a8be9585bc31dbbc5c"
+      textAlignment="1">
+    <bounds
+        x="1044"
+        y="75"
+        width="276"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-73c6453a071c449999ea337575511ff9">
+      <bounds
+          x="24"
+          y="36"
+          width="216"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-721bee6ffed345e2b94c4e0951327de3.xml#id-721bee6ffed345e2b94c4e0951327de3"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-6ca6d46720244d299fab6fd259c91be8.xml#id-6ca6d46720244d299fab6fd259c91be8"/>
   </children>
 </archimate:ArchimateDiagramModel>
