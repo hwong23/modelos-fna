@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ArqReferencia. "
+    name="ArqReferencia. FLARQ3. Creación y mntto arqref"
     id="id-5a7ec6e0db9f46b3bc3944e6c72d755a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -29,7 +29,7 @@
     <bounds
         x="48"
         y="161"
-        width="400"
+        width="709"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -40,6 +40,11 @@
           id="id-f2d9a798c361445ba917c393f028d052"
           source="id-d09887cf357346a8b7b053568f15cd7d"
           target="id-c8de6e09fa084fd6adcce23f7f45b69c">
+        <bendpoints
+            startX="48"
+            startY="52"
+            endX="-36"
+            endY="-99"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-2eac02eb6d604d07ad0af83c5b182e1c.xml#id-2eac02eb6d604d07ad0af83c5b182e1c"/>
@@ -58,7 +63,7 @@
         id="id-04339ec5bd794f8f94cd581135c2506a"
         targetConnections="id-39edda54297d4d5fa74e7c972672ef6f id-b58e73b9b17c496f978c2735234c3bdb">
       <bounds
-          x="228"
+          x="456"
           y="36"
           width="145"
           height="55"/>
@@ -86,8 +91,8 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="439"
-        width="400"
+        y="487"
+        width="709"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -107,12 +112,17 @@
           id="id-a93dbd2c36234ede8be71bcac3d3138f"
           source="id-7ec54003049046fc80ce56cecbeb4692"
           target="id-c8de6e09fa084fd6adcce23f7f45b69c">
+        <bendpoints
+            startX="-108"
+            startY="2"
+            endX="-12"
+            endY="141"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-a5273b6c0d0b42309177e2ade6e6741c.xml#id-a5273b6c0d0b42309177e2ade6e6741c"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="204"
           y="48"
           width="145"
           height="55"/>
@@ -140,8 +150,8 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="300"
-        width="400"
+        y="348"
+        width="709"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -152,6 +162,11 @@
           id="id-08cd453cb3b34c1aa7c1ea9630828945"
           source="id-c8de6e09fa084fd6adcce23f7f45b69c"
           target="id-7ec54003049046fc80ce56cecbeb4692">
+        <bendpoints
+            startX="48"
+            startY="70"
+            endX="-60"
+            endY="-70"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-685cfb2db555441d8ba7bf8a3b7517f3.xml#id-685cfb2db555441d8ba7bf8a3b7517f3"/>
@@ -161,12 +176,17 @@
           id="id-c0fb5d88f3ef4fcba852c39c113fe4cd"
           source="id-c8de6e09fa084fd6adcce23f7f45b69c"
           target="id-d09887cf357346a8b7b053568f15cd7d">
+        <bendpoints
+            startX="-108"
+            startY="-3"
+            endX="-24"
+            endY="148"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-4aa019c864c54d31841769a109fc0a1a.xml#id-4aa019c864c54d31841769a109fc0a1a"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="108"
           y="48"
           width="145"
           height="55"/>
@@ -182,7 +202,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0d670c3c352f4fa8a8f94023ba241e06"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;&#xA;Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA.&#xA;&#xA;versión 0.1">
+      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ03. Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA. Nivel 1&#xA;&#xA;versión 0.2">
     <bounds
         x="48"
         y="12"

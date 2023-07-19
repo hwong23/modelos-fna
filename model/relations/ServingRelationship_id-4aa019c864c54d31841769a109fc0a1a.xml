@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influye"
     id="id-4aa019c864c54d31841769a109fc0a1a">
   <source
       xsi:type="archimate:BusinessProcess"

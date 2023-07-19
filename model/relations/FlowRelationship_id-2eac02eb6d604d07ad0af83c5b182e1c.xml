@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inicia"
     id="id-2eac02eb6d604d07ad0af83c5b182e1c">
   <source
       xsi:type="archimate:BusinessProcess"
