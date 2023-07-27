@@ -520,4 +520,17 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-16ff383e07174e26836db5fe885b123f.xml#id-16ff383e07174e26836db5fe885b123f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-aec0f390d9164add9a26b70d7507ff75"
+      textAlignment="1"
+      fillColor="#75d5ff"
+      alpha="70"
+      borderType="1">
+    <bounds
+        x="456"
+        y="432"
+        width="217"
+        height="325"/>
+  </children>
 </archimate:ArchimateDiagramModel>
