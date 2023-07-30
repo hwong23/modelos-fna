@@ -991,6 +991,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-9548a5ef18cf47b18ef5fb4798e045d6"
             targetConnections="id-1575860c01484c5a9b677c81994d0dff"
+            font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
             textAlignment="1"
             textPosition="2">
           <sourceConnections
@@ -1051,6 +1052,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4245ef728e074e428e5809670496f074"
             targetConnections="id-3365799d819244dcb0bf45b7d156d523"
+            font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
             textAlignment="1"
             textPosition="2">
           <sourceConnections
@@ -1203,6 +1205,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-225b311f0bb4415198df1301ed0a8756"
             targetConnections="id-d53ce76b9cdc4042b8322b6610485611"
+            font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
             textAlignment="1"
             textPosition="2">
           <sourceConnections
