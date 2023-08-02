@@ -201,9 +201,9 @@
           href="AssociationRelationship_id-52cd97e1ffa646faa0018d80a245c23e.xml#id-52cd97e1ffa646faa0018d80a245c23e"/>
     </sourceConnections>
     <bounds
-        x="799"
+        x="784"
         y="20"
-        width="144"
+        width="174"
         height="63"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
