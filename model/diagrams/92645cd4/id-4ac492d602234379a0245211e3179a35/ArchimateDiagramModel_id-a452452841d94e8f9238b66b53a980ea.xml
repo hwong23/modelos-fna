@@ -1943,8 +1943,8 @@
         targetConnections="id-a698eb99ef914206b07356fd99c15c0d"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="131"
-          y="72"
+          x="250"
+          y="36"
           width="120"
           height="37"/>
       <archimateElement
@@ -2041,8 +2041,8 @@
         targetConnections="id-147061b46fa1418cbdbb2863af514206"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="155"
-          y="72"
+          x="274"
+          y="36"
           width="120"
           height="37"/>
       <archimateElement
