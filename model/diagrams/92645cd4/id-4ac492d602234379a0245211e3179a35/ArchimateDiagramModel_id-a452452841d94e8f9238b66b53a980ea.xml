@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ARQREF.0"
     id="id-a452452841d94e8f9238b66b53a980ea"
-    documentation="### Modelo de Arquitectura de Referencia Servicios y Aplicaciones&#xA;Presentamos la primera versión del modelo de referencia del dominio de servicios y aplicaciones 2.0 del FNA. El modelo queda representado en la siguiente vista funcional.&#xA;&#xA;![Fondo Nacional del Ahorro - Arquitectura de Referencia 2.0. Vista funcional del dominio de servicios y aplicaciones del FNA.](images/ARQREF0.png){#fig:ARQREF0.png width=&quot;13in&quot; height=&quot;7in&quot;}&#xA;&#xA;## Segmentos del Modelo Funcional&#xA;&#xA;|**Canales**|grouping|||&#xA;|**Fuentes de Información Provistas**|grouping|Bco Repbc&lt;br>Min*&lt;br>||&#xA;|**Fuentes de Información Referencial Pública**|grouping|Bco Repbc&lt;br>Min*&lt;br>Asobancos&lt;br>||&#xA;|**Fuentes de Información Referencial Transaccional**|grouping|Bco Repbc&lt;br>Min*&lt;br>Asobancos&lt;br>||&#xA;|**Intermediación con Clientes**|grouping|||&#xA;|**Intermediación con Gobierno Nacional**|grouping|Superintendencia Financiera Col.&lt;br>Min Hacienda&lt;br>MinTIC&lt;br>||&#xA;|**Procesamiento de información**|grouping|||&#xA;|**Productos de la Empresa al Cliente**|grouping|||&#xA;|**Transacciones FNA - Crédito, Cartera, Garantías, AVC**|grouping|Trámites: afiliación y retiro, retiro de cesantías&lt;br>Constructoras||&#xA;|**Fondo Nacional del Ahorro**|location|||&#xA;|**Location**|location|||&#xA;">
+    documentation="### Vista Funcional de la Arquitectura de Referencia 2.0. Servicios y Aplicaciones&#xA;Presentamos la primera versión del modelo de referencia del dominio de servicios y aplicaciones 2.0 del FNA. El modelo queda representado en la siguiente vista funcional.&#xA;&#xA;![Fondo Nacional del Ahorro - Arquitectura de Referencia 2.0. Vista funcional del dominio de servicios y aplicaciones del FNA.](images/ARQREF0.png){#fig:ARQREF0.png width= height=}&#xA;&#xA;El modelo funcional de la arquitectura de referencia del FNA está organizado en los siguientes segmentos de arquitectura.&#xA;&#xA;#### Segmentos del Modelo Funcional de la Arquitectura de Referencia&#xA;1. Canales. Sitios físicos o electrónicos en relación con los clientes.&#xA;1. Intermediación con Clientes. Medio físicos o electrónicos de interoperatividad del FNA con los clientes.&#xA;1. Intermediación con Gobierno Nacional. Medio físicos o electrónicos de interoperatividad del FNA con entidades del Estado, como la Superintendencia Financiera de Colombia, Min Hacienda y MinTIC.&#xA;1. Productos de la Empresa al Cliente. Productos de negocio ofertados, relación con clientes. Son colecciones de servicios que funcionan como una unidad.&#xA;1. Trámites (procedimientos documentales) FNA. Procesos relacionados con los productos o clientes del FNA. Basados en documentación física o digital. Ejemplo, trámite de afiliaciones y retiros, el retiro de cesantías, aperturas, etc.&#xA;1. Transacciones FNA. Unidades de intercambio de beneficios y registros de Crédito, Cartera, Garantías, Cuenta AVC.&#xA;1. Actividad regulatoria del FNA. Procesos de intercambio de funciones regulatorias o sancionatorias e intercambio de información de seguridad debida al cumplimiento exigido por el Gobierno Nacional.&#xA;1. Fuentes de Información Referencial Transaccional. Acceso a información requerida por las transacciones del FNA, como listas blancas, seguros, Registraduría.&#xA;1. Fuentes de Información Provistas. Exposición de entidades y componentes de datos (reportes, esquemas, archivos...) al Bco. de la República, Ministerios, entre otros.&#xA;1. Fuentes de Información Referencial Pública. Acceso a datos de entidades públicas, como Formatos de  Ministerios, Registros de Asobancos, tasas del Bco. de la República.&#xA;1. Procesamiento de información. Procesamiento de lotes diario o eventual del FNA, como contabilidad, elaboración de certificados, envío de mensajes electrónicos, descarga de información, emisión de documentos digitales, indexaciones, etc.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bb543abe6a2d4985a305a399a5bbcd70"
@@ -1220,6 +1220,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-475ad29217df438899461967689fce4c.xml#id-475ad29217df438899461967689fce4c"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a06cbd9e8855418e99ead1a23ebb2ac7"
+        source="id-4872085496344e0096dca72ed4962f61"
+        target="id-67497c1badc54eea9f1a91ad5b367d41">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e8295deb2da2480c929b351b9850e7ad.xml#id-e8295deb2da2480c929b351b9850e7ad"/>
+    </sourceConnections>
     <bounds
         x="1080"
         y="360"
@@ -1238,6 +1247,19 @@
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-7702bda412bc47949e7c7d20bef5864e.xml#id-7702bda412bc47949e7c7d20bef5864e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-67497c1badc54eea9f1a91ad5b367d41"
+        targetConnections="id-a06cbd9e8855418e99ead1a23ebb2ac7">
+      <bounds
+          x="131"
+          y="36"
+          width="120"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-43db628ded534e869a253bfb7772d894.xml#id-43db628ded534e869a253bfb7772d894"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
