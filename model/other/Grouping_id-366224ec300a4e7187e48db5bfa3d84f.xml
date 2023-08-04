@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Procesamiento de información"
-    id="id-366224ec300a4e7187e48db5bfa3d84f"/>
+    id="id-366224ec300a4e7187e48db5bfa3d84f"
+    documentation="Procesamiento de lotes diario o eventual del FNA, como contabilidad, elaboración de certificados, envío de mensajes electrónicos, descarga de información, emisión de documentos digitales, indexaciones, etc."/>

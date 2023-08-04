@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Productos de la Empresa al Cliente"
-    id="id-0f9733f5481341688c126f3a5fadc584"/>
+    id="id-0f9733f5481341688c126f3a5fadc584"
+    documentation="Productos de negocio ofertados, relación con clientes. Son colecciones de servicios que funcionan como una unidad."/>

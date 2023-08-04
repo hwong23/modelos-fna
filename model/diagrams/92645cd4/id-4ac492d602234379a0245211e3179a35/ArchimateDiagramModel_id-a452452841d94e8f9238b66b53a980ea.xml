@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ARQREF.0"
-    id="id-a452452841d94e8f9238b66b53a980ea">
+    id="id-a452452841d94e8f9238b66b53a980ea"
+    documentation="### Modelo de Arquitectura de Referencia Servicios y Aplicaciones&#xA;Presentamos la primera versión del modelo de referencia del dominio de servicios y aplicaciones 2.0 del FNA. El modelo queda representado en la siguiente vista funcional.&#xA;&#xA;![Fondo Nacional del Ahorro - Arquitectura de Referencia 2.0. Vista funcional del dominio de servicios y aplicaciones del FNA.](images/ARQREF0.png){#fig:ARQREF0.png width=&quot;13in&quot; height=&quot;7in&quot;}&#xA;&#xA;## Segmentos del Modelo Funcional&#xA;&#xA;|**Canales**|grouping|||&#xA;|**Fuentes de Información Provistas**|grouping|Bco Repbc&lt;br>Min*&lt;br>||&#xA;|**Fuentes de Información Referencial Pública**|grouping|Bco Repbc&lt;br>Min*&lt;br>Asobancos&lt;br>||&#xA;|**Fuentes de Información Referencial Transaccional**|grouping|Bco Repbc&lt;br>Min*&lt;br>Asobancos&lt;br>||&#xA;|**Intermediación con Clientes**|grouping|||&#xA;|**Intermediación con Gobierno Nacional**|grouping|Superintendencia Financiera Col.&lt;br>Min Hacienda&lt;br>MinTIC&lt;br>||&#xA;|**Procesamiento de información**|grouping|||&#xA;|**Productos de la Empresa al Cliente**|grouping|||&#xA;|**Transacciones FNA - Crédito, Cartera, Garantías, AVC**|grouping|Trámites: afiliación y retiro, retiro de cesantías&lt;br>Constructoras||&#xA;|**Fondo Nacional del Ahorro**|location|||&#xA;|**Location**|location|||&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bb543abe6a2d4985a305a399a5bbcd70"
@@ -284,7 +285,7 @@
       id="id-71a6777cd62f4ba49e599b59aaae4032"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
-      content="Arquitectura de Referencia 2.0&#xA;&#xA;Vista funcional de los servicios SOA del FNA (nivel de detalle conceptual).&#xA;&#xA;Segmentos de la arquitectura, Características.&#xA;&#xA;versión 0.2">
+      content="Arquitectura de Referencia 2.0&#xA;&#xA;Vista funcional de los servicios SOA del FNA (nivel de detalle conceptual).&#xA;&#xA;Segmentos de la arquitectura, características.&#xA;&#xA;versión 0.4">
     <bounds
         x="12"
         y="12"
@@ -529,19 +530,28 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-05b50f4387e940c58f10c47161fb4d4d.xml#id-05b50f4387e940c58f10c47161fb4d4d"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-133bc4b386754a06b68461fa64c7a305"
+        source="id-98236006830f450199d99ae51c575a04"
+        target="id-e7da30569d3d44dbace250b796d8ba93">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-14401ef2aa234f2082755f2c7a99d0e0.xml#id-14401ef2aa234f2082755f2c7a99d0e0"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="360"
-        width="1045"
-        height="140"/>
+        width="469"
+        height="336"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-de1633f50b2f407799a5131dbf2a5227"
         targetConnections="id-37c41330887048aeacdae501f0f04da2"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="488"
-          y="71"
+          x="12"
+          y="141"
           width="120"
           height="36"/>
       <archimateElement
@@ -554,8 +564,8 @@
         targetConnections="id-599db35989db4074abd70dbce2aed9f9"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="607"
-          y="36"
+          x="131"
+          y="106"
           width="120"
           height="36"/>
       <archimateElement
@@ -568,8 +578,8 @@
         targetConnections="id-c1f75218fafd48acbaed49c537cdaa11"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="369"
-          y="71"
+          x="131"
+          y="141"
           width="120"
           height="36"/>
       <archimateElement
@@ -582,8 +592,8 @@
         targetConnections="id-0330653d18ca41599197731435c0c161"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="488"
-          y="36"
+          x="12"
+          y="106"
           width="120"
           height="36"/>
       <archimateElement
@@ -596,8 +606,8 @@
         targetConnections="id-66a8da0377a2484fa5de8c0ae95ede5f"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="369"
-          y="36"
+          x="250"
+          y="106"
           width="120"
           height="36"/>
       <archimateElement
@@ -700,8 +710,8 @@
       type="1">
     <bounds
         x="12"
-        y="732"
-        width="517"
+        y="912"
+        width="505"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -715,8 +725,8 @@
       type="1">
     <bounds
         x="12"
-        y="924"
-        width="1045"
+        y="1068"
+        width="1585"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -901,7 +911,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="540"
+        y="720"
         width="1045"
         height="157"/>
     <children
@@ -1203,7 +1213,7 @@
       type="1">
     <bounds
         x="1080"
-        y="540"
+        y="360"
         width="529"
         height="140"/>
     <archimateElement
@@ -1232,9 +1242,9 @@
       textAlignment="1"
       type="1">
     <bounds
-        x="1080"
-        y="732"
-        width="529"
+        x="552"
+        y="912"
+        width="505"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1247,12 +1257,94 @@
       textAlignment="1"
       type="1">
     <bounds
-        x="552"
-        y="732"
+        x="1092"
+        y="912"
         width="505"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-62e2718fdb474a3d974165dddd871387.xml#id-62e2718fdb474a3d974165dddd871387"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e7da30569d3d44dbace250b796d8ba93"
+      targetConnections="id-133bc4b386754a06b68461fa64c7a305"
+      font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+      textAlignment="1"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5a1627a0c0dd4e81b069f2d7f98e7640"
+        source="id-e7da30569d3d44dbace250b796d8ba93"
+        target="id-94ca4daae8f945cda8d136657bfeaf28">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e4758af55ffa4a4ea7b2088a9b98c53a.xml#id-e4758af55ffa4a4ea7b2088a9b98c53a"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-efa62dbe7a764c7d848fd8b1bc4fe036"
+        source="id-e7da30569d3d44dbace250b796d8ba93"
+        target="id-4fb57bf9cc5d4af88f19a52d1773c538">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-2c8c0206da594d0d9491ca5632e3b56f.xml#id-2c8c0206da594d0d9491ca5632e3b56f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2de4f2b2986e4e4bb5c4f2ad99bc9126"
+        source="id-e7da30569d3d44dbace250b796d8ba93"
+        target="id-c2257f9076d54b2ca024de4ed26031ac">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-7e90a6320a6b4017bd7f0b15594ed066.xml#id-7e90a6320a6b4017bd7f0b15594ed066"/>
+    </sourceConnections>
+    <bounds
+        x="540"
+        y="360"
+        width="517"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94ca4daae8f945cda8d136657bfeaf28"
+        targetConnections="id-5a1627a0c0dd4e81b069f2d7f98e7640">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-18f813a8fbe041f888fb3de0a41f4fd3.xml#id-18f813a8fbe041f888fb3de0a41f4fd3"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4fb57bf9cc5d4af88f19a52d1773c538"
+        targetConnections="id-efa62dbe7a764c7d848fd8b1bc4fe036">
+      <bounds
+          x="132"
+          y="36"
+          width="120"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-6b5378ba4bc347a5b1b51acdee1d575d.xml#id-6b5378ba4bc347a5b1b51acdee1d575d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c2257f9076d54b2ca024de4ed26031ac"
+        targetConnections="id-2de4f2b2986e4e4bb5c4f2ad99bc9126">
+      <bounds
+          x="251"
+          y="36"
+          width="120"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-41adcc505905400a9b35a072e4deb1fa.xml#id-41adcc505905400a9b35a072e4deb1fa"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-e7ee7b32a989463e84a65eb79cc13f55.xml#id-e7ee7b32a989463e84a65eb79cc13f55"/>
   </children>
 </archimate:ArchimateDiagramModel>

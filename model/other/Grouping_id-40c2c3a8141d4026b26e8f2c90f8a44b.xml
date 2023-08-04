@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Canales"
-    id="id-40c2c3a8141d4026b26e8f2c90f8a44b"/>
+    name="Canales FNA"
+    id="id-40c2c3a8141d4026b26e8f2c90f8a44b"
+    documentation="Sitios físicos o electrónicos en relación con los clientes."/>
