@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="ARQREF.0"
     id="id-a452452841d94e8f9238b66b53a980ea">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -700,8 +700,8 @@
       type="1">
     <bounds
         x="12"
-        y="756"
-        width="589"
+        y="732"
+        width="517"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1202,9 +1202,9 @@
       textAlignment="1"
       type="1">
     <bounds
-        x="1092"
+        x="1080"
         y="540"
-        width="1045"
+        width="529"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1217,9 +1217,9 @@
       textAlignment="1"
       type="1">
     <bounds
-        x="1092"
+        x="1080"
         y="192"
-        width="1045"
+        width="529"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1232,9 +1232,9 @@
       textAlignment="1"
       type="1">
     <bounds
-        x="624"
-        y="756"
-        width="433"
+        x="1080"
+        y="732"
+        width="529"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1247,9 +1247,9 @@
       textAlignment="1"
       type="1">
     <bounds
-        x="252"
-        y="766"
-        width="359"
+        x="552"
+        y="732"
+        width="505"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
