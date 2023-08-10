@@ -380,6 +380,19 @@
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-cf8536746b7a465ba1a4e09bbde0a623.xml#id-cf8536746b7a465ba1a4e09bbde0a623"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-aec0f390d9164add9a26b70d7507ff75"
+        textAlignment="1"
+        fillColor="#75d5ff"
+        alpha="70"
+        borderType="1">
+      <bounds
+          x="828"
+          y="35"
+          width="193"
+          height="325"/>
+    </children>
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-a53fe8920f0448da86f775d3f60b30ff.xml#id-a53fe8920f0448da86f775d3f60b30ff"/>
@@ -519,18 +532,5 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-16ff383e07174e26836db5fe885b123f.xml#id-16ff383e07174e26836db5fe885b123f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-aec0f390d9164add9a26b70d7507ff75"
-      textAlignment="1"
-      fillColor="#75d5ff"
-      alpha="70"
-      borderType="1">
-    <bounds
-        x="456"
-        y="432"
-        width="217"
-        height="325"/>
   </children>
 </archimate:ArchimateDiagramModel>
