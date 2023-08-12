@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="análisis inversión TI"
+    id="id-26259a378a014c70ac519d2aa0ba2257">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-fb003253fd224a809c91d062372e0e4b.xml#id-fb003253fd224a809c91d062372e0e4b"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-20104675291945428687e148f1de3355.xml#id-20104675291945428687e148f1de3355"/>
+</archimate:AssociationRelationship>
