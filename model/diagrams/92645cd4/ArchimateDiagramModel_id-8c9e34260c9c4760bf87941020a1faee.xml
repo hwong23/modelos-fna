@@ -215,7 +215,8 @@
             id="id-8d361b82853441a993cae3fedd1337a2"
             targetConnections="id-55198b39736b4627984b117b8fc09572 id-03fc9f2194a44de0a8dd0b2a68eaa480"
             font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-            textAlignment="1">
+            textAlignment="1"
+            type="1">
           <bounds
               x="12"
               y="96"
@@ -230,7 +231,8 @@
             id="id-b1d775ab5f6c4fa8a527d497e8739a31"
             targetConnections="id-9b8a3a13e79a438ab72dff2e4349afdc id-2c8e28e95e8a4d8e81349f48a33d9a7d"
             font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-            textAlignment="1">
+            textAlignment="1"
+            type="1">
           <bounds
               x="84"
               y="96"
@@ -245,7 +247,8 @@
             id="id-97edb03f0c5a4afaa3293533aa738913"
             targetConnections="id-24edae4ffb784a1aa3c5cd4f7a94ddb3 id-5810a82b62ab48379783b650b39f38ed"
             font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-            textAlignment="1">
+            textAlignment="1"
+            type="1">
           <bounds
               x="168"
               y="96"
@@ -260,7 +263,8 @@
             id="id-a0eb999f2b5a4f26a22271e6c79ac749"
             targetConnections="id-8cda02c57d93494489a5c8b0b424d4e8 id-cb28adab0a5b43a1bd26984ed14d2d5a"
             font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-            textAlignment="1">
+            textAlignment="1"
+            type="1">
           <bounds
               x="228"
               y="96"
@@ -275,7 +279,8 @@
             id="id-ce97e6ab0a7f46549541fa0534372ad1"
             targetConnections="id-a95a8f73ad3b47878ed7a67e56086848 id-75fe5b675a534d058f1bb44341f8493c"
             font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-            textAlignment="1">
+            textAlignment="1"
+            type="1">
           <bounds
               x="288"
               y="96"
@@ -290,7 +295,8 @@
             id="id-69524cf137584c29b9c12c607af3b445"
             targetConnections="id-ab0e821f923e4285a8c6d3f8f0445277 id-724b3c7800554bef97b196b95bb85e20"
             font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-            textAlignment="1">
+            textAlignment="1"
+            type="1">
           <bounds
               x="372"
               y="96"
@@ -305,7 +311,8 @@
             id="id-d9b69ff648174c2d9a36e45a57b3b47e"
             targetConnections="id-65064160ae6c4c2c922cba500c25bf74 id-03b1645256fb493088537a54f721ae80"
             font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-            textAlignment="1">
+            textAlignment="1"
+            type="1">
           <bounds
               x="456"
               y="96"

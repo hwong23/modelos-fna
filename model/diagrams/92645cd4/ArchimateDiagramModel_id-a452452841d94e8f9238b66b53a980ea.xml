@@ -1906,7 +1906,7 @@
         targetConnections="id-168bbc7009eb4330897bae93cd33126b"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="12"
+          x="25"
           y="36"
           width="120"
           height="36"/>
@@ -1919,7 +1919,7 @@
         id="id-67497c1badc54eea9f1a91ad5b367d41"
         targetConnections="id-a06cbd9e8855418e99ead1a23ebb2ac7">
       <bounds
-          x="131"
+          x="144"
           y="36"
           width="120"
           height="36"/>
@@ -2063,7 +2063,7 @@
         targetConnections="id-a698eb99ef914206b07356fd99c15c0d"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="310"
+          x="274"
           y="36"
           width="120"
           height="37"/>
@@ -2077,7 +2077,7 @@
         targetConnections="id-6eb2e7bbe3d6461a97465fce2cf204a8"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="72"
+          x="36"
           y="36"
           width="120"
           height="37"/>
@@ -2091,7 +2091,7 @@
         targetConnections="id-1342245fecf947f5945bd3dcc21131e1"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="191"
+          x="155"
           y="36"
           width="120"
           height="37"/>
@@ -2105,7 +2105,7 @@
         targetConnections="id-fd6bbacc767f461d9eb6dd53894780d3"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="72"
+          x="36"
           y="72"
           width="120"
           height="37"/>
