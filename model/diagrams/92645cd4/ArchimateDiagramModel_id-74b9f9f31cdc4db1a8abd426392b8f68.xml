@@ -286,7 +286,7 @@
       id="id-c3419b3679414db7a8ef1227c6ae34e5"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
-      content="Arquitectura de Referencia 2.0&#xA;&#xA;Vista funcional de los servicios SOA del FNA (nivel de detalle conceptual).&#xA;&#xA;Segmentos de la arquitectura, características.&#xA;&#xA;versión 0.09">
+      content="Arquitectura de Referencia 2.0&#xA;&#xA;Vista funcional de los servicios SOA del FNA (nivel de detalle conceptual).&#xA;&#xA;Segmentos de la arquitectura, características.&#xA;&#xA;versión 0.11">
     <bounds
         x="12"
         y="12"
@@ -2324,6 +2324,8 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f431e692331b414988958b3a6db66706"
+        lineWidth="2"
+        lineColor="#0096ff"
         source="id-9c76d1cddb0c4f8dbb1fb834e86aeb83"
         target="id-af86ddf05cae415ea29a53b730ce7eb7">
       <archimateRelationship
@@ -2333,6 +2335,8 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-82249c1f43524fc59c793d9dbfe74630"
+        lineWidth="2"
+        lineColor="#0096ff"
         source="id-9c76d1cddb0c4f8dbb1fb834e86aeb83"
         target="id-f8296b4d775f4be1a73d739e7b6e5604">
       <archimateRelationship
@@ -2342,6 +2346,8 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6c2a4d090b1548338816b02bb3c03fe8"
+        lineWidth="2"
+        lineColor="#0096ff"
         source="id-9c76d1cddb0c4f8dbb1fb834e86aeb83"
         target="id-7a3ccbab4d0d4d24a6bcc9cc37581ea2">
       <archimateRelationship
