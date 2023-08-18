@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="arq. refr."
     id="id-8c49e56c5635447392fef015c1d33790">
   <source
       xsi:type="archimate:WorkPackage"
