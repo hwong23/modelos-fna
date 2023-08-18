@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hoja de Ruta. 5a. Evolución elementos arq"
+    name="Hoja de Ruta. 5b. Evolución elementos arq"
     id="id-e3aa433dc9bf42a98cc9d7e3798edf78">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -322,15 +322,6 @@
       targetConnections="id-86441da4b7404adda54383e37470fd23">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d9f5bc792bf04931bb35192edd3dedc4"
-        source="id-c9d8d81b88c2462ea3d724528ae228e7"
-        target="id-752382379336479ba094d19b3c9f3242">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-b0bebfd1febf43759dbe4692588ec161.xml#id-b0bebfd1febf43759dbe4692588ec161"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-94944bcd41fd4de0a4f6ad2e79c28ee0"
         source="id-c9d8d81b88c2462ea3d724528ae228e7"
         target="id-e0016585604444fe867c41328eaff064">
@@ -411,7 +402,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-752382379336479ba094d19b3c9f3242"
-      targetConnections="id-d9f5bc792bf04931bb35192edd3dedc4 id-b2cc50a56c0f42008c2be08f326c889f">
+      targetConnections="id-b2cc50a56c0f42008c2be08f326c889f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f9daf86d540f48e2b31bf4c07430cd9a"

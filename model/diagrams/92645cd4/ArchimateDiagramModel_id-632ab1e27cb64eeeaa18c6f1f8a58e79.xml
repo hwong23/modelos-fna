@@ -316,15 +316,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6000cba915644effaaeccc41e140bb79"
       targetConnections="id-76661de1ff52493d8dae02939205bbd0 id-99f54f0f31794f5ba8e8d0a5c55e8dd2">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6f1357ca95cf42f39151ae6e9f36c97f"
-        source="id-6000cba915644effaaeccc41e140bb79"
-        target="id-b5249b728fab486d933033abf118dd1f">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-b0bebfd1febf43759dbe4692588ec161.xml#id-b0bebfd1febf43759dbe4692588ec161"/>
-    </sourceConnections>
     <bounds
         x="48"
         y="144"
@@ -337,7 +328,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b5249b728fab486d933033abf118dd1f"
-      targetConnections="id-6f1357ca95cf42f39151ae6e9f36c97f id-95cecf94c6fb46ac9827c1f8388ddb4c">
+      targetConnections="id-95cecf94c6fb46ac9827c1f8388ddb4c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2ae9b15908e547f59cbb94a89e177874"

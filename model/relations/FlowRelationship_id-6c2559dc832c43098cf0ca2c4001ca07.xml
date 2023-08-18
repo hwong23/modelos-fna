@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aceptación"
+    id="id-6c2559dc832c43098cf0ca2c4001ca07">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-19610ee2b92c490783c45bba3fbab1d8.xml#id-19610ee2b92c490783c45bba3fbab1d8"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-f6b02ac287de42dfa729d2e02ba946fd.xml#id-f6b02ac287de42dfa729d2e02ba946fd"/>
+</archimate:FlowRelationship>
