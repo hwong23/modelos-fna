@@ -983,7 +983,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0f81e517edd64f31bc4e5023ddbfd022"
       textAlignment="1"
-      content="Etapa I. Arquitectura de referencia.&#xA;&#xA;&#xA;&#xA;Poblamiento de modelos independientes.">
+      content="Etapa I. Arquitectura de referencia.&#xA;&#xA;Poblamiento de modelos independientes.">
     <bounds
         x="300"
         y="720"
@@ -994,7 +994,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-4e865cbf187b41fe8a768f4a23e0221e"
       textAlignment="1"
-      content="Etapa II. Arquitectura actual, línea base FNA&#xA;&#xA;&#xA;&#xA;Poblamiento, revisión, modificación y aceptación  de modelos estado actual del FNA.">
+      content="Etapa II. Arquitectura actual, línea base FNA&#xA;&#xA;Poblamiento, revisión, modificación y aceptación  de modelos estado actual del FNA.">
     <bounds
         x="744"
         y="1284"
