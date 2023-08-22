@@ -174,12 +174,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0eee040213be4fa28a068e141dd2ff93"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;&#xA;Estructura interna. FLARQ03. Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA. &#xA;&#xA;versión 0.3">
+      content="Arquitectura de Referencia SOA 2.0 del FNA&#xA;&#xA;Estructura interna. FLARQ03. Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA. &#xA;&#xA;versión 0.3">
     <bounds
         x="48"
         y="-12"
-        width="253"
-        height="121"/>
+        width="265"
+        height="133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

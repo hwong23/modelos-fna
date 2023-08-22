@@ -572,7 +572,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-752e1b552666428bb327cbde3c7f5029"
       textAlignment="1"
-      content="Arquitectura de Referencia SOA 2.0 del FNA&#xA;&#xA;Consideraciones para la adopción.&#xA;Capacidades y requerimientos para la adopción de arquitecturas en el FNA.&#xA;&#xA;versión 0.2">
+      content="Arquitectura de Referencia SOA 2.0 del FNA&#xA;&#xA;Consideraciones para la adopción en contexto con Gobierno FNA.&#xA;&#xA;versión 0.2">
     <bounds
         x="32"
         y="32"

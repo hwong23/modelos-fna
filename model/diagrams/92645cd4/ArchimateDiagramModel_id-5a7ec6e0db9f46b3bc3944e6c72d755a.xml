@@ -202,11 +202,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0d670c3c352f4fa8a8f94023ba241e06"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ03. Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA. Nivel 1&#xA;&#xA;versión 0.2">
+      content="Arquitectura de Referencia SOA 2.0 del FNA.&#xA;&#xA;FLUJ03. Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA. Nivel 1&#xA;&#xA;versión 0.2">
     <bounds
         x="48"
         y="12"
-        width="253"
-        height="121"/>
+        width="265"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>
