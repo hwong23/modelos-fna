@@ -64,8 +64,8 @@
           href="CompositionRelationship_id-673ff96e202f42e2aeebf5d3c99adaac.xml#id-673ff96e202f42e2aeebf5d3c99adaac"/>
     </sourceConnections>
     <bounds
-        x="20"
-        y="20"
+        x="15"
+        y="168"
         width="629"
         height="140"/>
     <children
@@ -187,8 +187,8 @@
           href="CompositionRelationship_id-2c14845de31e4ae79856ac86843cd7a9.xml#id-2c14845de31e4ae79856ac86843cd7a9"/>
     </sourceConnections>
     <bounds
-        x="20"
-        y="216"
+        x="12"
+        y="348"
         width="636"
         height="140"/>
     <children
@@ -259,5 +259,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-febece9793ca47e5ad2c07b5f75f5cf2.xml#id-febece9793ca47e5ad2c07b5f75f5cf2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9ad9973f3551499e975252ec45987766"
+      textAlignment="1"
+      content="Arquitectura de Referencia SOA 2.0 del FNA&#xA;&#xA;Consideraciones para la adopción.&#xA;Capacidades y requerimientos para la adopción de arquitecturas en el FNA.&#xA;&#xA;versión 0.2">
+    <bounds
+        x="12"
+        y="12"
+        width="253"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>

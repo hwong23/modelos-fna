@@ -65,7 +65,7 @@
     </sourceConnections>
     <bounds
         x="20"
-        y="20"
+        y="190"
         width="629"
         height="140"/>
     <children
@@ -233,7 +233,7 @@
     </sourceConnections>
     <bounds
         x="20"
-        y="216"
+        y="386"
         width="636"
         height="140"/>
     <children
@@ -371,7 +371,7 @@
       textAlignment="1">
     <bounds
         x="828"
-        y="20"
+        y="190"
         width="745"
         height="445"/>
     <children
@@ -491,7 +491,7 @@
       targetConnections="id-1501f30f317a4f07aac8ec87c879defd id-4cfe1b3edb644c36b6ccfac1a6e9b3e4">
     <bounds
         x="1056"
-        y="526"
+        y="696"
         width="296"
         height="501"/>
     <children
@@ -567,5 +567,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationInteraction"
         href="ApplicationInteraction_id-b051e71928734d8caabf07a69ab9665e.xml#id-b051e71928734d8caabf07a69ab9665e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-752e1b552666428bb327cbde3c7f5029"
+      textAlignment="1"
+      content="Arquitectura de Referencia SOA 2.0 del FNA&#xA;&#xA;Consideraciones para la adopción.&#xA;Capacidades y requerimientos para la adopción de arquitecturas en el FNA.&#xA;&#xA;versión 0.2">
+    <bounds
+        x="32"
+        y="32"
+        width="253"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>
