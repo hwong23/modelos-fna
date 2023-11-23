@@ -1010,7 +1010,8 @@
             targetConnections="id-1575860c01484c5a9b677c81994d0dff"
             font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
             textAlignment="1"
-            textPosition="2">
+            textPosition="2"
+            type="1">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-e8f2e8294e4548e7ae6b9aea7e7a79d7"
@@ -1071,7 +1072,8 @@
             targetConnections="id-3365799d819244dcb0bf45b7d156d523"
             font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
             textAlignment="1"
-            textPosition="2">
+            textPosition="2"
+            type="1">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-f2c4d413773243929ca3919a74f02892"
@@ -1224,7 +1226,8 @@
             targetConnections="id-d53ce76b9cdc4042b8322b6610485611"
             font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
             textAlignment="1"
-            textPosition="2">
+            textPosition="2"
+            type="1">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-cbb0ac5c69714c9ba22113c5f7f6c54e"
@@ -2721,7 +2724,7 @@
     <bounds
         x="1030"
         y="214"
-        width="108"
+        width="122"
         height="27"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
