@@ -15,7 +15,8 @@
         height="457"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="ce596672-4d67-433d-8870-4002b94846bb">
+        id="ce596672-4d67-433d-8870-4002b94846bb"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="4491e76e-e474-461b-a2ca-b51a3b411c02"
@@ -59,8 +60,7 @@
             height="361"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="6d97d8ca-dea4-45dc-a4ba-eba414c1d7b4"
-            type="1">
+            id="6d97d8ca-dea4-45dc-a4ba-eba414c1d7b4">
           <bounds
               x="246"
               y="48"
@@ -85,8 +85,7 @@
         </children>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="a5d6b354-421b-4c13-8f0c-96af5082b1ee"
-            type="1">
+            id="a5d6b354-421b-4c13-8f0c-96af5082b1ee">
           <bounds
               x="468"
               y="48"
@@ -133,7 +132,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="bafaa8cb-d2ae-45b8-9859-18735ea51f51"
-            targetConnections="ac1357da-8730-4f0b-a28a-58f125c63b30">
+            targetConnections="ac1357da-8730-4f0b-a28a-58f125c63b30"
+            type="1">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="bac61d7b-14cc-405b-89a2-059e907c276b"
@@ -195,7 +195,8 @@
         height="457"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="01ed567d-67c1-479a-913e-a22b60ff123a">
+        id="01ed567d-67c1-479a-913e-a22b60ff123a"
+        type="1">
       <bounds
           x="24"
           y="144"
@@ -254,7 +255,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="3795a787-54b9-45e2-bd61-453171fa0f2b">
+      id="3795a787-54b9-45e2-bd61-453171fa0f2b"
+      type="1">
     <bounds
         x="132"
         y="-528"

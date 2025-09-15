@@ -33,8 +33,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="41ff25f1-0a8a-412f-907f-f63c7f5c4b22"
-          targetConnections="17cf0bfc-19a7-402b-8626-a6cb25bdab57"
-          type="1">
+          targetConnections="17cf0bfc-19a7-402b-8626-a6cb25bdab57">
         <bounds
             x="228"
             y="240"
@@ -227,8 +226,7 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="6da4b59e-35cf-4016-a1f0-932111ac8384"
-          type="1">
+          id="6da4b59e-35cf-4016-a1f0-932111ac8384">
         <bounds
             x="228"
             y="48"
@@ -262,8 +260,7 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="44576758-ac7c-4e7b-b36e-292840c0a34b"
-          type="1">
+          id="44576758-ac7c-4e7b-b36e-292840c0a34b">
         <bounds
             x="12"
             y="48"
@@ -297,8 +294,7 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="08b5df10-63c3-48f4-aadb-eac78a5dbc96"
-          type="1">
+          id="08b5df10-63c3-48f4-aadb-eac78a5dbc96">
         <bounds
             x="12"
             y="144"
@@ -331,8 +327,7 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="aa353462-cb6a-4f83-982c-ad16c1c1b76b"
-          type="1">
+          id="aa353462-cb6a-4f83-982c-ad16c1c1b76b">
         <bounds
             x="420"
             y="48"
@@ -359,7 +354,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="8925bfe7-c3a8-45d6-b6c9-8f6e5bbc2412"
           targetConnections="345a8a07-c9b8-4213-a233-26794e132271"
-          fillColor="#00ff40">
+          fillColor="#00ff40"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="2512f058-565d-41d2-9121-9cdd3f847195"
@@ -407,8 +403,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="65fd5edf-32ae-4370-8bee-d0766a5802c8"
-        fillColor="#ff0000"
-        type="1">
+        fillColor="#ff0000">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="189c3bb4-dc86-4766-9ac3-b04f5b4c8e5b"
@@ -443,8 +438,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="5f8fd544-6c36-49a6-a4c7-043d084ae261"
-        type="1">
+        id="5f8fd544-6c36-49a6-a4c7-043d084ae261">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="12f1cb7a-747f-409b-80e2-f0f5ac5a841d"
@@ -473,8 +467,7 @@
           height="469"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="e8b057b6-3315-4956-8a29-8f466d387141"
-          type="1">
+          id="e8b057b6-3315-4956-8a29-8f466d387141">
         <bounds
             x="12"
             y="192"
@@ -513,8 +506,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d3b0132b-6db3-47f7-8dfe-5b9b73e6ba82"
-        targetConnections="6409647b-9d04-4ea1-b67a-84f2df8dc479"
-        type="1">
+        targetConnections="6409647b-9d04-4ea1-b67a-84f2df8dc479">
       <bounds
           x="492"
           y="36"
@@ -573,8 +565,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b7ed49bc-9a81-448a-bb48-c551388333ea"
-        targetConnections="44bd1b03-b4bf-4ecf-a408-ef981d2b7cec"
-        type="1">
+        targetConnections="44bd1b03-b4bf-4ecf-a408-ef981d2b7cec">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="6409647b-9d04-4ea1-b67a-84f2df8dc479"
@@ -661,8 +652,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f53775ba-2985-48a0-8824-e7db9f50285e"
-        targetConnections="189c3bb4-dc86-4766-9ac3-b04f5b4c8e5b 95a8dbc5-685d-4eeb-836b-23c675cdbb77"
-        type="1">
+        targetConnections="189c3bb4-dc86-4766-9ac3-b04f5b4c8e5b 95a8dbc5-685d-4eeb-836b-23c675cdbb77">
       <bounds
           x="25"
           y="576"

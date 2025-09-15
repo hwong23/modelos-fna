@@ -15,7 +15,8 @@
         height="433"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="cdcc5903-c8c0-4ac4-a8f4-94601c975506">
+        id="cdcc5903-c8c0-4ac4-a8f4-94601c975506"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="2ecc2e65-0040-4323-b4bd-aa3c45921315"
@@ -59,8 +60,7 @@
             height="325"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="2bec3d6b-daf6-43b3-8b80-30c6e54d0267"
-            type="1">
+            id="2bec3d6b-daf6-43b3-8b80-30c6e54d0267">
           <bounds
               x="228"
               y="48"
@@ -94,8 +94,7 @@
         </children>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="968e083b-a04d-474d-9eca-a577e939b6b6"
-            type="1">
+            id="968e083b-a04d-474d-9eca-a577e939b6b6">
           <bounds
               x="420"
               y="48"
@@ -165,7 +164,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="0c1da764-75d0-407b-aab8-65ebfa341fe0"
-            targetConnections="00649a96-2a17-4086-bf29-3c7820a6636c">
+            targetConnections="00649a96-2a17-4086-bf29-3c7820a6636c"
+            type="1">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="a9ace926-8b22-441a-8036-64e82534d5e2"
@@ -227,7 +227,8 @@
         height="433"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="e381448a-a79d-4673-a28a-08e53cfa3901">
+        id="e381448a-a79d-4673-a28a-08e53cfa3901"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="c7c882fa-0784-4cbb-9c3d-af34ee779a76"
@@ -296,7 +297,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="c844f93a-3c05-4379-aa46-8cd393665639">
+      id="c844f93a-3c05-4379-aa46-8cd393665639"
+      type="1">
     <bounds
         x="264"
         y="-528"

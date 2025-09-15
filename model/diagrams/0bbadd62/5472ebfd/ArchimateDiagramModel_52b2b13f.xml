@@ -15,7 +15,8 @@
         height="385"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="bf0823a0">
+        id="bf0823a0"
+        type="1">
       <bounds
           x="163"
           y="101"

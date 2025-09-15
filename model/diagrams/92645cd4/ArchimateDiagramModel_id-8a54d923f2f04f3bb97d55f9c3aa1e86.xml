@@ -6,8 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2761d24ceb654c03a4677520eefa005b"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-76a983a87c6f40c6ac76ac3e97a60711"
@@ -84,8 +83,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0de744c1aa984603a1161a1a45dc69ee"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f8a54d7d0ea44f848b60d59baf799963"
@@ -239,8 +237,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-453b447a5cd4437eb76846a14c138dc3"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40678f719f494c149370ea8a4d826296"
@@ -422,8 +419,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0bf3d3609e2a48a3bf086380b7ed8779"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-27a05b046edd45e4b101148a5ec98fe4"
@@ -451,7 +447,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-333e770ccb9945f185a6eb04bcc1ce6a"
         targetConnections="id-27a05b046edd45e4b101148a5ec98fe4 id-d1daad10d7894a74bda8f2c712be831b"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="132"
           y="48"
@@ -465,7 +462,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-dfd7dc4dfa22465e8cb4a8beeba9a920"
         targetConnections="id-56977f5c809d43e0a16b29ca8ee0ede9 id-a49dc6a1d63c479aabb36de7c470a767"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="468"
           y="48"

@@ -15,7 +15,8 @@
         height="457"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="0621d696-efda-4238-8441-13b0ab7a4bee">
+        id="0621d696-efda-4238-8441-13b0ab7a4bee"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="36909523-cde1-40f1-a78e-63c4b58af279"
@@ -95,8 +96,7 @@
             height="361"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="cf8cfc7b-5e32-4b0c-b286-fe14a4270e9b"
-            type="1">
+            id="cf8cfc7b-5e32-4b0c-b286-fe14a4270e9b">
           <bounds
               x="216"
               y="156"
@@ -196,7 +196,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="2fbe261d-942a-49af-b1e1-85765f4a6737"
-            targetConnections="e4da9a30-682a-4b22-85f9-41003a623d85 2e397092-87f8-4240-907e-747a3d59db70">
+            targetConnections="e4da9a30-682a-4b22-85f9-41003a623d85 2e397092-87f8-4240-907e-747a3d59db70"
+            type="1">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="e6b8ecf3-576a-4869-bec8-d1b4244241f4"
@@ -236,7 +237,8 @@
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="ba858129-989d-4e8f-80e2-50385b363ce8"
-              targetConnections="59f74c5a-e8ca-40c2-9d16-107ae50b7cff">
+              targetConnections="59f74c5a-e8ca-40c2-9d16-107ae50b7cff"
+              type="1">
             <sourceConnections
                 xsi:type="archimate:DiagramModelArchimateConnection"
                 id="fdffe439-e2da-45cd-815f-faee6e353dcc"
@@ -315,7 +317,8 @@
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="f25c3a43-87a5-41c3-9fce-fd31e075f537"
-              targetConnections="52cde31e-4c6c-4559-b6ed-e089e4db7e55">
+              targetConnections="52cde31e-4c6c-4559-b6ed-e089e4db7e55"
+              type="1">
             <sourceConnections
                 xsi:type="archimate:DiagramModelArchimateConnection"
                 id="68751202-2dee-472e-9169-ab5728d17575"
@@ -364,7 +367,8 @@
         height="445"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="94bde83a-734e-4456-b007-b7e3563ecdcc">
+        id="94bde83a-734e-4456-b007-b7e3563ecdcc"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ebf25a05-e176-4cfd-b639-cd269556fc8e"
@@ -398,7 +402,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="465b7749-b832-4a23-ab8d-6c0a0505d35b">
+        id="465b7749-b832-4a23-ab8d-6c0a0505d35b"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="331901da-6a2f-49df-b0ea-a33bb781ff7c"
@@ -432,7 +437,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="c373c89d-5319-4612-821a-3ac2a7605315">
+        id="c373c89d-5319-4612-821a-3ac2a7605315"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="2b380188-e27e-49a0-a893-c5a02e1602f1"
@@ -489,7 +495,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="62a7e741-e8b0-4845-9696-df0e956eeb0f">
+      id="62a7e741-e8b0-4845-9696-df0e956eeb0f"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9b66dd28-7cd6-4c35-9c5c-c0ae12fa71ba"
@@ -543,7 +550,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="565bdefb-bef7-486e-a36e-0508e9536c10"
-        targetConnections="9b66dd28-7cd6-4c35-9c5c-c0ae12fa71ba">
+        targetConnections="9b66dd28-7cd6-4c35-9c5c-c0ae12fa71ba"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="54cbdc20-fbb5-44fa-8269-cdbe83691f3a"

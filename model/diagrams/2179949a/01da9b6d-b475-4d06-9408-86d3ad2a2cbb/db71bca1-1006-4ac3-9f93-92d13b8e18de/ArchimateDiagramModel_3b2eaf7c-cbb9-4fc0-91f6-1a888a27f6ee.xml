@@ -23,8 +23,7 @@
           height="325"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="d6308b47-1464-478c-9062-b8fffbd05b9f"
-          type="1">
+          id="d6308b47-1464-478c-9062-b8fffbd05b9f">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="15f314c3-a954-47b1-9372-18c714124528"
@@ -181,7 +180,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="c87f1d53-9ecb-4f81-875e-4219a0d0d486">
+        id="c87f1d53-9ecb-4f81-875e-4219a0d0d486"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="9fa1d624-fd9d-409b-9476-edbcffdbe279"
@@ -389,8 +389,7 @@
         height="373"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="8bd68d6d-b4d6-483f-8418-b4f40bfc3074"
-        type="1">
+        id="8bd68d6d-b4d6-483f-8418-b4f40bfc3074">
       <bounds
           x="12"
           y="36"
@@ -398,8 +397,7 @@
           height="325"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="bee3aeb5-52a3-4d55-bfc9-031b20681247"
-          type="1">
+          id="bee3aeb5-52a3-4d55-bfc9-031b20681247">
         <bounds
             x="12"
             y="144"
@@ -437,8 +435,7 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="f400d284-525d-479f-9568-844ad2593bc8"
-          type="1">
+          id="f400d284-525d-479f-9568-844ad2593bc8">
         <bounds
             x="12"
             y="36"
@@ -478,8 +475,7 @@
         height="373"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="1af8357d-49ae-49fc-af0f-9f5e3ccbee9b"
-        type="1">
+        id="1af8357d-49ae-49fc-af0f-9f5e3ccbee9b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="87d52268-d67d-4399-8435-ecf03f1a02bb"

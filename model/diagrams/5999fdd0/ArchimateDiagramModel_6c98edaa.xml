@@ -5,7 +5,8 @@
     id="6c98edaa">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="90d641af">
+      id="90d641af"
+      type="1">
     <bounds
         x="-24"
         y="24"
@@ -17,7 +18,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6f11af39">
+      id="6f11af39"
+      type="1">
     <bounds
         x="156"
         y="24"
@@ -33,7 +35,8 @@
           height="283"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="75c45cac">
+          id="75c45cac"
+          type="1">
         <bounds
             x="456"
             y="36"
@@ -59,7 +62,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="d75af351"
-          targetConnections="e57d9b0b">
+          targetConnections="e57d9b0b"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="35d8bc46"
@@ -92,7 +96,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="71d430c1">
+          id="71d430c1"
+          type="1">
         <bounds
             x="228"
             y="36"
@@ -126,7 +131,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="5e01363c">
+          id="5e01363c"
+          type="1">
         <bounds
             x="12"
             y="36"
@@ -159,7 +165,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="d4e52c97">
+          id="d4e52c97"
+          type="1">
         <bounds
             x="12"
             y="132"
@@ -260,7 +267,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="4499eaa1">
+      id="4499eaa1"
+      type="1">
     <bounds
         x="1068"
         y="24"
@@ -285,7 +293,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7be20197">
+      id="7be20197"
+      type="1">
     <bounds
         x="1068"
         y="252"

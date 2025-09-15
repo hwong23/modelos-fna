@@ -5,8 +5,7 @@
     id="18c0ab78">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="9ff7c98a"
-      type="1">
+      id="9ff7c98a">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="044653c7"
@@ -27,8 +26,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="9269389d"
-      type="1">
+      id="9269389d">
     <bounds
         x="540"
         y="96"
@@ -53,8 +51,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="26f3ca2b"
-      type="1">
+      id="26f3ca2b">
     <bounds
         x="204"
         y="96"
@@ -110,8 +107,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ffa01979"
-      type="1">
+      id="ffa01979">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e2f25e61"

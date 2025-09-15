@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5fa51bb2-d2a0-4117-8439-74c2119b5a09"
-      targetConnections="abf2ef44-decd-4974-a587-36c5b2efc3f7 495bbb37-51db-41f8-8369-7be1846210fe">
+      targetConnections="abf2ef44-decd-4974-a587-36c5b2efc3f7 495bbb37-51db-41f8-8369-7be1846210fe"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f1444102-c989-49fb-871c-796d9c7639ed"
@@ -24,7 +25,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d74ba07a-07bf-4dbe-937a-b79d7527a636"
-        targetConnections="f1444102-c989-49fb-871c-796d9c7639ed">
+        targetConnections="f1444102-c989-49fb-871c-796d9c7639ed"
+        type="1">
       <bounds
           x="36"
           y="36"
@@ -51,7 +53,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="1a6c6bd1-3221-4e12-8b43-3309706de9ea">
+      id="1a6c6bd1-3221-4e12-8b43-3309706de9ea"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="25af6d95-91a1-4835-886e-02befca08712"
@@ -78,7 +81,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7a735d5a-d570-402a-84ea-36f35e423612"
-        targetConnections="25af6d95-91a1-4835-886e-02befca08712 b03e587d-82d2-431c-bdc7-74bfefd3841e">
+        targetConnections="25af6d95-91a1-4835-886e-02befca08712 b03e587d-82d2-431c-bdc7-74bfefd3841e"
+        type="1">
       <bounds
           x="43"
           y="72"
@@ -157,7 +161,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="3a4401e5-41d6-4ca6-8fdb-e7e51e3537b5">
+      id="3a4401e5-41d6-4ca6-8fdb-e7e51e3537b5"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7372373d-d22b-49ec-914f-1e1e7ecc4c39"
@@ -192,7 +197,8 @@
           height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="0e9019db-ecc5-4133-ba41-5f8d87f1e197">
+          id="0e9019db-ecc5-4133-ba41-5f8d87f1e197"
+          type="1">
         <bounds
             x="12"
             y="24"

@@ -17,7 +17,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f75a1025-83a1-47cd-b6ff-c8ed63475ce8"
-        fillColor="#ffff00">
+        fillColor="#ffff00"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="9d74131c-8194-4a16-b58d-16985949e473"
@@ -65,7 +66,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="43266051-6110-46da-8940-b260b9e73068"
         targetConnections="7e811fc9-708e-42fc-8411-2f31eb3315dc"
-        fillColor="#ffff00">
+        fillColor="#ffff00"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="e0e4591a-2615-4b5c-897c-15cac4b844ed"
@@ -126,7 +128,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="032073e2-653f-4fa7-a3cc-475aa7dbf84c"
-        targetConnections="9d74131c-8194-4a16-b58d-16985949e473">
+        targetConnections="9d74131c-8194-4a16-b58d-16985949e473"
+        type="1">
       <bounds
           x="24"
           y="36"
@@ -165,7 +168,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7a952cff-dad4-4ac3-9a47-9fd9f786ad6b"
-        targetConnections="0bb7509f-8de0-4b85-8c74-33abf17af538">
+        targetConnections="0bb7509f-8de0-4b85-8c74-33abf17af538"
+        type="1">
       <bounds
           x="180"
           y="252"
@@ -177,7 +181,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="ec8e022e-3ec7-429f-9047-8368d17210d4">
+        id="ec8e022e-3ec7-429f-9047-8368d17210d4"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="0bb7509f-8de0-4b85-8c74-33abf17af538"
@@ -221,7 +226,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8ed83209-3525-4bb2-9279-338d640133b9"
         targetConnections="189fc1d2-16eb-471b-bf8e-28a48fd01c43 4ebb7d06-f889-4b0f-a95a-4bf180aa7d68"
-        fillColor="#ffff00">
+        fillColor="#ffff00"
+        type="1">
       <bounds
           x="24"
           y="48"

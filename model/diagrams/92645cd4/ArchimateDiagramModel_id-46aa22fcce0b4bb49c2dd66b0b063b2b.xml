@@ -37,8 +37,7 @@
         id="id-9b761e10a0ba433688ebd4203c492774"
         targetConnections="id-6dfe7af1e65444c2a588f9a3afc873f2"
         font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        textAlignment="1"
-        type="1">
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c79a3cd59f974088baaa54022affa9d3"
@@ -84,7 +83,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b08740bf7bd844b9b175b5f9578558ae"
           targetConnections="id-2d2c11f1f6de498aa0c20198042d7060"
-          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-c0fb1d0a204e4a838108499d96e3fe81"
@@ -104,8 +104,7 @@
             id="id-035cc2d51eb74c908e1d5faec9916885"
             targetConnections="id-c0fb1d0a204e4a838108499d96e3fe81"
             font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <bounds
               x="12"
               y="24"
@@ -123,7 +122,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6f63a4b6deba4362a8d6778da7afd784"
           targetConnections="id-01d55a302b5f431d8916e67f4ea57cd0"
-          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-b89bf3a0eb324dec85ccbfe59e815aeb"
@@ -152,8 +152,7 @@
             id="id-c23460b5831348c2839cebfd5c75307e"
             targetConnections="id-b89bf3a0eb324dec85ccbfe59e815aeb"
             font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <bounds
               x="12"
               y="24"
@@ -168,8 +167,7 @@
             id="id-acb326bfc484440489c57b24b8b4d8d6"
             targetConnections="id-1176557f32464a928efa43451ccd594b"
             font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <bounds
               x="168"
               y="24"
@@ -187,7 +185,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8372304e0dec4e97905e0850f6aade0e"
           targetConnections="id-7402df8c315b4ea2968700ffbec997a9"
-          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-e2ff2318f9d84897899a86b2155e72e2"
@@ -207,8 +206,7 @@
             id="id-15164f506ab04df2b4f56c87f44b5c81"
             targetConnections="id-e2ff2318f9d84897899a86b2155e72e2"
             font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <bounds
               x="12"
               y="24"
@@ -226,7 +224,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-39ebf37cd46448a69dfaa7fc04b1f8b0"
           targetConnections="id-c79a3cd59f974088baaa54022affa9d3"
-          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+          type="1">
         <bounds
             x="612"
             y="27"
@@ -263,7 +262,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0df6b8c1203c46a8924a69ae0be691a6"
           targetConnections="id-625b03a93dd94ddfaf0b65fba0dde9c8"
-          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+          font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+          type="1">
         <bounds
             x="12"
             y="36"
@@ -298,8 +298,7 @@
       id="id-c9c3cb7775fc4b5e9c11cdaf4ff79acf"
       targetConnections="id-44afbbc80c8b4d78bb1f63577ff16f7b id-a5bfc817fd2941528395623939e8ac2e id-6879db953fd34d718026dd1a5873397e"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-984042903caf4420923442c4b44bb425"
@@ -441,8 +440,7 @@
       id="id-45113d5a9dd4426b88448e560968eb3f"
       targetConnections="id-2ea79ad4c2cb4dffac10dac0b50668df id-bbfd6729e5d24f829c663a2ecdece57b"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9865df8b4af1447292397259f4223515"
@@ -728,8 +726,7 @@
       id="id-dce0776047ff4dee83ba3146ad948f7e"
       targetConnections="id-0816fdf2cf4f4d98b65b5a1cbde07352 id-29a9dcd6f22f423a940837663d91dc63 id-e6eb657b3bb44f5ea07288d4305de7d9"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0675935d64c84f03b615454077f46bbd"
@@ -847,7 +844,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7699b064f51646e6a580290d59ab7603"
         targetConnections="id-0675935d64c84f03b615454077f46bbd"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="250"
           y="96"
@@ -861,7 +859,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2a8c3fcb36774db69eb10d1ad46fa958"
         targetConnections="id-1e30779aa06941e2b541c77a9d36db40"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="131"
           y="60"
@@ -875,7 +874,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c7d58cd70368432e97ace7eff4b05732"
         targetConnections="id-d2aa7945fce74556bbb3c78214671a85"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="250"
           y="60"
@@ -889,7 +889,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-01a84820c2b74b2eb699c6a1f79b11c5"
         targetConnections="id-b8085c660c4a4827bfcec05edc9d6c5e"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="250"
           y="24"
@@ -903,7 +904,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5aa8528764c341d3a1db705e223ace59"
         targetConnections="id-82727ce0eef64b659001c9971ce13055"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="12"
           y="60"
@@ -917,7 +919,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-938b4fae9e9d4c2bb5b7d8544c12a592"
         targetConnections="id-3671b49b240540148d67609084f032df"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="369"
           y="60"
@@ -931,7 +934,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2dba10159abb4c788de3940cb1e9eee0"
         targetConnections="id-9de25722582b4e969099fa2674e0d08a"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="369"
           y="96"
@@ -945,7 +949,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b86eb46efbd64558a5add1c915f8c500"
         targetConnections="id-20c6b3c476414d6db4b88ebe5c767297"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="369"
           y="24"
@@ -959,7 +964,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0659c097dd604945886afd0a1d2e35f2"
         targetConnections="id-70da234720034be8b1ec870e5a4abede"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="12"
           y="24"
@@ -973,7 +979,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3ef0bacfe5c94d6e8c0362a79f3d023e"
         targetConnections="id-9ba99b651caa4d089d62e23d0340b5cd"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="131"
           y="96"
@@ -987,7 +994,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7ed77fc1265c493ca3cd42c0b5f72b88"
         targetConnections="id-3c83e7fc3e0f48eba6d912ce0fdf8f9f"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="12"
           y="96"
@@ -1001,7 +1009,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-209a36af01b1418f8dfd471b6bc000cc"
         targetConnections="id-76b2d1a31eeb4cd9a02607c77f6f386a"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        type="1">
       <bounds
           x="131"
           y="24"
@@ -1019,8 +1028,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-389b57e94d354f17a7227911a111dad9"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-789cfdc24828478a8f73347deee65a48"
@@ -1356,8 +1364,7 @@
       id="id-6a500c6ad6214624b285c9f4aac51983"
       targetConnections="id-72433cda190c45a3b82d83b7bb124575"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-23be249d167d4158ba49ddbb62a3dce9"
@@ -1630,8 +1637,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a3225806401849fc91d0f2828815f78e"
         targetConnections="id-824f4b22a0b44be9886903d3c6735322"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="625"
           y="60"
@@ -1645,8 +1651,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4686a3b20c0a4674aaa8d377444e319f"
         targetConnections="id-0a9e1a2d403847919285c2ea289ad970"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="625"
           y="24"
@@ -1660,8 +1665,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cde06b99f30643e39255bce66cbc2184"
         targetConnections="id-cf82b98bb44b4ea2b89a164e881b2a75"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="506"
           y="60"
@@ -1675,8 +1679,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-35dfb53165ad4321b92f939cec8479cc"
         targetConnections="id-77e199736fcb42d1a7c603a54ef64ed0"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="387"
           y="60"
@@ -1690,8 +1693,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0945cc8cadfa4f79b1f0e4192b351c86"
         targetConnections="id-b094019b80a0412190783e0a042db817"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="387"
           y="24"
@@ -1705,8 +1707,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-106d5f3402874ed5a1cb3d448252abc4"
         targetConnections="id-b374c73aaa034b538538d19f03983d68"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="506"
           y="24"
@@ -1720,8 +1721,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8726b35f8abd43c4946592a710505543"
         targetConnections="id-32b5c4cb2be7443096f73cb6f263905b"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="387"
           y="96"
@@ -1735,8 +1735,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7cf8f59fb4984fceac3b16340b48a073"
         targetConnections="id-a77bf1357cfb487db5ff77ae00b6366d"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="506"
           y="96"
@@ -1750,8 +1749,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2c9566e36eb145f0b88b40551446df27"
         targetConnections="id-d2a25be1b1c042bda3c5cad99de412a6"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="625"
           y="96"
@@ -1765,8 +1763,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2abaafcea7434c62816e8cd756436982"
         targetConnections="id-7cff75b3db544f2f8fe7942dc9fcb034"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="744"
           y="24"
@@ -1780,8 +1777,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f0dc7d088065428f9eebeecfb5cea565"
         targetConnections="id-a538491ce3064e1394d129c4156baf18"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="744"
           y="60"
@@ -1795,8 +1791,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-28691b6ca7234313b2b1892e09d48c94"
         targetConnections="id-44eb9b61556a4412a32d2e685b031eda"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="744"
           y="96"
@@ -1810,8 +1805,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fca550e417454019b7bc78b5e598cae4"
         targetConnections="id-f04bd0857e444516894a42538653e224"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="863"
           y="24"
@@ -1825,8 +1819,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-eba3c2c22ee244e1924b357949ff8437"
         targetConnections="id-aa0d9929fddc4f37bbb0e65712e1f6cc"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <features
           name="labelExpression"
           value="Simuladores (JBoss EAP)"/>
@@ -1843,8 +1836,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ac05a888a5944b798b156328db440539"
         targetConnections="id-ae24168eb2774d019199eab00cd43d49"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-        type="1">
+        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
       <features
           name="labelExpression"
           value="Scoring"/>
@@ -1866,8 +1858,7 @@
       id="id-87375b5977e348b893852858ce77f5b8"
       targetConnections="id-92b3aad4e0d34590bc4700cb8630c5a0 id-b4862a9623134afa82bace1d302de0b5"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0ee8aabec461496491007f39fe31af50"
@@ -1936,8 +1927,7 @@
       id="id-6f695652dbe6435c87290027095d4687"
       targetConnections="id-d85f4c7e42f94799ad1f0ea6485eaa22 id-63e3578f06fb4806af19869e26b2173f"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5f7c8811056143f6a42372c20aac5034"
@@ -2000,8 +1990,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1e2f1aa16f564502a08684bfc5dddd3e"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0816fdf2cf4f4d98b65b5a1cbde07352"
@@ -2122,8 +2111,7 @@
       id="id-5c6930d073f846628c5b11d68224acee"
       targetConnections="id-4f7f7e178a864315a2141b4c4a4a84bb"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bff0cc612efa49bcbe3240b7ccfaa82d"
@@ -2207,8 +2195,7 @@
       id="id-db7d53a5a0c04f9898b02626ef17f4d8"
       targetConnections="id-08de6a7d5b8748f594c58b886ffd909c id-0271a5a40ca84fad8b78815bc130a8b9 id-204017d6aecb4c9ca14a897f33c8fb89 id-ad40e24b620f4574ae1a9c9e92abf75e"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6d58ceec906d43229f56159d2ae5d9a7"

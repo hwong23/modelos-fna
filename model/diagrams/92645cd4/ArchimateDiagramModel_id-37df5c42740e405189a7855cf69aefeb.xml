@@ -8,7 +8,8 @@
       id="id-1dab7d9377a645bdbd2755deed20e45d"
       textAlignment="1"
       fillColor="#75d5ff"
-      alpha="100">
+      alpha="100"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6554004163e84bcf9e891ccd928efe60"
@@ -140,7 +141,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3245350923f64f83b6311ce67f60cf0a"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-85e8645dd6694d7489636680b3a57f38"
