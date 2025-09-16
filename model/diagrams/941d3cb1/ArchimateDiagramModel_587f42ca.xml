@@ -169,9 +169,9 @@
             id="97997242"
             targetConnections="fec3df0a">
           <bounds
-              x="30"
+              x="12"
               y="120"
-              width="193"
+              width="229"
               height="37"/>
           <archimateElement
               xsi:type="archimate:ApplicationInterface"

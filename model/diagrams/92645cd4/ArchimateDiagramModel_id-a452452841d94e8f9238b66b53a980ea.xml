@@ -1595,7 +1595,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e4fe2807fd8d4a7998ccfaa74e74a3f2"
         targetConnections="id-4b2d2b63b1c4467787377892dc4df901"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|9.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="193"
           y="24"
@@ -1609,7 +1609,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4835040c1ac14ab48633ec52eabac185"
         targetConnections="id-a33eeadd22bd4dfc964e7076d7c41666"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+        font="1|Lucida Grande|9.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="193"
           y="60"
