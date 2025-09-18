@@ -688,7 +688,7 @@
     <bounds
         x="48"
         y="636"
-        width="528"
+        width="589"
         height="192"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -755,9 +755,9 @@
       targetConnections="id-2529b13f55434896b369f4cd29710f6d"
       fillColor="#c0c0c0">
     <bounds
-        x="600"
+        x="648"
         y="636"
-        width="528"
+        width="577"
         height="192"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
