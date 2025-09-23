@@ -116,7 +116,7 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="24"
+        y="192"
         width="720"
         height="468"/>
     <children
@@ -278,5 +278,14 @@
     <archimateElement
         xsi:type="archimate:ApplicationInteraction"
         href="ApplicationInteraction_id-0b7fddaf97144da1bf55aea4816c140e.xml#id-0b7fddaf97144da1bf55aea4816c140e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d2eb64c3e3a94f36adc79d77a22336ad"
+      textAlignment="1">
+    <bounds
+        x="36"
+        width="277"
+        height="168"/>
   </children>
 </archimate:ArchimateDiagramModel>
