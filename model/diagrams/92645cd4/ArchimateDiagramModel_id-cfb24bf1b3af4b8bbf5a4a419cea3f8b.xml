@@ -114,6 +114,15 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-9c1a97045c644be38c83d11ad7f5e714.xml#id-9c1a97045c644be38c83d11ad7f5e714"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-311ee164184644a3ae826054d86a1f07"
+        source="id-7628b62f45d44e07ae5f8c34883921ea"
+        target="id-578c98ce836b40b787fd629d5c6a662f">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-d766036966074ed0a716de6619e39143.xml#id-d766036966074ed0a716de6619e39143"/>
+    </sourceConnections>
     <bounds
         x="36"
         y="192"
@@ -275,14 +284,28 @@
           xsi:type="archimate:DataObject"
           href="DataObject_id-33fc0c3dbb2b4b3191767c276a602ebd.xml#id-33fc0c3dbb2b4b3191767c276a602ebd"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-578c98ce836b40b787fd629d5c6a662f"
+        targetConnections="id-311ee164184644a3ae826054d86a1f07">
+      <bounds
+          x="359"
+          y="252"
+          width="144"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-2c59b6334c334136a6e5877a5856eb96.xml#id-2c59b6334c334136a6e5877a5856eb96"/>
+    </children>
     <archimateElement
-        xsi:type="archimate:ApplicationInteraction"
-        href="ApplicationInteraction_id-0b7fddaf97144da1bf55aea4816c140e.xml#id-0b7fddaf97144da1bf55aea4816c140e"/>
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-aca653b3890e4d089ba6b453fa485c30.xml#id-aca653b3890e4d089ba6b453fa485c30"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-d2eb64c3e3a94f36adc79d77a22336ad"
-      textAlignment="1">
+      textAlignment="1"
+      content="Repositorio Empresarial, FNA. 2025&#xA;&#xA;Modelo de contenidos repositorio FNA basado en negocio. Librerías Mega organizadas según negocio.&#xA;&#xA;versión 0.01">
     <bounds
         x="36"
         width="277"
