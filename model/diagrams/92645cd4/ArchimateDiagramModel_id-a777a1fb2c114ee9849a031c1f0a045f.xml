@@ -147,8 +147,8 @@
       targetConnections="id-39bc7d554ae94f65919262b8109f7f13">
     <bounds
         x="528"
-        y="468"
-        width="145"
+        y="408"
+        width="241"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -160,8 +160,8 @@
       targetConnections="id-7eac4d920e294cf7afbdba4df0bebd7b">
     <bounds
         x="528"
-        y="540"
-        width="145"
+        y="480"
+        width="241"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -173,8 +173,8 @@
       targetConnections="id-a82f1be3f7df46a089787c0090a43f76">
     <bounds
         x="528"
-        y="612"
-        width="145"
+        y="552"
+        width="241"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -185,8 +185,8 @@
       id="id-ed37f49f45aa4aceb3b23d3ce33dda3d">
     <bounds
         x="529"
-        y="690"
-        width="144"
+        y="630"
+        width="241"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -196,9 +196,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3320e679a7c743d99c3f0ce8ecc62dc8">
     <bounds
-        x="679"
-        y="690"
-        width="144"
+        x="780"
+        y="630"
+        width="241"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -208,9 +208,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-803f8944161e4e72aacd4735c216cf6d">
     <bounds
-        x="829"
-        y="690"
-        width="144"
+        x="529"
+        y="696"
+        width="241"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
