@@ -83,7 +83,7 @@
       <bounds
           x="24"
           y="36"
-          width="144"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -95,8 +95,8 @@
         targetConnections="id-9498aca19d8942fb831ec8ff1a26f71b">
       <bounds
           x="24"
-          y="300"
-          width="144"
+          y="324"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -118,7 +118,7 @@
       <bounds
           x="24"
           y="136"
-          width="144"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -131,8 +131,8 @@
       <bounds
           x="24"
           y="216"
-          width="144"
-          height="55"/>
+          width="205"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-5e993802e76d4ed9911be2a127c11955.xml#id-5e993802e76d4ed9911be2a127c11955"/>

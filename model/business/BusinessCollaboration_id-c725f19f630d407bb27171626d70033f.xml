@@ -1,4 +1,5 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Colaboración Oficina y Gobierno"
-    id="id-c725f19f630d407bb27171626d70033f"/>
+    id="id-c725f19f630d407bb27171626d70033f"
+    documentation="los análisis de impacto de los cambios a las arquitecturas del FNA, que son insumo para el gobierno TI del FNA, los realiza la oficina de arquitectura propuesta.&#xA;"/>
