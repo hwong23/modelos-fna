@@ -309,9 +309,9 @@
           href="InfluenceRelationship_id-70bf8e35539c45cd9cbf3f6913a6bacd.xml#id-70bf8e35539c45cd9cbf3f6913a6bacd"/>
     </sourceConnections>
     <bounds
-        x="58"
+        x="31"
         y="161"
-        width="158"
+        width="186"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -378,9 +378,9 @@
           href="InfluenceRelationship_id-6c2a3d609e5240e191fb41ddf1a1283b.xml#id-6c2a3d609e5240e191fb41ddf1a1283b"/>
     </sourceConnections>
     <bounds
-        x="249"
+        x="234"
         y="161"
-        width="158"
+        width="186"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -401,7 +401,7 @@
     <bounds
         x="441"
         y="161"
-        width="158"
+        width="186"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
