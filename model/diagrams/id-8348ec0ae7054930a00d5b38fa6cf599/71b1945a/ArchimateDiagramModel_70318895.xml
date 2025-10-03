@@ -42,7 +42,7 @@
       <bounds
           x="336"
           y="181"
-          width="145"
+          width="217"
           height="199"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -167,7 +167,7 @@
       <bounds
           x="336"
           y="408"
-          width="145"
+          width="217"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Node"
@@ -310,8 +310,8 @@
             href="AssociationRelationship_ee998223.xml#ee998223"/>
       </sourceConnections>
       <bounds
-          x="570"
-          y="180"
+          x="600"
+          y="181"
           width="133"
           height="133"/>
       <children
