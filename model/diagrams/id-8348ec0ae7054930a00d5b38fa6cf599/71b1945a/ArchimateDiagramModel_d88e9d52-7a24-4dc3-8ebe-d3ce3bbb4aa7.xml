@@ -64,7 +64,7 @@
             href="AggregationRelationship_b51bbe1c-4853-419f-926f-d3facb68d2bd.xml#b51bbe1c-4853-419f-926f-d3facb68d2bd"/>
       </sourceConnections>
       <bounds
-          x="180"
+          x="204"
           y="36"
           width="469"
           height="385"/>
@@ -325,7 +325,7 @@
             href="CompositionRelationship_ca8182e0-ca9f-493c-8809-14350a988498.xml#ca8182e0-ca9f-493c-8809-14350a988498"/>
       </sourceConnections>
       <bounds
-          x="660"
+          x="708"
           y="36"
           width="505"
           height="385"/>
