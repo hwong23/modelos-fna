@@ -118,9 +118,9 @@
         id="8de9b7be"
         targetConnections="2f5deb77 a3c3e820">
       <bounds
-          x="504"
+          x="564"
           y="35"
-          width="265"
+          width="205"
           height="28"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -145,7 +145,7 @@
       <bounds
           x="336"
           y="37"
-          width="145"
+          width="205"
           height="24"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -291,7 +291,7 @@
       <bounds
           x="19"
           y="408"
-          width="288"
+          width="294"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Node"
