@@ -121,7 +121,7 @@
         source="f85459e9"
         target="83839031"/>
     <bounds
-        x="71"
+        x="48"
         y="336"
         width="253"
         height="25"/>
@@ -146,7 +146,7 @@
       id="d1f8aadf"
       fillColor="#ffff80">
     <bounds
-        x="60"
+        x="48"
         y="372"
         width="264"
         height="25"/>
@@ -172,7 +172,7 @@
       id="f17d97c5"
       fillColor="#ffff80">
     <bounds
-        x="60"
+        x="48"
         y="408"
         width="264"
         height="25"/>
@@ -197,7 +197,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dfe1f1c8">
     <bounds
-        x="60"
+        x="48"
         y="444"
         width="264"
         height="25"/>
@@ -209,7 +209,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d481a032">
     <bounds
-        x="60"
+        x="48"
         y="516"
         width="264"
         height="25"/>
@@ -221,7 +221,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6e9efe97">
     <bounds
-        x="60"
+        x="48"
         y="480"
         width="264"
         height="25"/>
