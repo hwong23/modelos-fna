@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ING.Contrucción"
+    id="id-d1b2951d8637431f9ab1c186a2ad1900"
+    documentation="### KPI&#xD;&#xA;- Velocidad de construcción&#xD;&#xA;Fuente: (Cantidad de puntos de HU ejecutadas [Azure DevOps] / Horas habiles del mes de trabajo [Calculo manual])&#xD;&#xA;Dato 26/10/2023: 83 / 153 = 0,54 HU/horas &#xD;&#xA;&#xD;&#xA;- Tasa de cierre de defectos&#xD;&#xA;Fuente: (Cantidad de Bug solucionados [Azure DevOps] / Total de Bugs a corte sin nuevos [Azure DevOps])&#xD;&#xA;Dato 26/10/2023: 81 / 920 = 0,088&#xD;&#xA;&#xD;&#xA;- Indice de dependecia de Lider Técnico&#xD;&#xA;Fuente: (Cantidad de actividades retrazadas semanales segun las HU planeadas / Total de HU planeadas para ejecución)&#xD;&#xA;Dato 26/10/2023: Pendiente proxima semana&#xD;&#xA;">
+  <profiles
+      href="folder.xml#id-5396c9f9a2af40188c9d3bb3cf233572"/>
+</archimate:BusinessProcess>
