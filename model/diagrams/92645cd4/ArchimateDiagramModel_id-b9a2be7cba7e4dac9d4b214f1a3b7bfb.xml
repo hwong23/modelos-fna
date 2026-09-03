@@ -661,21 +661,21 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f0b5a37a13f6488ea6c8f1490b9c8deb"
-          source="id-c6bd0b0cf78641d0bb9c404a97e5309a"
-          target="id-a915de6f547d43a4909709ae7e3eadb1">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-9ad953a463e941a8b1b11835a14878e6.xml#id-9ad953a463e941a8b1b11835a14878e6"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c3ec7a906b3b45bda499c4015072ff24"
           source="id-c6bd0b0cf78641d0bb9c404a97e5309a"
           target="id-74ff825ed7ae44deb6fdb43d0bb04ea9">
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-63b4f9decb4a4407808bacd8ce23e245.xml#id-63b4f9decb4a4407808bacd8ce23e245"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-f0b5a37a13f6488ea6c8f1490b9c8deb"
+          source="id-c6bd0b0cf78641d0bb9c404a97e5309a"
+          target="id-a915de6f547d43a4909709ae7e3eadb1">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-ceb1f7270d1f4d95baf0c270f03aaed3.xml#id-ceb1f7270d1f4d95baf0c270f03aaed3"/>
       </sourceConnections>
       <bounds
           x="24"
@@ -685,16 +685,15 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a915de6f547d43a4909709ae7e3eadb1"
-          targetConnections="id-f0b5a37a13f6488ea6c8f1490b9c8deb"
-          type="1">
+          targetConnections="id-f0b5a37a13f6488ea6c8f1490b9c8deb">
         <bounds
             x="36"
             y="36"
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:Contract"
-            href="Contract_id-7662faf008e042039cb9865d7f291ee5.xml#id-7662faf008e042039cb9865d7f291ee5"/>
+            xsi:type="archimate:Requirement"
+            href="Requirement_id-420a61f975684784a1cf1be7b0cc489d.xml#id-420a61f975684784a1cf1be7b0cc489d"/>
       </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
