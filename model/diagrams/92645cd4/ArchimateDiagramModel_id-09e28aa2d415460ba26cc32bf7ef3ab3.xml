@@ -571,7 +571,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-3db259f0feae4bcb9f6bd49c01ddea5c"
       textAlignment="1"
+      alpha="0"
       content="Modelo de implementación Arranque de Repositorio de Arquitectura FNA, Mega Hopex (Soaint)&#xA;&#xA;Modelos de arquitecrtura, E-Services, (Stefanini) 2022-2023.&#xA;">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
         x="-132"
         y="-72"
