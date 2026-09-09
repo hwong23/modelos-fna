@@ -7,9 +7,13 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-d0c27fce6ea0477a9486f05c9a71fa6c"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;&#xA;Modelo Operativo del Comité de Arquitectura del FNA&#xA;&#xA;versión 0.3">
+      alpha="0"
+      content="Gobierno SOA del FNA&#xA;&#xA;Modelo Operativo del Comité de Arquitectura del FNA&#xA;&#xA;versión 0.9">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
-        x="24"
+        x="33"
         y="24"
         width="240"
         height="121"/>
@@ -21,7 +25,7 @@
       textAlignment="1">
     <bounds
         x="33"
-        y="180"
+        y="144"
         width="745"
         height="445"/>
     <children
@@ -198,7 +202,7 @@
       targetConnections="id-0774ca11cd614fd89cf1be00ce17b750 id-3eb48128002849c182d8ebe2a1820fc3 id-ac53d020c07c43308a302301366897be id-ba36af11828c45079eb76c8ee586a4bc">
     <bounds
         x="27"
-        y="742"
+        y="706"
         width="571"
         height="373"/>
     <children
@@ -437,7 +441,7 @@
     </sourceConnections>
     <bounds
         x="840"
-        y="648"
+        y="612"
         width="384"
         height="300"/>
     <children

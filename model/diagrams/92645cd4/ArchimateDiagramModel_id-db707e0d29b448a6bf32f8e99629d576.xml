@@ -60,7 +60,7 @@
       id="id-b84214d3006d4d6896afbfbf9d2d5c9b"
       targetConnections="id-2dbdb4b5d3a541ec89a31bd304c3a4da id-e85a05cd341d4b5eaa32c65dcd580591">
     <bounds
-        x="564"
+        x="648"
         y="408"
         width="157"
         height="61"/>
@@ -165,7 +165,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a5278f5f26504d1986b999041cdce45d"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;Comité de Arquitectura&#xA;&#xA;Modelo de evaluación de escenarios de arquitectura.&#xA;&#xA;versión 0.2">
+      alpha="0"
+      content="Gobierno SOA del FNA&#xA;Comité de Arquitectura&#xA;&#xA;Modelo de evaluación de escenarios de arquitectura.&#xA;&#xA;versión 0.9">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
         x="36"
         y="349"

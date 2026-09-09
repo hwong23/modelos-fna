@@ -470,10 +470,14 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-f435a2009a20425fb033b9cfad5c61d2"
       textAlignment="1"
-      content="Modelo de Gobierno SOA&#xA;Adaptación FNA. 2023&#xA;&#xA;Colaboración Oficina y Gobierno. Recursos y Herramientas de Gestión del Riesgo de Arquitectura del FNA.&#xA;&#xA;versión 0.7&#xA;">
+      alpha="0"
+      content="Modelo de Gobierno SOA&#xA;Adaptación FNA. 2023&#xA;&#xA;Colaboración Oficina y Gobierno. Recursos y Herramientas de Gestión del Riesgo de Arquitectura del FNA.&#xA;&#xA;versión 0.9&#xA;">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
         x="-1"
-        y="828"
+        y="468"
         width="229"
         height="132"/>
   </children>
