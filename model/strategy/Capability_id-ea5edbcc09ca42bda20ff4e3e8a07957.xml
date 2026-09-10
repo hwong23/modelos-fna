@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAP5. Realizar análisis de impacto, riesgos, costo beneficio, y capacidad en uso"
+    id="id-ea5edbcc09ca42bda20ff4e3e8a07957"
+    documentation="Realizar análisis de tipo impacto, riesgos, costo beneficio, capacidad usada, y gestión de demanda ante la evaluación de cambios a la arquitectura de referencia SOA y activos de TI, cuando lo amerite."/>

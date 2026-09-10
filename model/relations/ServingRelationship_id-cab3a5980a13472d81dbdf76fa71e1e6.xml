@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="participa"
+    id="id-cab3a5980a13472d81dbdf76fa71e1e6">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b8ce7c2e5aab45ddbbd2ad4627851675.xml#id-b8ce7c2e5aab45ddbbd2ad4627851675"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-7f1cb12f74174a2fb12bf0e854642f8b.xml#id-7f1cb12f74174a2fb12bf0e854642f8b"/>
+</archimate:ServingRelationship>
