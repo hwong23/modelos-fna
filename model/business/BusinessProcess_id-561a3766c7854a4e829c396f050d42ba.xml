@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ING.Diseño"
+    id="id-561a3766c7854a4e829c396f050d42ba"
+    documentation="### KPI&#xD;&#xA;- Nivel de HU sin detalle técnico&#xD;&#xA;Fuente: (Cantidad de HU refinadas y aprobadas sin diseño de implementacion [Repo Sharepoint] / Total de cantidad de HU [Azure DevOps])&#xD;&#xA;Dato 26/10/2023: 0/44=0&#xA;">
+  <profiles
+      href="folder.xml#id-5396c9f9a2af40188c9d3bb3cf233572"/>
+</archimate:BusinessProcess>

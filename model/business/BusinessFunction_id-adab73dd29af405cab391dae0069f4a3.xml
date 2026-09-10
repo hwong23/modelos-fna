@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comité de Arquitectura / Gobierno SOA del FNA"
+    id="id-adab73dd29af405cab391dae0069f4a3"
+    documentation="El resultado de los diagnósticos SOA, en particular el de riesgos técnicos, realizados en la Fase I de la consultoría E-Service señalan como causantes a la complejidad y (baja) agilidad que enfrenta el FNA, problemas que abarca a aplicaciones y servicios y que aumenta el impacto, el esfuerzo y la incertidumbre de los cambios en las arquitecturas del Fondo. Esto obliga a crear el Comité de Arquitectura, figura central entre la oficina de arquitectua (PR02), objeto de este proyecto, y las áreas de gestión de la tecnlogía y de negocio del FNA.&#xA;"/>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="asiste"
+    id="id-f7aedee5e50342bea127d84f2a714afd">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-83951475613c4a6b9d7f7bed5c7b20cb.xml#id-83951475613c4a6b9d7f7bed5c7b20cb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b40fd800592c4f839b16d29c29923ca1.xml#id-b40fd800592c4f839b16d29c29923ca1"/>
+</archimate:FlowRelationship>
