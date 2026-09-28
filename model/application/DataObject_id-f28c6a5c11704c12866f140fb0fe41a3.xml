@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ABB-005: Activo/Producto del Cliente (Asset)"
+    id="id-f28c6a5c11704c12866f140fb0fe41a3"
+    documentation="Logical Data Component (ABB) - Entidad logica del producto vigente del afiliado (cuenta AVC, cuenta de Cesantias, credito hipotecario, credito educativo) que alimenta el Estado de Cuenta."/>

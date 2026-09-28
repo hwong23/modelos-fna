@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SVC-002: Actualizacion de cliente persona natural en COBIS"
+    id="id-ad36e634c180459a944c284570a437f6"
+    documentation="Information System Service (ABB) - Servicio ModificacionPN: envia a COBIS (APP-SBB-056) los datos actualizados de la persona natural; lo usan FCC_UT_ACCModificacionPNCobisGateway (APP-SBB-041; envia la llamada por su cuenta, sin pasar por FCC_UT_CobisCaller APP-SBB-038) y FCC_UT_ACCActualizarClienteGateway (APP-SBB-040), que tambien envia CartaActualizaDatos. ModificaPersonaNatural y ModificacionPJ: configurados en CallOutSettings__c (APP-SBB-051) y disponibles como servicios reutilizables para consumo por demanda. Expuesto por: APP-SBB-024, APP-SBB-040, APP-SBB-041 hacia APP-SBB-056."/>

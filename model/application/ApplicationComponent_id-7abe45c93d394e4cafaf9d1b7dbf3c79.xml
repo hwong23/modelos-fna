@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-011: FCC_UT_OS_OPP_Hub_Cliente (OSOPPHub/Cliente)"
+    id="id-7abe45c93d394e4cafaf9d1b7dbf3c79"
+    documentation="Physical Application Component (OmniScript) (SBB) - Hub de cuenta: lista y acciones sobre oportunidades del afiliado (DAT-SBB-007 a DAT-SBB-009) (envio APP-SBB-027, documentos, radicacion APP-SBB-028). Realiza ABB: APP-ABB-002."/>

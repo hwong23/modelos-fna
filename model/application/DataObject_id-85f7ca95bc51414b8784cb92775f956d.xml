@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-031: FN1_RutaIntegracion__mdt (Custom Metadata)"
+    id="id-85f7ca95bc51414b8784cb92775f956d"
+    documentation="Physical Data Component (SBB) - Ruteo de la validacion de listas IP-04 (APP-SBB-020) (VIGIA (APP-SBB-057) o Bizagi via IP-04b), registro IP04_VALIDACION_LISTAS leido por el Data Mapper DRXRutaIntegracionIP04 (APP-SBB-033)."/>

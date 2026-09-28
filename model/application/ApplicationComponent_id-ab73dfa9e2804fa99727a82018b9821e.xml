@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-025: IP y clases de identidad (IP FCC_UT_IP-BiometricsRequest, FCC_UT_IP-ConfrontaRequest; paralelo: FCC_UT_Account_BiometriaSolicitar/Consultar, FCC_UT_Account_ConfrontaSolicitarPreguntas/EnviarRespuestas; clases FCC_UT_IPBiometriaGateway, FCC_UT_IPConfrontaGateway, FCC_UT_ACCBiometriaGateway, FCC_UT_ACCConfrontaGateway)"
+    id="id-ab73dfa9e2804fa99727a82018b9821e"
+    documentation="Physical Application Component (Integration Procedure + Clase Apex) (SBB) - Fila agregada: validacion biometrica y cuestionario Confronta del afiliado (OLIMPIA APP-SBB-058 via ESB APP-SBB-055). Camino principal: los IP BiometricsRequest y ConfrontaRequest, invocados por el OmniScript ActualizarCuentaPorBiometria (APP-SBB-006), llaman a las clases FCC_UT_IPBiometriaGateway y FCC_UT_IPConfrontaGateway. Los IP en espanol sirven al flujo paralelo ActualizarCliente y llaman a FCC_UT_ACCBiometriaGateway y FCC_UT_ACCConfrontaGateway. Realiza ABB: APP-ABB-003, APP-ABB-006."/>

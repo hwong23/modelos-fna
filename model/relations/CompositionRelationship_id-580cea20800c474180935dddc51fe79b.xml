@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salesforce FSC compone APP-SBB-030"
+    id="id-580cea20800c474180935dddc51fe79b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11c4c7b67a084c9a86b3a8c101c632da.xml#id-11c4c7b67a084c9a86b3a8c101c632da"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3509f81bab8f4cb5a7c40a7eb87aaad2.xml#id-3509f81bab8f4cb5a7c40a7eb87aaad2"/>
+</archimate:CompositionRelationship>

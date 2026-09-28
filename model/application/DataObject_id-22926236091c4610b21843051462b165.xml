@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-001: Account (Person Account, RT FN1_CuentaNatural)"
+    id="id-22926236091c4610b21843051462b165"
+    documentation="Physical Data Component (SBB) - Registro de cuenta persona natural del afiliado (Person Account con Person Contact), tipo de registro (RT) FN1_CuentaNatural. Llave de integracion: codigo de cliente COBIS (APP-SBB-056) (FN1_CodigoCOBISCliente__c); identificacion: tipo y numero de documento (FN1_TipoIdentificacion__pc, FN1_NumeroIdentificacion__pc)."/>

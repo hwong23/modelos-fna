@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-050: FN1_Transacciones_bk__b"
+    id="id-398528d4650d458fb4028e5d70ec6d91"
+    documentation="Physical Application Component (Big Object) (SBB) - Big Object (DAT-SBB-014) de respaldo de transacciones historicas de productos (FN1_Transacciones__c, DAT-SBB-013), migrado desde FNAProdLegacy (APP-SBB-060); expuesto en Data Cloud por el Data Stream ignore_FN1_Transacciones_bk_Raw_6BC56836 (APP-SBB-049). Realiza ABB: APP-ABB-007, APP-ABB-008."/>

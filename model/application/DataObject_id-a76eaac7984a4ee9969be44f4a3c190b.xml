@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-010: FN1_Relacionado__c (Relacionados)"
+    id="id-a76eaac7984a4ee9969be44f4a3c190b"
+    documentation="Physical Data Component (SBB) - Personas relacionadas al tramite (conyuge, beneficiario) en Credito Hipotecario (Opportunity, DAT-SBB-009), buscadas por documento del afiliado."/>

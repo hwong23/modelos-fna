@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-044: FCCUTAVCService / FCCUTAVCTransService / FCCUTCesantiasService"
+    id="id-acf4336bb13a45afae37d4f00b23abfb"
+    documentation="Physical Application Component (Clase Apex - REST inbound) (SBB) - Servicios REST expuestos (/services/apexrest/AVC/, /AVCTransaccionesService/ y /Cesantias/) por los que COBIS (APP-SBB-056) materializa en Salesforce los Assets (DAT-SBB-012) de AVC y Cesantias (FCCUTAVCService, FCCUTCesantiasService) y las transacciones AVC (FCCUTAVCTransService: upsert de FN1_Transacciones__c (DAT-SBB-013) tipo AVC enlazado al Asset padre por su cuenta producto; reemplaza la clase Legacy AVCTransaccionesService conservando su urlMapping y su contrato de respuesta, sin impacto para COBIS). Realiza ABB: APP-ABB-008."/>

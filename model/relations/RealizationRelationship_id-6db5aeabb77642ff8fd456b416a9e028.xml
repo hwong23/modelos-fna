@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-011 realiza DAT-ABB-004"
+    id="id-6db5aeabb77642ff8fd456b416a9e028">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-49cf30dca4e24949a080615f2ecc8a0e.xml#id-49cf30dca4e24949a080615f2ecc8a0e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d77cbec1a53b4cf6a70c192f93616981.xml#id-d77cbec1a53b4cf6a70c192f93616981"/>
+</archimate:RealizationRelationship>

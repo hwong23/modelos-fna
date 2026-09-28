@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-026: FCC_UT_IP_SaveOppN2 (Opportunity/SaveOppN2)"
+    id="id-405301f2d6e947d18106d58487b32ad8"
+    documentation="Physical Application Component (Integration Procedure) (SBB) - Guardado unificado de oportunidad (AVC DAT-SBB-007, Cesantias DAT-SBB-008, Credito Hipotecario DAT-SBB-009), invocado por los OmniScripts APP-SBB-007, APP-SBB-008 y APP-SBB-009 y apoyado en FCC_UT_SaveOppFormGateway (APP-SBB-043), con validaciones y relacionados. Realiza ABB: APP-ABB-004."/>

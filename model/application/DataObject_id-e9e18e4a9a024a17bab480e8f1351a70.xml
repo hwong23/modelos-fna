@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-006: FNAE_Historicos_de_estados_prospectos__c"
+    id="id-e9e18e4a9a024a17bab480e8f1351a70"
+    documentation="Physical Data Component (SBB) - Historico de estados del prospecto (Lead, DAT-SBB-005), migrado integramente desde FNAProdLegacy (APP-SBB-060) y preservado como fuente de trazabilidad. Al convertir el prospecto, los gateways de conversion de FNAProdNew (APP-SBB-001) (IP07PJHistoricoGateway, FCC_UT_IP07PJSaveQualifyGateway, FCC_UT_LeadQualificationTailGateway, invocados por la orquestacion de guardado y calificacion de prospecto IP-07 (APP-SBB-019)) reasignan automaticamente los historicos del prospecto a la cuenta (DAT-SBB-001 / DAT-SBB-003), garantizando la continuidad de la trazabilidad del cliente."/>

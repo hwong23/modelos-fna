@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-013: FN1_Transacciones__c (Transacciones)"
+    id="id-5bdc15a5eb154da9b2a51354c29e4c3f"
+    documentation="Physical Data Component (SBB) - Movimientos del producto del afiliado (aportes, retiros, pagos), hijos del Asset (DAT-SBB-012) en relacion maestro-detalle (FN1_Producto__c); se actualizan por el codigo externo de la transaccion (FN2_CodigoExternoTransaccion__c)."/>

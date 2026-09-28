@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB sirve a COBIS"
+    id="id-23c266644b804f789da27b0e2d592280">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-97bc6162c42947c49b2dc305fa01c8da.xml#id-97bc6162c42947c49b2dc305fa01c8da"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-04f47ad3992e4cdf8d1f6ff1442e9dc4.xml#id-04f47ad3992e4cdf8d1f6ff1442e9dc4"/>
+</archimate:ServingRelationship>

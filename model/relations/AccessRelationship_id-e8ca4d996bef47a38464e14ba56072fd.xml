@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-004 escribe DAT-ABB-003"
+    id="id-e8ca4d996bef47a38464e14ba56072fd">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cf64336c05af49d3bc92d93e7c7e592c.xml#id-cf64336c05af49d3bc92d93e7c7e592c"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a8f7e23a703b4573836dcc57ab763cd3.xml#id-a8f7e23a703b4573836dcc57ab763cd3"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-018: FCC_UT_VigiaEvent__e (Platform Event de consulta de listas)"
+    id="id-646fca6e4b834e17bbab7ed27d46260d"
+    documentation="Physical Data Component (SBB) - Evento de plataforma para el procesamiento asincrono de la consulta de listas VIGIA (APP-SBB-057); consumido por FCC_UT_VigiaEventTrigger (APP-SBB-047)."/>

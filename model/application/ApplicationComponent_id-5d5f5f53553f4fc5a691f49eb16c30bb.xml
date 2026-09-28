@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-019: FCC_UT_IP07_OrquestadorGuardarYCalificarProspectoPN (IntegrationProcedure/Orchestrate) / FCC_UT_IP-06_GuardarProspecto (Lead/Save) / FCC_UT_IP-01_ValidarDocumentoExistente (LeadPN/Validate) / FCC_UT_IP-CELULAR_ValidarCelularDuplicado (Lead/Cellphone)"
+    id="id-5d5f5f53553f4fc5a691f49eb16c30bb"
+    documentation="Physical Application Component (Integration Procedure) (SBB) - IP de captura, guardado y calificacion de prospecto PN: el orquestador IP07 (prevalidacion de listas y calificacion) e IP-06 GuardarProspecto, invocados por el OmniScript PN (APP-SBB-003); IP-01 (documento existente) e IP-CELULAR (celular duplicado), invocados desde el campo de captura del formulario (LWC fcc_ut_inputTextCustom, APP-SBB-018). Realiza ABB: APP-ABB-001."/>

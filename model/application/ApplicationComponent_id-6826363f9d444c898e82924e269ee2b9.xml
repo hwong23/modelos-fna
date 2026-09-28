@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-034: DR01SaveLeadProspectoPN / DR01SaveLeadProspectoPJ / DRLConvertLeadToAccountPN / DRLConvertLeadToAccountPJ (Load)"
+    id="id-6826363f9d444c898e82924e269ee2b9"
+    documentation="Physical Application Component (Data Mapper) (SBB) - Persisten el prospecto PN/PJ (Lead, DAT-SBB-005) desde el JSON del OmniScript (APP-SBB-003, APP-SBB-004) y crean el cliente (Person Account, DAT-SBB-001) o la empresa (DAT-SBB-003) a partir del prospecto calificado. Realiza ABB: APP-ABB-001, APP-ABB-005."/>

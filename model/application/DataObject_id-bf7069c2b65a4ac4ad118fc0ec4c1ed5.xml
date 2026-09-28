@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-009: Opportunity (RT FN1_Credito_hipotecario)"
+    id="id-bf7069c2b65a4ac4ad118fc0ec4c1ed5"
+    documentation="Physical Data Component (SBB) - Oportunidad con tipo de registro (RT) FN1_Credito_hipotecario: solicitud de credito hipotecario con su monto solicitado (FN1_MontoSolicitud__c) y empresa relacionada (FN1_Empresa_relacionada__c, DAT-SBB-004)."/>

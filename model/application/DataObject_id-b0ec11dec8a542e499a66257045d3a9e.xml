@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-029: CallOutSettings__c (Custom Setting)"
+    id="id-b0ec11dec8a542e499a66257045d3a9e"
+    documentation="Physical Data Component (SBB) - Configuracion canonica de los 47 servicios salientes hacia el ESB (APP-SBB-055), registrados en APP-SBB-051 (endpoint Prod https://crm.fna.gov.co:8452/esb/services/soap, accion SOAP, systemId)."/>

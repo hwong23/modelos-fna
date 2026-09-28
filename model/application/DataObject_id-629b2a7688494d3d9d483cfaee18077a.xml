@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-005: Lead (RT Persona_Natural / Persona_Juridica / Constructora)"
+    id="id-629b2a7688494d3d9d483cfaee18077a"
+    documentation="Physical Data Component (SBB) - Prospectos por tipo de registro (RT): persona natural (219.134), persona juridica (8.619) y constructora (127). Se convierten a Person Account (DAT-SBB-001) o cuenta juridica (DAT-SBB-003)."/>

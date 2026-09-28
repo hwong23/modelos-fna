@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SVC-007 sirve a APP-SBB-027"
+    id="id-cc970c0e3b4f48c8b5b2a2f07da5f8da">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-fc541ab4e6554eeba4fee00944f606ed.xml#id-fc541ab4e6554eeba4fee00944f606ed"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-70de0ffc93224f97940feca7c0e7c0a7.xml#id-70de0ffc93224f97940feca7c0e7c0a7"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-004: FN1_EmpresaRelacionada__c (Empresas relacionadas)"
+    id="id-db5a65833a1b41d5ae43fddf6e396cc6"
+    documentation="Physical Data Component (SBB) - Relacion laboral afiliado-empresa: afiliado (FN1_Afiliado__c) y empresa empleadora (FN1_Empresa__c), ambos referencias a Account (DAT-SBB-001 / DAT-SBB-003), mas pais y poblado donde labora."/>

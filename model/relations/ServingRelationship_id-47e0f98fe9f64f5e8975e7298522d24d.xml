@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB sirve a OLIMPIA"
+    id="id-47e0f98fe9f64f5e8975e7298522d24d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-97bc6162c42947c49b2dc305fa01c8da.xml#id-97bc6162c42947c49b2dc305fa01c8da"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8905835d10a14b3797a7bb8c1da0b321.xml#id-8905835d10a14b3797a7bb8c1da0b321"/>
+</archimate:ServingRelationship>

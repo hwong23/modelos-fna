@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-003: Account (juridica, RT FN1_CuentaJuridica / FN1_Constructoras / Cuenta_Sucursal)"
+    id="id-6bcb2309bb8542dfb6fd24be28069c6f"
+    documentation="Physical Data Component (SBB) - Cuentas de persona juridica por tipo de registro (RT): empresas empleadoras (FN1_CuentaJuridica, 374.323), constructoras (FN1_Constructoras, 458) y sucursales (Cuenta_Sucursal, 3). Incluye NIT con digito de verificacion (FN1_DigitoVerificacion__c)."/>

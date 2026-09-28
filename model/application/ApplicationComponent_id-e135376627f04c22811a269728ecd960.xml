@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-031: FCC_UT_IP_ConsultaProductos (Account/FCCUTConsultaProductos)"
+    id="id-e135376627f04c22811a269728ecd960"
+    documentation="Physical Application Component (Integration Procedure) (SBB) - Consulta los productos del afiliado en COBIS (APP-SBB-056) (servicio ConsultaProductos, por FCC_UT_CobisCaller APP-SBB-038). Activo y configurado en FNAProdNew (APP-SBB-001) como servicio reutilizable para consumo por demanda; la consulta ordinaria del hub (APP-SBB-011) y de la FlexCard de productos (APP-SBB-013) se atiende leyendo el Asset (DAT-SBB-012). Realiza ABB: APP-ABB-008, APP-ABB-006."/>

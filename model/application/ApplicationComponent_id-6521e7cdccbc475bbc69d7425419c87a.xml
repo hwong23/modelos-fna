@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-060: FNAProdLegacy (org Salesforce legacy de FNA, solo lectura)"
+    id="id-6521e7cdccbc475bbc69d7425419c87a"
+    documentation="Physical Application Component (Plataforma SaaS - org legacy) (SBB) - Org Salesforce productiva anterior de FNA (Enterprise Edition, instancia USA314), reemplazada por FNAProdNew (APP-SBB-001) tras una reingenieria integral que UT reconstruyo por analisis directo de la org, al no existir documentacion base de Legacy. Sistema origen de la migracion con MuleSoft (APP-SBB-061) de todos sus objetos: clientes, empresas, prospectos, oportunidades, productos, transacciones y logs, concluida el fin de semana del 23 de agosto de 2026. Se conserva en solo lectura como referencia de reconciliacion Legacy vs FNAProdNew (APP-SBB-001). Realiza ABB: APP-ABB-001 a APP-ABB-008 (como origen de los datos migrados)."/>

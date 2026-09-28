@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-012: Asset (RT AVC / Cesantias / Constructor / CreditoEducativo / CreditoHipotecario)"
+    id="id-c75986e5fa8f44b4b0cdc95aaab6e863"
+    documentation="Physical Data Component (SBB) - Producto del afiliado. 5 tipos de registro (RT) activos: AVC 2.312.843, Cesantias 4.107.960, Constructor 0, CreditoEducativo 10.989, CreditoHipotecario 414.707; sin tipo de registro 45.773. Llave externa: numero de cuenta producto (FN1_CuentaProducto__c)."/>

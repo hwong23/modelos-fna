@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-021: FCC_UT_IP-05_CalificarProspecto (Lead/Qualify)"
+    id="id-10c1400108384ad2ad3561726cd34bee"
+    documentation="Physical Application Component (Integration Procedure) (SBB) - Califica el prospecto PN y lo convierte en cliente (Person Account, DAT-SBB-001) dentro de Salesforce, con su ubicacion (DAT-SBB-002) y miembro de campana; no llama a COBIS (APP-SBB-056). La creacion en COBIS ocurre despues, al enviar la oportunidad desde el hub (APP-SBB-027). Realiza ABB: APP-ABB-001."/>

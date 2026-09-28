@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-024: FCC_UT_IP-ActualizarCuentaGuardar (Account/ActualizarCuentaGuardar) / FCC_UT_Account_ActualizarCliente (Account/ActualizarCliente)"
+    id="id-1e8af20e554742289779f28ae24ff0fa"
+    documentation="Physical Application Component (Integration Procedure) (SBB) - ActualizarCuentaGuardar: camino principal invocado por el OmniScript ActualizarCuenta (APP-SBB-005); guarda en Salesforce y envia la modificacion a COBIS (APP-SBB-056) mediante la clase FCC_UT_ACCModificacionPNCobisGateway (APP-SBB-041). Account_ActualizarCliente: flujo paralelo (LWC de formulario embebido) documentado en V4 5.11. Realiza ABB: APP-ABB-003, APP-ABB-006."/>

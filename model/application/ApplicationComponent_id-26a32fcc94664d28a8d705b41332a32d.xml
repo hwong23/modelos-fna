@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-013: FCC_UT_ProductosAfiliado"
+    id="id-26a32fcc94664d28a8d705b41332a32d"
+    documentation="Physical Application Component (FlexCard) (SBB) - Tarjeta que muestra los productos del afiliado (Asset, DAT-SBB-012) ya almacenados en Salesforce; los lee directamente del objeto Asset de la cuenta, sin llamar a COBIS (APP-SBB-056). Realiza ABB: APP-ABB-008, APP-ABB-002."/>

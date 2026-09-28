@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-040: Clases de cliente COBIS (FCC_UT_ACCActualizarClienteGateway, FCC_UT_CreacionRelacionClienteGateway, IP02Gateway)"
+    id="id-9ffd0fb193304785976d96fb8bce5fd9"
+    documentation="Physical Application Component (Clase Apex) (SBB) - Clases que llaman los IP de actualizacion de cliente (APP-SBB-024), relacion cliente (disponible como servicio reutilizable por demanda, APP-SVC-006), consulta de persona natural y envio desde el hub (APP-SBB-027); arman la solicitud de cliente y la envian a COBIS (APP-SBB-056) por FCC_UT_CobisCaller (APP-SBB-038). Tras crear la persona natural, IP02Gateway la re-consulta con FCC_UT_ConsultaPNCobisGateway (APP-SBB-041). Realiza ABB: APP-ABB-003, APP-ABB-001, APP-ABB-004, APP-ABB-006."/>

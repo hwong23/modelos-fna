@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ABB-003: Prospecto (Lead)"
+    id="id-a8f7e23a703b4573836dcc57ab763cd3"
+    documentation="Logical Data Component (ABB) - Entidad logica del prospecto persona natural o juridica antes de su calificacion y conversion a cuenta afiliada, con su historico de estados."/>

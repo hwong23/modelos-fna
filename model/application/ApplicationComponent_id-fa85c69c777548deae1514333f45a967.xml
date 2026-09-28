@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-057: VIGIA (listas inhibitorias y restrictivas)"
+    id="id-fa85c69c777548deae1514333f45a967"
+    documentation="Physical Application Component (Sistema externo) (SBB) - Sistema de consulta de listas SARLAFT (estado de bloqueo, inhibitorias, restrictivas). 3 servicios salientes por el ESB (APP-SBB-055) de Prod (crm.fna.gov.co:8452); la ruta Bizagi (IP-04b APP-SBB-020, FCC_UT_BizagiRestrictivasGateway APP-SBB-042) usa esos mismos servicios y la matriz de endpoints los asigna a VIGIA, por eso Bizagi no figura como sistema aparte. Realiza ABB: APP-ABB-009."/>

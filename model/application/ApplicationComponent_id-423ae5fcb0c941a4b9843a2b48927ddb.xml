@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-017: LWC del hub de cuenta (fccUtOppHubOpportunityTableV3, fccUtOppHubSendAction, fccUtHubClienteAction, fccUtHubFlagsLoader)"
+    id="id-423ae5fcb0c941a4b9843a2b48927ddb"
+    documentation="Physical Application Component (Lightning Web Component) (SBB) - LWC del hub de cuenta: tabla dinamica de oportunidades del afiliado (DAT-SBB-007 a DAT-SBB-009), accion de envio (APP-SBB-027), acciones del hub y carga de banderas de UI por perfil/estado. Realiza ABB: APP-ABB-002."/>

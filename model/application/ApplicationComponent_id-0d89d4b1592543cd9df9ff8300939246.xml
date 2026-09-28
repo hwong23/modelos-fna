@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-ABB-007: Trazabilidad y Logs"
+    id="id-0d89d4b1592543cd9df9ff8300939246"
+    documentation="Logical Application Component (ABB) - Componente logico que registra de forma desacoplada (Platform Events APP-SBB-046 y APP-SBB-047) cada interaccion con servicios externos y conserva el historico de logs y transacciones. Documentado en V5, V6 y V7."/>

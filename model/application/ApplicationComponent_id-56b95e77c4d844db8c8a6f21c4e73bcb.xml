@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-039: FCC_UT_ReglasPreCallout + CMDT FCC_UT_ReglaPreCallout__mdt"
+    id="id-56b95e77c4d844db8c8a6f21c4e73bcb"
+    documentation="Physical Application Component (Clase Apex) (SBB) - Motor de 16 reglas de calidad de dato pre-callout dirigido por metadata FCC_UT_ReglaPreCallout__mdt (DAT-SBB-030) (14 AVISA, 1 BLOQUEA, 1 OFF), invocado por FCC_UT_CobisCaller (APP-SBB-038): auditan de forma informativa antes de enviar al core (COBIS, APP-SBB-056). Realiza ABB: APP-ABB-006."/>

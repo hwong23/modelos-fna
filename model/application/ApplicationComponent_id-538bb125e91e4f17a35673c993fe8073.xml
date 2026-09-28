@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-002: OmniStudio (Standard Runtime)"
+    id="id-538bb125e91e4f17a35673c993fe8073"
+    documentation="Physical Application Component (Plataforma OmniStudio) (SBB) - Suite declarativa de Salesforce (antes Vlocity) donde viven OmniScripts, FlexCards, Integration Procedures y Data Mappers. En org: 78 OmniProcess activos (10 OmniScripts, 68 Integration Procedures), 5 FlexCards activas, 167 Data Mappers (APP-SBB-033). Realiza ABB: APP-ABB-001 a APP-ABB-006."/>

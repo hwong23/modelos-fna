@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-ABB-009: Servicios Core Externos (via ESB)"
+    id="id-7c1f9bfee344466aaee582376b1b8895"
+    documentation="Logical Application Component (ABB) - Componente logico que agrupa los sistemas de backend de FNA con los que Salesforce se comunica a traves del ESB (APP-SBB-055): COBIS (core bancario, APP-SBB-056), VIGIA (listas, APP-SBB-057), OLIMPIA (biometria/Confronta, APP-SBB-058) y otros (ADMINFO, WorkManager, facturacion, legalizadora, reporteria; APP-SBB-059)."/>

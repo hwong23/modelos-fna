@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-019: FN1_HistoricoEstadosOportunidad__c"
+    id="id-3cfd712bc2cf4b3e8f8ccbb61ffb943d"
+    documentation="Physical Data Component (SBB) - Historico de cambios de etapa de la oportunidad (Opportunity, DAT-SBB-007 / DAT-SBB-008 / DAT-SBB-009; estado inicial, estado final y fecha); lo registra el flujo FCC_UT_OppHistoricoEstados (APP-SBB-052) despues de guardar."/>

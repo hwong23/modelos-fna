@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-014: FlexCards de estado de cuenta (FCC_UT_EstadoCuentaAVC, FCC_UT_EstadoCuentaCesantias, FCC_UT_EstadoCuentaCredito, FCC_UT_MovimientosAVC)"
+    id="id-522f4028e70841b48985afdfda4827f3"
+    documentation="Physical Application Component (FlexCard) (SBB) - Fila agregada de 4 FlexCards de estado de cuenta y movimientos por producto (Asset, DAT-SBB-012). EstadoCuentaCesantias muestra el Asset ya almacenado en Salesforce (lectura directa, sin llamar a COBIS APP-SBB-056). EstadoCuentaAVC, MovimientosAVC y EstadoCuentaCredito consultan en vivo a COBIS a traves de APP-SBB-032. Realiza ABB: APP-ABB-008."/>

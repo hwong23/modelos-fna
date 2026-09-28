@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-040 realiza APP-ABB-003"
+    id="id-e0f8a17e48d9485187cf019200851fbb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9ffd0fb193304785976d96fb8bce5fd9.xml#id-9ffd0fb193304785976d96fb8bce5fd9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-63f121b11a084ea0b4f17d843ad0e48f.xml#id-63f121b11a084ea0b4f17d843ad0e48f"/>
+</archimate:RealizationRelationship>

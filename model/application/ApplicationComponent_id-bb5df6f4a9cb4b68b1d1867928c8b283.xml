@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-035: FCCUTDRLUpsertOpportunity / FCCUTDR01SaveOpportunityCesantias / FCCUTDR01SaveOpportunityCreditoHipotecario (Load)"
+    id="id-bb5df6f4a9cb4b68b1d1867928c8b283"
+    documentation="Physical Application Component (Data Mapper) (SBB) - Persisten la oportunidad por tipo (AVC DAT-SBB-007, Cesantias DAT-SBB-008, Credito Hipotecario DAT-SBB-009); los invoca FCC_UT_IP_SaveOppN2 (APP-SBB-026). Realiza ABB: APP-ABB-004."/>

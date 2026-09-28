@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-001: Salesforce Financial Services Cloud (Industries) - FNAProdNew"
+    id="id-11c4c7b67a084c9a86b3a8c101c632da"
+    documentation="Physical Application Component (Plataforma SaaS) (SBB) - Nuevo ambiente productivo FNA (FSC), Enterprise Edition, instancia USA748, construido por reingenieria integral de FNAProdLegacy (APP-SBB-060) y en operacion tras la migracion de datos con MuleSoft (APP-SBB-061) concluida el 23 de agosto de 2026. Plataforma fisica que aloja todos los componentes del catalogo (Person Accounts DAT-SBB-001, Leads DAT-SBB-005, Oportunidades DAT-SBB-007 a DAT-SBB-009, Assets DAT-SBB-012). Realiza ABB: APP-ABB-001 a APP-ABB-008."/>
