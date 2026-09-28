@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="Datos y Aplicaciones"
     id="id-18c57a3f6bd4458bb5e8639889c2575a"
     documentation="127 elementos del modelo (46 DAT y 81 APP) organizados por capas y tipos de bloques (ABB, SBB) y Servicios (SVC).&#xA;">
   <children
