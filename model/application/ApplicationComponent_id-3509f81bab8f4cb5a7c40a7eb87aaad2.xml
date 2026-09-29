@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-030: FCC_UT_IP_EmpresaRelacionadaCount (AVC/FCCUTEmpresaRelacionadaCount)"
-    id="id-3509f81bab8f4cb5a7c40a7eb87aaad2"
-    documentation="Physical Application Component (Integration Procedure) (SBB) - Cuenta y resuelve las empresas relacionadas del afiliado (FN1_EmpresaRelacionada__c, DAT-SBB-004) para la oportunidad. Realiza ABB: APP-ABB-005, APP-ABB-004."/>

@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SVC-011: Registro de trazabilidad de integraciones"
-    id="id-f0596cbb081d4aef9919bb6e6491b2ad"
-    documentation="Information System Service (ABB) - Servicio interno que materializa cada evento de integracion (FCC_UT_LogWsEvent__e APP-SBB-046 / DAT-SBB-017, FCC_UT_VigiaEvent__e APP-SBB-047 / DAT-SBB-018) en FN1_LogWs__c (APP-SBB-048 / DAT-SBB-016) consultable por traza. Expuesto por: APP-SBB-046, APP-SBB-047, APP-SBB-048."/>

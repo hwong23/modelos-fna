@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-ABB-005: Empresa Relacionada / Persona Juridica"
-    id="id-1297862953024f2ca7503c33c7d966b0"
-    documentation="Logical Application Component (ABB) - Componente logico que gestiona empresas (cuentas juridicas, DAT-SBB-003), su creacion en COBIS (APP-SBB-056), la validacion de empresa y la relacion afiliado-empresa (DAT-SBB-004) usada por las oportunidades. Documentado en V5 y V2."/>

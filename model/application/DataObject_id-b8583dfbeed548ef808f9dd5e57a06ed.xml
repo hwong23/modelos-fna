@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-SBB-002: FN1_Ubicacion__c (Ubicaciones)"
-    id="id-b8583dfbeed548ef808f9dd5e57a06ed"
-    documentation="Physical Data Component (SBB) - Direcciones y telefonos del afiliado relacionados a su cuenta (Account, DAT-SBB-001; FN1_CuentaUbicaciones__c); se sincronizan con COBIS (APP-SBB-056) por el identificador externo de la ubicacion (FN1_IdExterno__c)."/>

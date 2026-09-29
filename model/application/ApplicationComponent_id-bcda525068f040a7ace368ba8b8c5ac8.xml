@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-037: FCCUTDRExtAssetCuentaAVC (Extract) / FCCUTDRLEnriquecerAssetAVC (Load)"
-    id="id-bcda525068f040a7ace368ba8b8c5ac8"
-    documentation="Physical Application Component (Data Mapper) (SBB) - Leen y enriquecen el Asset de cuenta AVC (DAT-SBB-012) con datos devueltos por COBIS (APP-SBB-056). Realiza ABB: APP-ABB-008."/>

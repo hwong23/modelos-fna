@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-ABB-003: Actualizacion de Cliente"
-    id="id-63f121b11a084ea0b4f17d843ad0e48f"
-    documentation="Logical Application Component (ABB) - Componente logico que actualiza los datos del afiliado en Salesforce y en el core (COBIS, APP-SBB-056), con validacion de identidad por biometria o Confronta y carta de actualizacion de datos. Documentado en V4."/>

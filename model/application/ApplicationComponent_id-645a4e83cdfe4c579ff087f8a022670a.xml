@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-ABB-006: Integracion y Transporte"
-    id="id-645a4e83cdfe4c579ff087f8a022670a"
-    documentation="Logical Application Component (ABB) - Componente logico de intermediacion hacia el bus (ESB, APP-SBB-055): orquestacion de llamadas externas, punto de salida unico de referencia (FCC_UT_CobisCaller (APP-SBB-038), usado por 27 clases de integracion; 2 excepciones conocidas que envian por su cuenta (APP-SBB-041)), 16 reglas pre-callout de calidad de dato (APP-SBB-039) (14 de aviso, 1 de bloqueo y 1 desactivada por configuracion) y normalizacion de respuestas. Documentado en V5."/>

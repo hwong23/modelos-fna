@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-058: OLIMPIA (Biometria y Confronta)"
-    id="id-8905835d10a14b3797a7bb8c1da0b321"
-    documentation="Physical Application Component (Sistema externo) (SBB) - Proveedor de validacion de identidad, consumido por el ESB (APP-SBB-055) desde APP-SBB-025: biometria (SolicitudBiometria, ConsultaBiometria) y cuestionario Confronta (TraePreguntasConfronta, EnviarRespuestasConfronta). Realiza ABB: APP-ABB-009."/>

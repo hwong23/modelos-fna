@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SVC-010: Recepcion de productos desde COBIS (REST inbound)"
-    id="id-a15c9acff297409aa3ff097bf372cb2c"
-    documentation="Information System Service (ABB) - Servicios REST /services/apexrest/AVC/, /services/apexrest/AVCTransaccionesService/ y /services/apexrest/Cesantias/ por los que COBIS (APP-SBB-056) crea o actualiza Assets (DAT-SBB-012) de AVC y Cesantias y registra las transacciones AVC (FN1_Transacciones__c, DAT-SBB-013) en Salesforce. Expuesto por: APP-SBB-044."/>

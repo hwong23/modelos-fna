@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-ABB-004: Solicitud/Tramite Comercial (Oportunidad)"
-    id="id-d77cbec1a53b4cf6a70c192f93616981"
-    documentation="Logical Data Component (ABB) - Entidad logica de la solicitud o tramite comercial del afiliado por producto (AVC, Cesantias, Credito Hipotecario), con etapas, montos, empresa relacionada, relacionados y productos no conformes."/>

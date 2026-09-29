@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-055: Bus de Servicios Empresarial (ESB) FNA"
-    id="id-97bc6162c42947c49b2dc305fa01c8da"
-    documentation="Physical Application Component (Middleware externo) (SBB) - Middleware de FNA que recibe todas las llamadas SOAP de Salesforce (APP-SBB-001, via FCC_UT_CobisCaller APP-SBB-038) y las enruta al backend (APP-SBB-056 a APP-SBB-059) por systemId. Endpoint Prod https://crm.fna.gov.co:8452/esb/services/soap (Cert: intc.fna.gov.co:8454). Realiza ABB: APP-ABB-006, APP-ABB-009."/>

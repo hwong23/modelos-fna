@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-ABB-002: Gestion de Clientes / Hub de Cuenta"
-    id="id-dd7441c6d5f94c1dab2f06bbf345ae1b"
-    documentation="Logical Application Component (ABB) - Componente logico que presenta la vista 360 del afiliado (Person Account, DAT-SBB-001) con sus oportunidades, productos y acciones (envio de oportunidades, documentos, retenciones/traslados). Documentado en V3."/>

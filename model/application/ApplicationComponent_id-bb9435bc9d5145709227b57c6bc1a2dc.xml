@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-009: FCC_UT_Crear/Editar Credito Hipotecario (OSOportunidad/CreditoHipotecario)"
-    id="id-bb9435bc9d5145709227b57c6bc1a2dc"
-    documentation="Physical Application Component (OmniScript) (SBB) - Front de creacion/edicion de oportunidad de Credito Hipotecario (Opportunity DAT-SBB-009), guardada con FCC_UT_IP_SaveOppN2 (APP-SBB-026). Realiza ABB: APP-ABB-004."/>

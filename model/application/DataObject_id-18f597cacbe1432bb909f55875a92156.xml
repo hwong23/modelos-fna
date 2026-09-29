@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-ENT-001: Afiliado_Identificacion"
-    id="id-18f597cacbe1432bb909f55875a92156"
-    documentation="Data Entity (ABB) - Identificacion legal del afiliado: tipo y numero de documento, fecha, ciudad, departamento y pais de expedicion, codigo de cliente COBIS (APP-SBB-056)."/>

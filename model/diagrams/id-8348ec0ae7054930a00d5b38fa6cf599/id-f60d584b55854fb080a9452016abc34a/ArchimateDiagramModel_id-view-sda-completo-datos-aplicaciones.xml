@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista 1: Modelo Relacional Completo de Datos y Aplicaciones (SDA)"
+    name="Modelo Relacional Completo de Datos y Aplicaciones (SDA)"
     id="id-view-sda-completo-datos-aplicaciones"
     documentation="Vista 1 del SDA: Diagrama relacional de elementos logicos y fisicos de Datos (DAT-xxx) y Aplicaciones (APP-xxx) con sus relaciones de acceso, realizacion y servicios.">
   <children

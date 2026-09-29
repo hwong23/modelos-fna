@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-022: FCC_UT_IP-06_GuardarProspectoPJ (Lead/SavePJ)"
-    id="id-2da74199741240b4900c71623798fa8f"
-    documentation="Physical Application Component (Integration Procedure) (SBB) - Guardado de prospecto Persona Juridica invocado por el OmniScript PJ (APP-SBB-004), con consulta de listas inhibitorias (IP-04, APP-SBB-020). Realiza ABB: APP-ABB-001, APP-ABB-005."/>

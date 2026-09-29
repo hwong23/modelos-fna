@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista 2: Modelo de Transicion e Implementacion de Arquitectura (Plateaus, Gaps y Work Packages)"
+    name="Modelo de Transicion e Implementacion de Arquitectura (Plateaus, Gaps y Work Packages)"
     id="id-view-sda-transicion-completo"
     documentation="Vista 2 del SDA: Diagrama de transiciones por fases/Plateaus (Baseline As-Is, Certificacion/Piloto, Target To-Be), Gaps, Paquetes de Trabajo (WPs) y Entregables.">
   <children

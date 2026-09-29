@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-056: COBIS (core bancario)"
-    id="id-04f47ad3992e4cdf8d1f6ff1442e9dc4"
-    documentation="Physical Application Component (Sistema externo) (SBB) - Core bancario de FNA: clientes, empresas, productos AVC/Cesantias/Credito y tramites. 25 de los 47 servicios salientes de CallOutSettings__c (APP-SBB-051); recibido por el ESB (APP-SBB-055). Realiza ABB: APP-ABB-009."/>

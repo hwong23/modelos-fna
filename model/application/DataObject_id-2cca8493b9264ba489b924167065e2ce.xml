@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-SBB-007: Opportunity (RT FN1_AfiliacionAVC)"
-    id="id-2cca8493b9264ba489b924167065e2ce"
-    documentation="Physical Data Component (SBB) - Oportunidad con tipo de registro (RT) FN1_AfiliacionAVC: solicitud de afiliacion AVC (Ahorro Voluntario Contractual) con su valor del contrato (FN1_ValorContrato__c)."/>

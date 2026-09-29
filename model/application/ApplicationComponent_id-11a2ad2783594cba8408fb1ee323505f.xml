@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-010: FCC_UT_OS_OPP_Formulario (OSOPP/Formulario)"
-    id="id-11a2ad2783594cba8408fb1ee323505f"
-    documentation="Physical Application Component (OmniScript) (SBB) - Formulario de entrada de oportunidad que enruta al OmniScript del tipo correspondiente (APP-SBB-007, APP-SBB-008, APP-SBB-009). Realiza ABB: APP-ABB-004."/>

@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-SBB-028: FN1_Conf_Actualizacion_Cliente__c"
-    id="id-de4b25fbcf20456fac6c5e8e18447db7"
-    documentation="Physical Data Component (SBB) - Configuracion por perfil y seccion de los campos del formulario dinamico de Actualizacion de Cliente (APP-ABB-003) (Data Mapper FCCUTDRXACCFieldConfig, APP-SBB-033)."/>

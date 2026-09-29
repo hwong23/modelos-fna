@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-003: FCC_UT_Crear/Editar PN (OSProspecto/PersonaNatural)"
-    id="id-75eb8e4921534290af356e1a204cfedf"
-    documentation="Physical Application Component (OmniScript) (SBB) - Front del asesor para crear/editar prospecto Persona Natural; guarda en Lead (DAT-SBB-005) con IP-06 GuardarProspecto (APP-SBB-019) y califica con el orquestador IP07 (APP-SBB-019). Realiza ABB: APP-ABB-001."/>

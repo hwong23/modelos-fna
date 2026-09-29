@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-020: FCC_UT_IP-04_ValidarListasInhibitorias (Lead/ValidateListas) / FCC_UT_IP-04b_ValidarListasRestrictivas_Bizagi (Lead/ValidateBizagi) / FCC_UT_IP_Vigia_ValidateLists (Opportunity/ValidateLists)"
-    id="id-d4ab9af6a725487ea03f1830415a035f"
-    documentation="Physical Application Component (Integration Procedure) (SBB) - Consultan listas VIGIA (APP-SBB-057) via ESB (APP-SBB-055) por IP04Gateway y FCC_UT_BizagiRestrictivasGateway (APP-SBB-042): IP-04 para el prospecto (listas inhibitorias y restrictivas), que a su vez llama a IP-04b (listas restrictivas y estado de bloqueo, ruta Bizagi); Vigia_ValidateLists para el afiliado dentro del flujo de oportunidad. Realiza ABB: APP-ABB-001, APP-ABB-004, APP-ABB-006."/>

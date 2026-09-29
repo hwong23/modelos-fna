@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-036: FCCUTDRXAccountSummaryOPPHub (Extract)"
-    id="id-40b50ee9e7c6435b944cf2867b097cbd"
-    documentation="Physical Application Component (Data Mapper) (SBB) - Extrae el resumen del afiliado y sus oportunidades para el hub de cuenta (APP-SBB-011). Realiza ABB: APP-ABB-002."/>

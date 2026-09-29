@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-SBB-025: FN1_Georeferenciacion__c (Georeferenciacion)"
-    id="id-699ab7d16deb420aabb7b8a9bb90fb17"
-    documentation="Physical Data Component (SBB) - Catalogo jerarquico pais-departamento-ciudad (relacion padre FN1_Padre__c) usado por las busquedas geograficas con autocompletado (Data Mappers Type Ahead, APP-SBB-033)."/>

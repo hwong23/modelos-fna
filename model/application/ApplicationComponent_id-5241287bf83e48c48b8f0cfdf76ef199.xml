@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-041: Clases PN que envian por su cuenta (FCC_UT_ACCModificacionPNCobisGateway, FCC_UT_ConsultaPNCobisGateway)"
-    id="id-5241287bf83e48c48b8f0cfdf76ef199"
-    documentation="Physical Application Component (Clase Apex) (SBB) - Excepciones conocidas al punto de salida unico: envian la llamada por su cuenta, sin pasar por FCC_UT_CobisCaller (APP-SBB-038) ni por las reglas pre-callout (APP-SBB-039); su traza se publica igualmente en FCC_UT_LogWsEvent__e (APP-SBB-046). FCC_UT_ACCModificacionPNCobisGateway envia a COBIS (APP-SBB-056) la modificacion de la persona natural; FCC_UT_ConsultaPNCobisGateway consulta la persona natural en COBIS y actualiza sus direcciones. Realiza ABB: APP-ABB-003, APP-ABB-001, APP-ABB-006."/>

@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-SBB-011: FNAE_ProductoNoConforme__c (Producto no conforme)"
-    id="id-49cf30dca4e24949a080615f2ecc8a0e"
-    documentation="Physical Data Component (SBB) - Registros de producto no conforme (PNC) asociados a oportunidades AVC (DAT-SBB-007) y Cesantias (DAT-SBB-008). Al crearse un PNC, el flow FCC_UT_ProductoNoConforme_AfterCreate (APP-SBB-052) ubica la oportunidad por cuenta producto y la actualiza (reemplaza el trigger legacy FNAE_ProductoNoConforme_tgr)."/>

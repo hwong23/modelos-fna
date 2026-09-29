@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-SBB-008: Opportunity (RT FN1_AfiliacionCesantias / FN2_TrasladoCesantias)"
-    id="id-a06900c516bb42b192a530a2571d0942"
-    documentation="Physical Data Component (SBB) - Oportunidades con tipo de registro (RT) de afiliacion de Cesantias (FN1_AfiliacionCesantias, 1.618.276) y de traslado (FN2_TrasladoCesantias, 5.899). El traslado se distingue por el tipo de tramite (FN1_TipoTramite__c)."/>

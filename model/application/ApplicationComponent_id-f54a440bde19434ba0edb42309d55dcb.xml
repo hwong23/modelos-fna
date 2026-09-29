@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-005: FCC_UT_OS_ActualizarCuenta (Account/ActualizarCuenta)"
-    id="id-f54a440bde19434ba0edb42309d55dcb"
-    documentation="Physical Application Component (OmniScript) (SBB) - Front de actualizacion de datos del afiliado (datos basicos, direcciones, contacto) con envio a COBIS (APP-SBB-056) mediante FCC_UT_IP-ActualizarCuentaGuardar (APP-SBB-024). Realiza ABB: APP-ABB-003."/>

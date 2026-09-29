@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-ENT-003: Afiliado_Datos_Laborales_Empresa"
-    id="id-d8f570b10085448f9e7f06c642a34c7f"
-    documentation="Data Entity (ABB) - Vinculo laboral del afiliado con su empresa empleadora (empresa relacionada DAT-SBB-004: empresa, pais y poblado donde labora) y tipo de vinculacion reflejado en la oportunidad (DAT-ABB-004)."/>

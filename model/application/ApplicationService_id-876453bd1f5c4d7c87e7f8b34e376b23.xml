@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SVC-006: Creacion de relacion cliente y radicacion de tramite hipotecario"
-    id="id-876453bd1f5c4d7c87e7f8b34e376b23"
-    documentation="Information System Service (ABB) - CrearTramiteCredito radica el tramite de credito hipotecario desde la accion de radicacion del hub de cuenta (APP-SBB-011, APP-SBB-028) sobre la oportunidad de credito hipotecario (DAT-SBB-009); CreacionRelacionCliente registra en COBIS (APP-SBB-056) la relacion entre el afiliado y una persona relacionada al tramite (conyuge, beneficiario; FN1_Relacionado__c, DAT-SBB-010) y su IP FCC_UT_IP_RelacionClienteCrearBackend (clase FCC_UT_CreacionRelacionClienteGateway, APP-SBB-040) esta activo como servicio reutilizable para consumo por demanda. Expuesto por: APP-SBB-028, APP-SBB-043, APP-SBB-040 a traves del ESB (APP-SBB-055)."/>

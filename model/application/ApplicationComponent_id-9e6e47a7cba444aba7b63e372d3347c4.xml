@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-032: IP de estado de cuenta por producto (FCC_UT_IP_CuentaPorAsset, FCC_UT_IP_MovimientosPorAsset, FCC_UT_IP_EstadoCuentaPorAsset)"
-    id="id-9e6e47a7cba444aba7b63e372d3347c4"
-    documentation="Physical Application Component (Integration Procedure) (SBB) - Fila agregada de 3 IP que consultan en vivo a COBIS (APP-SBB-056), a partir del producto (Asset, DAT-SBB-012), el saldo y los movimientos de la cuenta AVC y el estado de cuenta del credito; los usan las FlexCards de estado de cuenta (APP-SBB-014). Realiza ABB: APP-ABB-008, APP-ABB-006."/>

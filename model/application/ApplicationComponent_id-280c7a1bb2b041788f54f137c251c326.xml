@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-042: Clases de listas y PJ (IP04Gateway, FCC_UT_BizagiRestrictivasGateway, FCC_UT_PJCobisGateway)"
-    id="id-280c7a1bb2b041788f54f137c251c326"
-    documentation="Physical Application Component (Clase Apex) (SBB) - IP04Gateway consulta listas inhibitorias y restrictivas en VIGIA (APP-SBB-057) (lo usan IP-04 y Vigia_ValidateLists APP-SBB-020, OppHub_Send APP-SBB-027 y PJEnviarCobis APP-SBB-023) y deja la escritura diferida por FCC_UT_VigiaEvent__e (APP-SBB-047 / DAT-SBB-018); FCC_UT_BizagiRestrictivasGateway consulta listas restrictivas y estado de bloqueo para IP-04b (APP-SBB-020); FCC_UT_PJCobisGateway consulta y crea empresas en COBIS (APP-SBB-056) (PJEnviarCobis, APP-SBB-023); ademas valida el permiso de validacion de empresa (PJ_VerificarPermiso, sin llamada externa). Las tres envian por FCC_UT_CobisCaller (APP-SBB-038). Realiza ABB: APP-ABB-001, APP-ABB-005, APP-ABB-006."/>

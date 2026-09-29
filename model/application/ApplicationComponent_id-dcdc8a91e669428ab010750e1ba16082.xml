@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-ABB-008: Activos / Productos del Cliente"
-    id="id-dcdc8a91e669428ab010750e1ba16082"
-    documentation="Logical Application Component (ABB) - Componente logico que materializa y consulta los productos del afiliado (Asset DAT-SBB-012: AVC, Cesantias, Credito), su estado de cuenta y movimientos. Documentado en V2, V4 y V6."/>

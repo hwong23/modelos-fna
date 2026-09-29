@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SVC-008: Consulta de productos y estado de cuenta"
-    id="id-66d4810b39cd44ac8dbadb2385ea44c4"
-    documentation="Information System Service (ABB) - Servicios consultaCuentaProductoAVC, ConsultaMovimientosAVC y recuperarCreditoEstadoCuenta que devuelven en vivo desde COBIS (APP-SBB-056) a las FlexCards de estado de cuenta (APP-SBB-014) el estado de cuenta y los movimientos del producto (Asset, DAT-SBB-012). ConsultaProductos queda disponible como servicio reutilizable para consumo por demanda (APP-SBB-031). Expuesto por: APP-SBB-032 hacia APP-SBB-056."/>

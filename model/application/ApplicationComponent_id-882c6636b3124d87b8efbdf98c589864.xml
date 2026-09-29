@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-049: Data Cloud - Data Streams ignore_FN1_LogWs_History_63C13026 e ignore_FN1_Transacciones_bk_Raw_6BC56836"
-    id="id-882c6636b3124d87b8efbdf98c589864"
-    documentation="Physical Application Component (Data Cloud) (SBB) - Data Streams de Data Cloud en FNAProdNew (APP-SBB-001) para consulta de historico, con ingesta por Ingest API: (1) ignore_FN1_LogWs_History_63C13026, conector Ingest API, historico del log de integraciones FN1_LogWs__c (APP-SBB-048 / DAT-SBB-016), DLO ignore_FN1_LogWs_History_63C13026 (Data Cloud) (DAT-SBB-023); (2) ignore_FN1_Transacciones_bk_Raw_6BC56836, conector Ingest API, transacciones historicas asociadas al Big Object FN1_Transacciones_bk__b (APP-SBB-050 / DAT-SBB-014), DLO ignore_FN1_Transacciones_bk_Raw_6BC56836 (Data Cloud) (DAT-SBB-015). Realiza ABB: APP-ABB-007."/>

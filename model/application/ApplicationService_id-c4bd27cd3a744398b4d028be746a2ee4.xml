@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SVC-009: Transporte con reglas pre-callout y traza (FCC_UT_CobisCaller.send)"
-    id="id-c4bd27cd3a744398b4d028be746a2ee4"
-    documentation="Information System Service (ABB) - Servicio interno de transporte usado por 27 clases de integracion (no por las 2 de APP-SBB-041, que envian por su cuenta): recibe la solicitud, evalua las 16 reglas pre-callout (DAT-SBB-030), envia al ESB y publica la traza (FCC_UT_LogWsEvent__e, APP-SBB-046). Expuesto por: APP-SBB-038, APP-SBB-039 hacia APP-SBB-055."/>

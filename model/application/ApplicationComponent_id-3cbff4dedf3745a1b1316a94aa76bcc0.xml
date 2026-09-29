@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-006: FCC_UT_OS_ActualizarCuentaPorBiometria (Account/Biometrics)"
-    id="id-3cbff4dedf3745a1b1316a94aa76bcc0"
-    documentation="Physical Application Component (OmniScript) (SBB) - Front de actualizacion de cuenta con validacion biometrica o Confronta previa (APP-SBB-025, OLIMPIA APP-SBB-058). Realiza ABB: APP-ABB-003."/>

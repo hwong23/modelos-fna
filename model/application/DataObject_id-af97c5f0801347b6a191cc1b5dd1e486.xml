@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT-SBB-016: FN1_LogWs__c (Log de web services)"
-    id="id-af97c5f0801347b6a191cc1b5dd1e486"
-    documentation="Physical Data Component (SBB) - Traza central de integracion: servicio invocado (FNAE_NombreServicioWeb__c), mensaje enviado, respuesta y resultado; protegido contra modificacion por el trigger FCC_UT_LogWsGuardTrigger (APP-SBB-048)."/>

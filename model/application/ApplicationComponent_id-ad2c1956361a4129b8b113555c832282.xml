@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-046: FCC_UT_LogWsEvent__e + FCC_UT_LogWsEventTrigger"
-    id="id-ad2c1956361a4129b8b113555c832282"
-    documentation="Physical Application Component (Platform Event + Trigger) (SBB) - Evento de plataforma de traza de integraciones, publicado por FCC_UT_CobisCaller (APP-SBB-038), las reglas pre-callout (APP-SBB-039) y las clases de envio propio (p. ej. FCC_UT_ACCModificacionPNCobisGateway, APP-SBB-041) mediante FCC_UT_LogPublisher; queda registrado aunque la operacion principal falle. El trigger lo guarda en FN1_LogWs__c (APP-SBB-048 / DAT-SBB-016). Estructura de datos del evento: DAT-SBB-017. Realiza ABB: APP-ABB-007."/>

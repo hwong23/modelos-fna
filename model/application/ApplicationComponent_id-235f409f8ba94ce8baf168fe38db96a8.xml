@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-053: FlexiPages de los procesos FNA"
-    id="id-235f409f8ba94ce8baf168fe38db96a8"
-    documentation="Physical Application Component (FlexiPage - agregado) (SBB) - Fila agregada: 18 paginas Lightning (FlexiPages) sobre los objetos y procesos en alcance (Prospecto DAT-SBB-005, Cuenta DAT-SBB-001 / DAT-SBB-003, Oportunidad DAT-SBB-007 a DAT-SBB-009, Activo DAT-SBB-012, log historico y validacion de empresa) que renderizan OmniScripts (APP-SBB-003 a APP-SBB-012) y registros, p. ej. las paginas de registro de Oportunidad AVC, Cesantias y Credito Hipotecario, la pagina de registro de Cuenta FCC, las paginas de Prospecto PN y PJ y la Pagina de registro de Activo. Org: 47 FlexiPages sin namespace (51 total). Realiza ABB: APP-ABB-001 a APP-ABB-005, APP-ABB-007, APP-ABB-008."/>

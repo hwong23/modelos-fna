@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP-SBB-027: FCC_UT_IP-OppHub_Send (Opportunity/OppHubSend)"
-    id="id-70de0ffc93224f97940feca7c0e7c0a7"
-    documentation="Physical Application Component (Integration Procedure) (SBB) - Envio de la oportunidad desde el hub de cuenta hacia el core (COBIS, APP-SBB-056), con validaciones de envio y registro diferido de la consulta VIGIA (APP-SBB-057) mediante FCC_UT_VigiaEvent__e (APP-SBB-047). Realiza ABB: APP-ABB-002, APP-ABB-006."/>
