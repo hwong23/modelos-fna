@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plateau: Transicion 1 (Certificacion, Reingenieria y Piloto / FNACertNew)"
     id="id-PLT-002"
-    documentation="Estado intermedio de reingenieria, validacion UAT con usuarios finales, integracion MuleSoft y convivencia con servicios core."/>
+    documentation="Estado intermedio de reingenieria, validacion UAT con usuarios finales, integracion MuleSoft y convivencia con servicios core.&#xA;&#xA;**PLT-002** **(Transición 1)**: Componentes temporales de migración como **MuleSoft (** **APP-SBB-061** **)**, las 5 páginas Visualforce conservadas como overrides de protección (`TRN-008`), y las versiones previas/borradores de los OmniScripts e Integration Procedures probados en `FNACertNew`."/>

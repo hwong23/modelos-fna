@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plateau: Baseline (As-Is / FNAProdLegacy)"
     id="id-PLT-001"
-    documentation="Estado inicial de la arquitectura con la org legacy Enterprise Edition USA314, 64 paginas Visualforce y codigo Apex v29-44."/>
+    documentation="Estado inicial de la arquitectura con la org legacy Enterprise Edition USA314, 64 paginas Visualforce y codigo Apex v29-44.&#xA;&#xA;**PLT-001** **(Baseline)**: Se agrupan los componentes legados descontinuados, como la org `FNAProdLegacy` (`APP-SBB-060`), las 64 páginas Visualforce (`TRN-001` a `TRN-007`), los 457 controladores Apex legacy (`TRN-009`), los 29 triggers legacy (`TRN-010`), los Process Builder y Workflows (`TRN-011`) y los 4 Apex Jobs programados (`TRN-012`)."/>

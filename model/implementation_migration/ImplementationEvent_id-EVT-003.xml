@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hito: Finalizacion Carga Masiva MuleSoft y Cierre de Legacy (2026-08-23)"
     id="id-EVT-003"
-    documentation="Cierre de la migración masiva de 16M+ registros y transicion de FNAProdLegacy a solo lectura."/>
+    documentation="EVT-003. Cierre de la migración masiva de 16M+ registros y transicion de FNAProdLegacy a solo lectura."/>
