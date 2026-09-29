@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ABB-008: Parametrizacion/Homologacion"
+    id="id-DAT-ABB-008"
+    documentation="Logical Data Component (ABB) - Entidad logica de catalogos de referencia y configuracion: tablas generales, geografia, paises, profesiones, actividades economicas, homologaciones COBIS (APP-SBB-056), endpoints salientes (CallOutSettings__c, DAT-SBB-029) y reglas pre-callout (DAT-SBB-030)."/>

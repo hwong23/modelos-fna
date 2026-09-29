@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OmniScript Credito crea Opportunity Credito"
+    id="id-rel-trn-0381">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-009.xml#id-APP-SBB-009"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-DAT-SBB-009.xml#id-DAT-SBB-009"/>
+</archimate:AccessRelationship>

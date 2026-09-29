@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-030: FCC_UT_ReglaPreCallout__mdt (Custom Metadata)"
+    id="id-DAT-SBB-030"
+    documentation="Physical Data Component (SBB) - Reglas de calidad de dato evaluadas antes de cada callout (1 BLOQUEA, 14 AVISA, 1 OFF) por FCC_UT_ReglasPreCallout (APP-SBB-039)."/>

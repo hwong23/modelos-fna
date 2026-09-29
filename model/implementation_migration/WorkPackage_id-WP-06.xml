@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-06: Integracion y Transporte (CobisCaller, Reglas Pre-callout, IPs, DMs)"
+    id="id-WP-06"
+    documentation="Paquete de arquitectura de transporte unico, motor de 16 reglas CMDT pre-callout y 68 Integration Procedures."/>

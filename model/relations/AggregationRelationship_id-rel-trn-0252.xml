@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plateau Target incluye capacidad logica APP-SVC-001"
+    id="id-rel-trn-0252">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-PLT-003.xml#id-PLT-003"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-APP-SVC-001.xml#id-APP-SVC-001"/>
+</archimate:AggregationRelationship>

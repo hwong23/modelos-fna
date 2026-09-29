@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-07: Trazabilidad, Logs y Data Cloud (Platform Events, LogWs, Data Streams)"
+    id="id-WP-07"
+    documentation="Paquete de trazabilidad asincrona desacoplada por Platform Events y consulta historica en Data Cloud."/>

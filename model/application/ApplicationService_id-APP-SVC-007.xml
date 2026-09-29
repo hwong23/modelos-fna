@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SVC-007: Originacion de cuenta AVC en el core"
+    id="id-APP-SVC-007"
+    documentation="Information System Service (ABB) - Servicio CuentaAVC (CallOutSettings__c, APP-SBB-051) enviado por la clase FCC_UT_CuentaAVCGateway por FCC_UT_CobisCaller (APP-SBB-038) desde el IP OriginarCuentaAVC (APP-SBB-029), encadenado al envio de la oportunidad AVC (DAT-SBB-007) desde el hub (APP-SBB-027); materializa el Asset AVC (DAT-SBB-012). Expuesto por: APP-SBB-029 hacia APP-SBB-056."/>

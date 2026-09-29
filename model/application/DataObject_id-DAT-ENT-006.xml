@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ENT-006: Oportunidad_Tipologia_Cesantias"
+    id="id-DAT-ENT-006"
+    documentation="Data Entity (ABB) - Tipologia de tramite Cesantias: afiliacion y traslado (FN1_TipoTramite__c; DAT-SBB-008)."/>

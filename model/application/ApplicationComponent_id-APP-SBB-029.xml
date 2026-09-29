@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-029: FCC_UT_IP-OppHub_OriginarCuentaAVC (Opportunity/OriginarCuentaAVC)"
+    id="id-APP-SBB-029"
+    documentation="Physical Application Component (Integration Procedure) (SBB) - Origina la cuenta AVC en COBIS (APP-SBB-056) a partir de la oportunidad (DAT-SBB-007) y materializa el Asset (DAT-SBB-012). Realiza ABB: APP-ABB-004, APP-ABB-008."/>

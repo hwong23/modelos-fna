@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SVC-003: Consulta de cliente en COBIS"
+    id="id-APP-SVC-003"
+    documentation="Information System Service (ABB) - Servicios ConsultaPersonaNaturalProspecto (IP02Gateway, APP-SBB-040) y ConsultaPJrapida (FCC_UT_PJCobisGateway, APP-SBB-042), por FCC_UT_CobisCaller (APP-SBB-038), y ConsultaPNrapida (FCC_UT_ConsultaPNCobisGateway, APP-SBB-041, envia por su cuenta), para verificar existencia y datos del cliente en el core. Expuesto por: APP-SBB-040, APP-SBB-041, APP-SBB-042 hacia APP-SBB-056."/>

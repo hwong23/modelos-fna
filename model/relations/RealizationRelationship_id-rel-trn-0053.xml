@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-08 entrega FlexCards y Servicios REST Inbound"
+    id="id-rel-trn-0053">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-WP-08.xml#id-WP-08"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_id-DEL-004.xml#id-DEL-004"/>
+</archimate:RealizationRelationship>

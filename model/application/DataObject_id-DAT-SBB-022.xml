@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-022: FN1_Descripcion_Causal__c"
+    id="id-DAT-SBB-022"
+    documentation="Physical Data Component (SBB) - Causales devueltas por la validacion de identidad Confronta (OLIMPIA, APP-SBB-058; persistCausal)."/>

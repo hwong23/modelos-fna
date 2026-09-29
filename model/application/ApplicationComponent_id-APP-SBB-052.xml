@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-052: Flows FCC_UT (fila agregada)"
+    id="id-APP-SBB-052"
+    documentation="Physical Application Component (Flow) (SBB) - Fila agregada: 13 flows FCC_UT activos. Automatizan el historico de estados (FN1_HistoricoEstadosOportunidad__c, DAT-SBB-019) y el monto de la oportunidad (DAT-SBB-007 a DAT-SBB-009), las reglas y la aprobacion por listas del prospecto (DAT-SBB-005), la empresa relacionada (FN1_EmpresaRelacionada__c, DAT-SBB-004) y su sincronizacion con COBIS (APP-SBB-056), y la validacion de empresas PJ (DAT-SBB-003). Realiza ABB: APP-ABB-001 a APP-ABB-005."/>

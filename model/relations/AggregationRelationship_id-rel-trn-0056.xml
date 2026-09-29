@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plateau Baseline contiene APP-SBB-060"
+    id="id-rel-trn-0056">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-PLT-001.xml#id-PLT-001"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-060.xml#id-APP-SBB-060"/>
+</archimate:AggregationRelationship>

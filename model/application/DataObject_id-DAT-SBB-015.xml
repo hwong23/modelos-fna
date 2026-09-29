@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-015: DLO ignore_FN1_Transacciones_bk_Raw_6BC56836 (Data Cloud)"
+    id="id-DAT-SBB-015"
+    documentation="Physical Data Component (SBB) - Data Lake Object de Data Cloud (DLO ignore_FN1_Transacciones_bk_Raw_6BC56836, APP-SBB-049) alimentado por el Data Stream del mismo nombre con conector Ingest API; complementa el respaldo historico de transacciones (DAT-SBB-014)."/>

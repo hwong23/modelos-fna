@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-014: FN1_Transacciones_bk__b (Big Object)"
+    id="id-DAT-SBB-014"
+    documentation="Physical Data Component (SBB) - Respaldo historico inmutable de alto volumen de transacciones (FN1_Transacciones__c, DAT-SBB-013), fuera del almacenamiento transaccional."/>

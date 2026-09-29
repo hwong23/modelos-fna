@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-02 entrega Hub de Cuenta OmniStudio"
+    id="id-rel-trn-0047">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-WP-02.xml#id-WP-02"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_id-DEL-001.xml#id-DEL-001"/>
+</archimate:RealizationRelationship>

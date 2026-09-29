@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-023: FCC_UT_IP_PJEnviarCobis (Account/FCCUTPJEnviarCobis)"
+    id="id-APP-SBB-023"
+    documentation="Physical Application Component (Integration Procedure) (SBB) - Consulta la empresa (cuenta juridica, DAT-SBB-003) en COBIS (APP-SBB-056) mediante FCC_UT_PJCobisGateway (APP-SBB-042) y la crea si no existe (ConsultaPJrapida / CreacionPJrapida). Realiza ABB: APP-ABB-005, APP-ABB-006."/>

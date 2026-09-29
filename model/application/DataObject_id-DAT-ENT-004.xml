@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ENT-004: Empresa_Identificacion_PJ"
+    id="id-DAT-ENT-004"
+    documentation="Data Entity (ABB) - Identificacion de la persona juridica: NIT con digito de verificacion, tipo de empresa, codigo COBIS (APP-SBB-056)."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-045: FCC_UT_OpportunityTrigger"
+    id="id-APP-SBB-045"
+    documentation="Physical Application Component (Trigger Apex) (SBB) - Trigger sobre Opportunity (DAT-SBB-007 a DAT-SBB-009) con la logica de automatizacion de la oportunidad. Realiza ABB: APP-ABB-004."/>

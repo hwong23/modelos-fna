@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-051: CallOutSettings__c (Configuracion de Callout) + SitioRemotoProduccion (Remote Site Setting)"
+    id="id-APP-SBB-051"
+    documentation="Physical Application Component (Configuracion - Custom Setting y Remote Site) (SBB) - Custom Setting (DAT-SBB-029) con los 47 servicios salientes (endpoint, SOAPAction, timeout): 43 migrados desde FNAProdLegacy (APP-SBB-060) y 4 nuevos. El caller generico Legacy (CallOutServicios_cls/SettingServices_cls) fue reemplazado por FCC_UT_CobisCaller (APP-SBB-038), Integration Procedures y clases propias FCC_UT_. Endpoint ESB (APP-SBB-055) Prod: crm.fna.gov.co:8452 (Cert usa intc.fna.gov.co:8454). El Remote Site SitioRemotoProduccion habilita el trafico saliente a https://crm.fna.gov.co:8452. Realiza ABB: APP-ABB-006."/>

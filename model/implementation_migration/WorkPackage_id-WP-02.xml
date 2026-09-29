@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-02: Gestion de Clientes / Hub de Cuenta"
+    id="id-WP-02"
+    documentation="Paquete de implementacion de la consola unica del asesor para visualizacion y gestion de oportunidades del afiliado."/>

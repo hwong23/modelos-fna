@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-021: FN1_HistorialEstadoBloqueo__c"
+    id="id-DAT-SBB-021"
+    documentation="Physical Data Component (SBB) - Historial de consultas de estado de bloqueo (Bizagi via IP-04b, APP-SBB-020), preservado como historico consultable."/>

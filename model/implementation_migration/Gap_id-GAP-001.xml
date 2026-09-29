@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gap 1: Brecha entre Baseline y Transicion 1 (Reingenieria UI/Codigo &amp; ETL MuleSoft)"
+    id="id-GAP-001"
+    documentation="Brecha de transformacion de la interfaz Visualforce a OmniStudio/LWC, reemplazo de codigo Apex por Integration Procedures/Flows y setup de MuleSoft."/>

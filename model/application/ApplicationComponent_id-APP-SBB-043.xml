@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-043: FCC_UT_SaveOppFormGateway / FCCUTHipotecarioRadicarCobisGateway"
+    id="id-APP-SBB-043"
+    documentation="Physical Application Component (Clase Apex) (SBB) - Soporte al guardado de oportunidad (FCC_UT_IP_SaveOppN2, APP-SBB-026) y a la radicacion del tramite de credito hipotecario (FCC_UT_IP-OppHub_HipotecarioRadicarCobis, APP-SBB-028) via ESB (APP-SBB-055). Realiza ABB: APP-ABB-004, APP-ABB-006."/>

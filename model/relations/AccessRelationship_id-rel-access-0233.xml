@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-008 lee DAT-ABB-001"
+    id="id-rel-access-0233"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-008.xml#id-APP-SBB-008"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-DAT-ABB-001.xml#id-DAT-ABB-001"/>
+</archimate:AccessRelationship>

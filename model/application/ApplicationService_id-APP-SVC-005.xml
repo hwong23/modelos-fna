@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SVC-005: Consulta de listas SARLAFT (VIGIA)"
+    id="id-APP-SVC-005"
+    documentation="Information System Service (ABB) - ConsultarListasInhibitorias (IP04Gateway, APP-SBB-042), ConsultarListasRestrictivas (IP04Gateway y FCC_UT_BizagiRestrictivasGateway, APP-SBB-042) y ConsultarEstadoBloqueo (solo FCC_UT_BizagiRestrictivasGateway, APP-SBB-042) para prospectos (DAT-SBB-005), clientes (DAT-SBB-001) y oportunidades (DAT-SBB-007 a DAT-SBB-009); el resultado se registra en FN1_Historico_Listas_Inhibitorias__c (DAT-SBB-020) y FN1_HistorialEstadoBloqueo__c (DAT-SBB-021). La ruta Bizagi usa los mismos servicios y destino ESB (APP-SBB-055) que VIGIA (ver APP-SBB-057). Expuesto por: FCC_UT_IP-04_ValidarListasInhibitorias (Lead/ValidateListas) / FCC_UT_IP-04b_ValidarListasRestrictivas_Bizagi (Lead/ValidateBizagi) / FCC_UT_IP_Vigia_ValidateLists (Opportunity/ValidateLists) (APP-SBB-020) y APP-SBB-042 hacia APP-SBB-057."/>

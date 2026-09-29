@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plateau Baseline incluye capacidad logica APP-ABB-007"
+    id="id-rel-trn-0121">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-PLT-001.xml#id-PLT-001"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-ABB-007.xml#id-APP-ABB-007"/>
+</archimate:AggregationRelationship>

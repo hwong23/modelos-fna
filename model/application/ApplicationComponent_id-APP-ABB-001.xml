@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-ABB-001: Gestion de Prospectos (Leads PN/PJ)"
+    id="id-APP-ABB-001"
+    documentation="Logical Application Component (ABB) - Componente logico que captura, valida (documento existente, celular duplicado, listas inhibitorias/restrictivas) y califica prospectos Persona Natural y Persona Juridica, y los convierte en cliente. Documentado en V3 (PN) y V5 (PJ)."/>

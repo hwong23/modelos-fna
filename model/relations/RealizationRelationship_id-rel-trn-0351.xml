@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-02 desarrolla/transforma DAT-SBB-001"
+    id="id-rel-trn-0351">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-WP-02.xml#id-WP-02"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-DAT-SBB-001.xml#id-DAT-SBB-001"/>
+</archimate:RealizationRelationship>

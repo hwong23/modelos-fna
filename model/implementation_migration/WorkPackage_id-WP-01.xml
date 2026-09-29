@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-01: Gestion de Prospectos (Leads PN/PJ)"
+    id="id-WP-01"
+    documentation="Paquete de reingenieria para captura, calificacion SARLAFT y conversion de prospectos en OmniStudio."/>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OmniScript Prospecto PJ escribe Lead"
+    id="id-rel-trn-0375">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-004.xml#id-APP-SBB-004"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-DAT-SBB-005.xml#id-DAT-SBB-005"/>
+</archimate:AccessRelationship>

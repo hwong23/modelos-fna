@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ABB-006: Log de Integracion/Trazabilidad"
+    id="id-DAT-ABB-006"
+    documentation="Logical Data Component (ABB) - Entidad logica de trazabilidad: log de web services (request/response y resultado), eventos de log, historicos de estados de oportunidad, de listas inhibitorias y de bloqueo, e historico de log en Data Cloud (Data Stream ignore_FN1_LogWs_History_63C13026 (APP-SBB-049) / DAT-SBB-023)."/>

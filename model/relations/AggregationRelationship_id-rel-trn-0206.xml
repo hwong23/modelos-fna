@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plateau Transicion 1 prueba/despliega APP-SBB-039"
+    id="id-rel-trn-0206">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-PLT-002.xml#id-PLT-002"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-039.xml#id-APP-SBB-039"/>
+</archimate:AggregationRelationship>

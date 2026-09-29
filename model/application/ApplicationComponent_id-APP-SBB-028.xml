@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-028: FCC_UT_IP-OppHub_HipotecarioRadicarCobis (Opportunity/OppHubHipotecarioRadicarCobis)"
+    id="id-APP-SBB-028"
+    documentation="Physical Application Component (Integration Procedure) (SBB) - Radica el tramite de credito hipotecario en el backend via ESB (APP-SBB-055), mediante FCCUTHipotecarioRadicarCobisGateway (APP-SBB-043). Realiza ABB: APP-ABB-004, APP-ABB-006."/>

@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gap 2: Brecha entre Transicion 1 y Target (Consolidacion ProdNew, Data Cloud &amp; Descomision Legacy)"
+    id="id-GAP-002"
+    documentation="Brecha de paso a produccion final, finalizacion de la carga masiva de datos, activacion de Data Cloud y paso a solo lectura/descomision de FNAProdLegacy."/>

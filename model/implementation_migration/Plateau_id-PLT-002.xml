@@ -1,0 +1,5 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plateau: Transicion 1 (Certificacion, Reingenieria y Piloto / FNACertNew)"
+    id="id-PLT-002"
+    documentation="Estado intermedio de reingenieria, validacion UAT con usuarios finales, integracion MuleSoft y convivencia con servicios core."/>

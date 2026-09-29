@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entregable: Servicios REST Inbound de Productos (/AVC/, /Cesantias/, /AVCTrans/)"
+    id="id-DEL-004"
+    documentation="Endpoints Apex REST expuestos para la materialización e ingesta de productos desde COBIS."/>

@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-04: Originacion de Oportunidades (AVC, Cesantias, Credito Hipotecario)"
+    id="id-WP-04"
+    documentation="Paquete de formularios guiados de originacion por producto, validaciones y envio/radicacion en core bancario."/>

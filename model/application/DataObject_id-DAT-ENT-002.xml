@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ENT-002: Afiliado_Contacto_Direccion"
+    id="id-DAT-ENT-002"
+    documentation="Data Entity (ABB) - Datos de contacto del afiliado: direcciones, telefonos con su tipo (celular/fijo) y correo; se sincronizan con COBIS (APP-SBB-056) en Actualizacion de Cliente (APP-ABB-003)."/>

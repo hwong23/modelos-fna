@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Stream consulta DLO Transacciones Raw"
+    id="id-rel-trn-0399"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-049.xml#id-APP-SBB-049"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-DAT-SBB-015.xml#id-DAT-SBB-015"/>
+</archimate:AccessRelationship>

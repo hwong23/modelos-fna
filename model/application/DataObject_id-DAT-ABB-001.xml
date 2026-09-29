@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ABB-001: Maestro de Clientes/Afiliados"
+    id="id-DAT-ABB-001"
+    documentation="Logical Data Component (ABB) - Entidad logica transversal donde reposa la informacion del cliente afiliado persona natural: identificacion, contacto, direcciones, datos laborales y vinculo con COBIS (APP-SBB-056). La consumen Hub de Cuenta, Actualizacion de Cliente, Prospectos y Originacion de Oportunidades."/>

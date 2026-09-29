@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-059: Otros backends via ESB (ADMINFO, WorkManager, Facturacion de cartera, Legalizadora, Reporteria/documental)"
+    id="id-APP-SBB-059"
+    documentation="Physical Application Component (Sistema externo - agregado) (SBB) - Fila agregada de backends secundarios accedidos por el ESB (APP-SBB-055): ADMINFO (2 servicios), WorkManager (2), Facturacion de cartera (2), Legalizadora (1), Reporteria/documental (8). Realiza ABB: APP-ABB-009."/>

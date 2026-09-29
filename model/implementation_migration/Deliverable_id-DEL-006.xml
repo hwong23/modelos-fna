@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entregable: Set de Datos Migrados &amp; Reconciliados (5.27M Cuentas, 227K Prospectos, 4.06M Opps, 6.89M Assets)"
+    id="id-DEL-006"
+    documentation="Base de datos migrada e integramente reconciliada con la org legacy mediante llave externa de migración."/>

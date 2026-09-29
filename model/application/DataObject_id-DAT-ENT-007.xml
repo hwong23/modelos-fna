@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ENT-007: Oportunidad_Tipologia_CreditoHipotecario"
+    id="id-DAT-ENT-007"
+    documentation="Data Entity (ABB) - Tipologia de tramite Credito Hipotecario: monto solicitado (DAT-SBB-009), relacionados (conyuge/beneficiario, DAT-SBB-010) y empresa relacionada (DAT-SBB-004)."/>

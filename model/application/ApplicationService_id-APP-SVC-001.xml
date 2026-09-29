@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SVC-001: Creacion rapida de cliente en COBIS (PN/PJ)"
+    id="id-APP-SVC-001"
+    documentation="Information System Service (ABB) - CreacionPNrapida (IP02Gateway APP-SBB-040, persona natural DAT-SBB-001): se dispara al enviar la oportunidad desde el hub de cuenta (APP-SBB-027), no al calificar el prospecto. CreacionPJrapida (FCC_UT_PJCobisGateway APP-SBB-042, empresa DAT-SBB-003; solo si la consulta previa no la encuentra), desde PJEnviarCobis (APP-SBB-023). Ambas por FCC_UT_CobisCaller (APP-SBB-038) y ESB (APP-SBB-055). La re-consulta tras crear la PN (ConsultaPNrapida) sale por FCC_UT_ConsultaPNCobisGateway (APP-SBB-041), que envia por su cuenta. Expuesto por: APP-SBB-027, APP-SBB-040, APP-SBB-041, APP-SBB-042, APP-SBB-023 hacia APP-SBB-056."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-061: MuleSoft (migracion masiva desde FNAProdLegacy y cargas masivas por API)"
+    id="id-APP-SBB-061"
+    documentation="Physical Application Component (Plataforma de integracion / carga de datos) (SBB) - Plataforma MuleSoft usada para la migracion masiva de todos los objetos desde FNAProdLegacy (APP-SBB-060) hacia FNAProdNew (APP-SBB-001), concluida el fin de semana del 23 de agosto de 2026; las cargas masivas posteriores se ejecutan por API con el usuario de integracion de solo acceso por API. Realiza ABB: transversal (carga de datos para APP-ABB-001 a APP-ABB-008)."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-026: FN1_Pais__c / FN1_ProfesionOficio__c / FN1_ActividadEconomica__c"
+    id="id-DAT-SBB-026"
+    documentation="Physical Data Component (SBB) - Catalogos de paises (265), profesiones u oficios (795) y actividades economicas (1.078) usados en formularios y calificacion de prospecto."/>

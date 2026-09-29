@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-ABB-004: Originacion de Oportunidades (AVC, Cesantias, Credito Hipotecario)"
+    id="id-APP-ABB-004"
+    documentation="Logical Application Component (ABB) - Componente logico que crea y edita las solicitudes comerciales de los 3 tipos migrados (AVC, Cesantias, Credito Hipotecario), con guardado, validaciones de envio, relacionados e historico de estados. Documentado en V2."/>

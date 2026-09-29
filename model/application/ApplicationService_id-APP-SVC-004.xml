@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SVC-004: Validacion biometrica y Confronta del afiliado"
+    id="id-APP-SVC-004"
+    documentation="Information System Service (ABB) - Servicios SolicitudBiometria, ConsultaBiometria, TraePreguntasConfronta y EnviarRespuestasConfronta (OLIMPIA APP-SBB-058 via ESB APP-SBB-055), invocados desde el OmniScript ActualizarCuentaPorBiometria (APP-SBB-006) y el flujo ActualizarCliente (APP-SBB-024). Expuesto por: APP-SBB-025 hacia APP-SBB-058."/>

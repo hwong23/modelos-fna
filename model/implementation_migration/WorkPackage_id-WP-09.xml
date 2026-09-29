@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-09: Transversal - Plataforma FSC, Permisos, Ambientes y Migracion Masiva MuleSoft"
+    id="id-WP-09"
+    documentation="Paquete transversal de setup de org FSC, modelo de permisos FCC_UT, 13 Flows declarativos y migración masiva MuleSoft."/>

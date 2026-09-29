@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-03 resuelve Gap 1"
+    id="id-rel-trn-0018">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-WP-03.xml#id-WP-03"/>
+  <target
+      xsi:type="archimate:Gap"
+      href="Gap_id-GAP-001.xml#id-GAP-001"/>
+</archimate:RealizationRelationship>

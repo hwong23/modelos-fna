@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hito Paso a Produccion dispara Target Final"
+    id="id-rel-trn-0004">
+  <source
+      xsi:type="archimate:ImplementationEvent"
+      href="ImplementationEvent_id-EVT-002.xml#id-EVT-002"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-PLT-003.xml#id-PLT-003"/>
+</archimate:TriggeringRelationship>

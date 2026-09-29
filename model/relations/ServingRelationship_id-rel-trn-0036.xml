@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-07 habilita Plateau Transicion 1"
+    id="id-rel-trn-0036">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-WP-07.xml#id-WP-07"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-PLT-002.xml#id-PLT-002"/>
+</archimate:ServingRelationship>

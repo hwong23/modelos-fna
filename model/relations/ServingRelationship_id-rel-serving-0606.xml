@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SVC-011 sirve a APP-SBB-048"
+    id="id-rel-serving-0606">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-APP-SVC-011.xml#id-APP-SVC-011"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-048.xml#id-APP-SBB-048"/>
+</archimate:ServingRelationship>

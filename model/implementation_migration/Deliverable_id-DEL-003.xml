@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entregable: Arquitectura de Trazabilidad &amp; Logs Asincronos (Platform Events, FN1_LogWs__c, Data Cloud)"
+    id="id-DEL-003"
+    documentation="Mecanismo desacoplado de log de integraciones y repositorio historico en Data Cloud."/>

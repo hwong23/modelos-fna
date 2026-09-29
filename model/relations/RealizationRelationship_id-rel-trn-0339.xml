@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-02 desarrolla/transforma APP-SBB-012"
+    id="id-rel-trn-0339">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-WP-02.xml#id-WP-02"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-012.xml#id-APP-SBB-012"/>
+</archimate:RealizationRelationship>

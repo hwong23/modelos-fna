@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-004: FCC_UT_Crear/Editar PJ (OSProspecto/PersonaJuridica)"
+    id="id-APP-SBB-004"
+    documentation="Physical Application Component (OmniScript) (SBB) - Front del asesor para crear/editar prospecto Persona Juridica (empresa) en Lead (DAT-SBB-005), guardado con IP-06 GuardarProspectoPJ (APP-SBB-022). Realiza ABB: APP-ABB-001, APP-ABB-005."/>

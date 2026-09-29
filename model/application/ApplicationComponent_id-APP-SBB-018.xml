@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-018: LWC base de formularios (fcc_ut_inputTextCustom, fcc_ut_inputPicklistCustom, fcc_UT_OsToastListener)"
+    id="id-APP-SBB-018"
+    documentation="Physical Application Component (Lightning Web Component) (SBB) - Fila agregada de LWC transversales embebidos en OmniScripts (APP-SBB-003 a APP-SBB-012) (inputs custom y notificaciones). En org: 38 LWC sin namespace (37 con prefijo fcc). Realiza ABB: APP-ABB-001 a APP-ABB-004."/>

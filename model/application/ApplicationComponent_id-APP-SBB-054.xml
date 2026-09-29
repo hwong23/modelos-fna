@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-054: Page Layouts de los procesos FNA"
+    id="id-APP-SBB-054"
+    documentation="Physical Application Component (Page Layout - agregado) (SBB) - Fila agregada: 84 formatos de pagina (Page Layouts) sobre los objetos en alcance: Cuenta 26 (DAT-SBB-003) + Cuenta personal 4 (DAT-SBB-001), Prospecto 22 (DAT-SBB-005), Oportunidad 8 (DAT-SBB-007 a DAT-SBB-009), Activo 6 (DAT-SBB-012) y 18 layouts de 11 objetos custom del catalogo de datos (ubicaciones DAT-SBB-002, empresa relacionada DAT-SBB-004, relacionados DAT-SBB-010, producto no conforme DAT-SBB-011, transacciones DAT-SBB-013, log DAT-SBB-016, historicos DAT-SBB-006 / DAT-SBB-019 a DAT-SBB-021). Org: 511 layouts sin namespace. Realiza ABB: APP-ABB-001 a APP-ABB-005, APP-ABB-007, APP-ABB-008."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-048: FN1_LogWs__c (LogWs) + FCC_UT_LogWsGuardTrigger"
+    id="id-APP-SBB-048"
+    documentation="Physical Application Component (Objeto de datos - log) (SBB) - Objeto (DAT-SBB-016) donde reposa el log de integraciones, migrado desde FNAProdLegacy (APP-SBB-060) con MuleSoft (APP-SBB-061) con su historico (aprox. 464 mil registros, corte 2026-09-23); guard trigger de proteccion. Consultable por FN1_TrazaId__c (correlaciona con FCC_TrazaId__c del evento APP-SBB-046). Realiza ABB: APP-ABB-007."/>

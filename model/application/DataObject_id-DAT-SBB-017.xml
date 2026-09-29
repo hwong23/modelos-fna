@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-017: FCC_UT_LogWsEvent__e (Platform Event de log)"
+    id="id-DAT-SBB-017"
+    documentation="Physical Data Component (SBB) - Evento de plataforma que desacopla el registro del log de la cadena de llamadas a servicios externos (evita el error uncommitted work en transacciones con callouts); se guarda en el log de web services (FN1_LogWs__c, DAT-SBB-016) mediante FCC_UT_LogWsEventTrigger (APP-SBB-046)."/>

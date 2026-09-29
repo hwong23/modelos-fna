@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-027: FN1_TipoDireccionHomologacion__c (Custom Setting)"
+    id="id-DAT-SBB-027"
+    documentation="Physical Data Component (SBB) - Homologacion de tipo de direccion hacia el codigo COBIS (APP-SBB-056) en Actualizacion de Cliente (APP-ABB-003) (Data Mapper FCCUTDRXACCTipoDireccionHomologacion, APP-SBB-033)."/>

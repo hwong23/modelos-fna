@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-SBB-024: FN1_Tablas_Generales__c (Tablas generales)"
+    id="id-DAT-SBB-024"
+    documentation="Physical Data Component (SBB) - Catalogo local de codigo/valor para homologacion con COBIS (APP-SBB-056) usado por los gateways (APP-SBB-040 / APP-SBB-042) de creacion y consulta."/>

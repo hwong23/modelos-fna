@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogWsEventTrigger guarda en FN1_LogWs__c"
+    id="id-rel-trn-0397">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-046.xml#id-APP-SBB-046"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-DAT-SBB-016.xml#id-DAT-SBB-016"/>
+</archimate:AccessRelationship>

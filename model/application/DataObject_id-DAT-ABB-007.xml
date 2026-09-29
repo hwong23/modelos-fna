@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT-ABB-007: Transaccion Historica"
+    id="id-DAT-ABB-007"
+    documentation="Logical Data Component (ABB) - Entidad logica de movimientos transaccionales del producto del afiliado (aportes, retiros, pagos) y su respaldo historico de alto volumen."/>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-04 entrega OmniScripts Oportunidades"
+    id="id-rel-trn-0049">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-WP-04.xml#id-WP-04"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_id-DEL-001.xml#id-DEL-001"/>
+</archimate:RealizationRelationship>

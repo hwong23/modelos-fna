@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-08: Activos / Productos del Cliente y Servicios REST Inbound"
+    id="id-WP-08"
+    documentation="Paquete de consulta en vivo de saldos/movimientos con FlexCards y recepcion de productos COBIS via REST Inbound."/>

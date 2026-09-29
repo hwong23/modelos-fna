@@ -1,0 +1,5 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plateau: Baseline (As-Is / FNAProdLegacy)"
+    id="id-PLT-001"
+    documentation="Estado inicial de la arquitectura con la org legacy Enterprise Edition USA314, 64 paginas Visualforce y codigo Apex v29-44."/>

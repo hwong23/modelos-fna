@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP-03: Actualizacion de Cliente y Validacion Biometrica"
+    id="id-WP-03"
+    documentation="Paquete de actualizacion dinamica de datos de clientes con biometria/Confronta OLIMPIA e integracion COBIS."/>

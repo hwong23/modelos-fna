@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-038: FCC_UT_CobisCaller (con soporte FCC_UT_EsbStatus y FCC_UT_ContextoServicio)"
+    id="id-APP-SBB-038"
+    documentation="Physical Application Component (Clase Apex) (SBB) - Capa de transporte: punto de salida unico de referencia hacia el ESB (APP-SBB-055) (chokepoint); lo usan 27 clases de integracion. Evalua las reglas pre-callout (APP-SBB-039), envia la llamada y publica la traza (APP-SBB-046); no lee ni escribe datos en Salesforce. Tiene 2 excepciones conocidas (APP-SBB-041). Configuracion de servicios en CallOutSettings__c (APP-SBB-051). Realiza ABB: APP-ABB-006."/>

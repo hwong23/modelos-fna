@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-033: Data Mappers (fila agregada)"
+    id="id-APP-SBB-033"
+    documentation="Physical Application Component (Data Mapper) (SBB) - Fila agregada: 167 Data Mappers en org (126 Extract, 33 Load, 7 Transform, 1 Turbo Extract); se listan abajo solo los representativos. Mapean, extraen y transforman datos para OmniScripts e IPs. Estado: se ejecutan cuando un OmniScript o un IP los llama por su nombre; la marca de activo de la plataforma no condiciona su uso. Realiza ABB: APP-ABB-001 a APP-ABB-008."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-015: fccUtOppFormularioRouter / fccUtOppFormularioLaunchButton"
+    id="id-APP-SBB-015"
+    documentation="Physical Application Component (Lightning Web Component) (SBB) - LWC que lanza y enruta el formulario de oportunidad al OmniScript segun tipo (AVC APP-SBB-007, Cesantias APP-SBB-008, Credito APP-SBB-009). Realiza ABB: APP-ABB-004."/>

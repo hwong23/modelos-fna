@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP-SBB-012: FCC_UT_OS_OPP_Retenciones (OSOPP/Retenciones)"
+    id="id-APP-SBB-012"
+    documentation="Physical Application Component (OmniScript) (SBB) - Front de gestion de retenciones y traslados desde el hub de cuenta (APP-SBB-011). Realiza ABB: APP-ABB-002."/>

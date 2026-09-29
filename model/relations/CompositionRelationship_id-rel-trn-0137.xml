@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plateau Target contiene APP-SBB-004"
+    id="id-rel-trn-0137">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-PLT-003.xml#id-PLT-003"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-APP-SBB-004.xml#id-APP-SBB-004"/>
+</archimate:CompositionRelationship>
