@@ -1,7 +1,7 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Servicios"
+    name="Servicios dentro del alcance de Fase 1, API Manager:"
     id="id-747e30df1e38482e8a13b7233ce077eb">
   <children
       xsi:type="canvas:CanvasModelImage"
