@@ -42,7 +42,7 @@
   </children>
   <properties
       key="alias"
-      value="DD.FNA.APIManager2"/>
+      value="DD.FNA.APIManager"/>
   <properties
       key="devdoc"
       value="DD.FNA.APIManager.md"/>
