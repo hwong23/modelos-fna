@@ -1,0 +1,17 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="RedAPI"
+    id="id-91156cf961134ca5a35e31c98a09cb1b">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-0ac6e4da9b4d49248206d085db3865b4"
+      name="Image"
+      imagePath="images/_Ruw1cMM-EfGdWKO-715iiA.png">
+    <bounds
+        x="72"
+        y="108"
+        width="677"
+        height="467"/>
+  </children>
+</canvas:CanvasModel>

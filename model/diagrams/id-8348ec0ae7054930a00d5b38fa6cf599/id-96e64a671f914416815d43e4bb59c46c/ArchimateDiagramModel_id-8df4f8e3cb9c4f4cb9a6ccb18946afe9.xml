@@ -1,0 +1,5 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definición de Arquitetura API Manager FNA.2"
+    id="id-8df4f8e3cb9c4f4cb9a6ccb18946afe9"
+    documentation="Modelo de Mediación de Seguridad (Security Bridging / Token Exchange):&#xA;&#xA;- Recepción Exterior: Consumidor envía petición HTTPS con token OAuth2/JWT.&#xA;- Validación en Borde: API Gateway valida firmas, expiración, subidas de picos (_spike arrest_) y scopes.   &#xA;- Traducción de Identidad (Bridging): API Gateway inyecta credencial técnica interna (TLS, cabecera firmada o credencial técnica de servicio) aceptada por la LAN interna FNA. &#xA;- Invocación Interna: Enrutamiento hacia ESB / Cobis por la red corporativa sin modificar el backend.   &#xA;- Orquestación y Mediación de Protocolos (Application Function): Función alojada en el ESB para adaptar sistemas y legados hacia el Core Cobis FNA.&#xA;&#xA;"/>
