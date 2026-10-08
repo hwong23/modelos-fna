@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monolito Legado 11g"
+    id="id-081e08d3f30041c896a1fbb3b802ab02"
+    documentation="Sistema legacy en proceso de sustitución gradual que mantiene las capacidades aún no migradas a la nueva arquitectura."/>

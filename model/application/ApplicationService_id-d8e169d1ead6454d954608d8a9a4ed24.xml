@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruta B - Servicio Legado"
+    id="id-d8e169d1ead6454d954608d8a9a4ed24"
+    documentation="Enrutamiento temporal de la fachada hacia las funcionalidades aún mantenidas en el monolito 11g."/>

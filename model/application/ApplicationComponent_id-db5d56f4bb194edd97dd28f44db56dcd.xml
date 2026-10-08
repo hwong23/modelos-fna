@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microservicios en Oracle 19c"
+    id="id-db5d56f4bb194edd97dd28f44db56dcd"
+    documentation="Nuevos servicios migrados que operan sobre la base de datos moderna y asumen funcionalidades estranguladas del sistema legado."/>

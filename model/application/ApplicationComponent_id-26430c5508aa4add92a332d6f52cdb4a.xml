@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplicaciones Consumidoras"
+    id="id-26430c5508aa4add92a332d6f52cdb4a"
+    documentation="Aplicaciones cliente o consumidores externos que realizan peticiones de negocio hacia los servicios de la plataforma."/>

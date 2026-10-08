@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruta A - Servicio Migrado"
+    id="id-49223b66e7d446f1901e9c78b0b0a67a"
+    documentation="Enrutamiento de la fachada hacia las nuevas capacidades implementadas en microservicios sobre Oracle 19c."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB Empresa"
+    id="id-4eda5ba7348e484db2804e905d5f097a"
+    documentation="Nuevos servicios migrados que operan sobre la base de datos moderna y asumen funcionalidades estranguladas del sistema legado."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway / Fachada"
+    id="id-594284bdaa424383a08288ff7c160a08"
+    documentation="Capa interceptora que enruta el tráfico dinámicamente entre el monolito legado y las nuevas capacidades construidas sobre microservicios."/>

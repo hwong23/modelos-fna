@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enruta a"
+    id="id-2aaeff4929314308bf61b9a190902c33">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-594284bdaa424383a08288ff7c160a08.xml#id-594284bdaa424383a08288ff7c160a08"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-d8e169d1ead6454d954608d8a9a4ed24.xml#id-d8e169d1ead6454d954608d8a9a4ed24"/>
+</archimate:ServingRelationship>
