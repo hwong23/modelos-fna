@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orden de Pago FDX Money Movement"
+    id="id-do-payment-order"
+    documentation="Estructura de instrucción de transferencia de fondos."/>

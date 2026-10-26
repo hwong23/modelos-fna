@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desacoplamiento y Adaptación de Sistemas Legados"
+    id="id-cap-adapt"
+    documentation="Capacidad para transformar protocolos propietarios a REST/JSON canónicos.">
+  <properties
+      key="Design Pattern"
+      value="Adapter / Wrapper Pattern"/>
+</archimate:Capability>

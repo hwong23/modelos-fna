@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Intercambio Seguro de Datos Financieros. Interfaz de Seguridad FAPI 2.0 / PAR / RAR"
+    id="id-if-fapi-mtls"
+    documentation="Endpoint seguro con mTLS y autenticación de clave privada."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interfaz REST OpenAPI 3.0 / FDX"
+    id="id-if-rest-openapi"
+    documentation="Punto de acceso público expuesto a TPPs bajo contrato OAS/FDX."/>

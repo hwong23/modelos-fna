@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="satisface"
+    id="id-rel-010">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-bs-pis.xml#id-bs-pis"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-goal-interop.xml#id-goal-interop"/>
+</archimate:RealizationRelationship>

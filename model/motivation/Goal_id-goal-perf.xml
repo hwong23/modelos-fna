@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalabilidad con Latencia Sub-Segunda (&lt; 500ms)"
+    id="id-goal-perf"
+    documentation="Atender altos volúmenes de peticiones con respuesta ultra rápida."/>

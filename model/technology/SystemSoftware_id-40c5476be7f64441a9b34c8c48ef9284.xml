@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Grid In-Memory Engine (Redis / Apache Ignite)"
+    id="id-40c5476be7f64441a9b34c8c48ef9284"
+    documentation="Plataforma de software de sistema para almacenamiento en memoria distribuida."/>

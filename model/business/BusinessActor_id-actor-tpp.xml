@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Third Party Provider (TPP / Fintech Receptora)"
+    id="id-actor-tpp"
+    documentation="Entidad externa receptora de datos o iniciadora de pagos."/>

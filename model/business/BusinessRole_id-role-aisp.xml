@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Information Service Provider (AISP)"
+    id="id-role-aisp"
+    documentation="Rol de provisión de datos e información financiera."/>

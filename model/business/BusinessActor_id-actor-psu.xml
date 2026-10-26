@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Service User (PSU / Cliente Titular)"
+    id="id-actor-psu"
+    documentation="Usuario titular de la cuenta bancaria y dueño de los datos."/>

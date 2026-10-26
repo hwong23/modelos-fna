@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ejecuta en"
+    id="id-9f0c2a6f8a8043edba49816c1a056648">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-tec-datagrid-engine.xml#id-tec-datagrid-engine"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-node-datagrid-node.xml#id-node-datagrid-node"/>
+</archimate:ServingRelationship>

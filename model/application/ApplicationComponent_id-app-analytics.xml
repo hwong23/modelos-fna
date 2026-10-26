@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics Engine &amp; Data Lake"
+    id="id-app-analytics"
+    documentation="Inteligencia de negocios, analítica de uso de APIs y detección de fraudes."/>

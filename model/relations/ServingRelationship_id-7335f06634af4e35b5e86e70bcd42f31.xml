@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gestiona"
+    id="id-7335f06634af4e35b5e86e70bcd42f31">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-tec-k8s.xml#id-tec-k8s"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-node-k8s-cluster.xml#id-node-k8s-cluster"/>
+</archimate:ServingRelationship>

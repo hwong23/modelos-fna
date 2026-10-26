@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Grid Layer (Redis Enterprise / Apache Ignite)"
+    id="id-app-datagrid"
+    documentation="Caché distribuida en memoria que atiende lecturas masivas.">
+  <properties
+      key="Design Pattern"
+      value="CQRS / Read Model Cache"/>
+</archimate:ApplicationComponent>

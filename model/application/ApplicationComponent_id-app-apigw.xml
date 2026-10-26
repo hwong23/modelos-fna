@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway (Red Hat 3scale)"
+    id="id-app-apigw"
+    documentation="Proxy reverso, virtualización, limitación de tasa y terminación mTLS.">
+  <properties
+      key="Design Pattern"
+      value="API Facade / Virtualization"/>
+</archimate:ApplicationComponent>

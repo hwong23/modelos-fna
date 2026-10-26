@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="impulsa"
+    id="id-rel-006">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-coa-datagrid.xml#id-coa-datagrid"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-cap-cache.xml#id-cap-cache"/>
+</archimate:InfluenceRelationship>

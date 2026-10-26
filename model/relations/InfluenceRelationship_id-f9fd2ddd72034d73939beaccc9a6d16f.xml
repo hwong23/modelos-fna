@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mitiga impacto en"
+    id="id-f9fd2ddd72034d73939beaccc9a6d16f">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-cap-adapt.xml#id-cap-adapt"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-drv-core.xml#id-drv-core"/>
+</archimate:InfluenceRelationship>

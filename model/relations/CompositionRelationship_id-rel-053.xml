@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-rel-053">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-node-k8s-cluster.xml#id-node-k8s-cluster"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-node-adapter-pod.xml#id-node-adapter-pod"/>
+</archimate:CompositionRelationship>

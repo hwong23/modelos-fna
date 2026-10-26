@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Provider Bank (ASPSP / Banco Custodio)"
+    id="id-actor-bank"
+    documentation="Entidad financiera obligada que custodia los productos y saldos."/>

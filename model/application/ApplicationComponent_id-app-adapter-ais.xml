@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cuentas Adapter Microservice"
+    id="id-app-adapter-ais"
+    documentation="Transforma datos de cuentas del Core al estándar FDX/OAS.">
+  <properties
+      key="Design Pattern"
+      value="Adapter Pattern"/>
+</archimate:ApplicationComponent>

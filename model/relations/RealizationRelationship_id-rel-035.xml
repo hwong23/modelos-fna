@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soporta"
+    id="id-rel-035">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-as-consent-auth.xml#id-as-consent-auth"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-bs-consent.xml#id-bs-consent"/>
+</archimate:RealizationRelationship>

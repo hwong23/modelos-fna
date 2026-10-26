@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-rel-020">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-grp-obs-plane.xml#id-grp-obs-plane"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-logagg.xml#id-app-logagg"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-rel-019">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-grp-datagrid-plane.xml#id-grp-datagrid-plane"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-datagrid.xml#id-app-datagrid"/>
+</archimate:CompositionRelationship>

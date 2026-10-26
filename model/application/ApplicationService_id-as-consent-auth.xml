@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Autenticación y Consentimiento FAPI"
+    id="id-as-consent-auth"
+    documentation="Validación de acceso y entrega de tokens FAPI."/>

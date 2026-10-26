@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="autentica"
+    id="id-7acfdd1512f344879bb533d27d2b141a">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-art-x509-cert.xml#id-art-x509-cert"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-net-mtls.xml#id-net-mtls"/>
+</archimate:AssociationRelationship>

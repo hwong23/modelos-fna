@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-rel-016">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-grp-adapters-plane.xml#id-grp-adapters-plane"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-adapter-ais.xml#id-app-adapter-ais"/>
+</archimate:CompositionRelationship>

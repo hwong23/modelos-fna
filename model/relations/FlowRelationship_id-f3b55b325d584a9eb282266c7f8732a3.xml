@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="consulta vía"
+    id="id-f3b55b325d584a9eb282266c7f8732a3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-adapter-ais.xml#id-app-adapter-ais"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-if-legacy-proto.xml#id-if-legacy-proto"/>
+</archimate:FlowRelationship>

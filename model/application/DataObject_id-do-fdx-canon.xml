@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modelo Canónico FDX (Account &amp; Transaction Data)"
+    id="id-do-fdx-canon"
+    documentation="Estructura estandarizada de datos financieros FDX."/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="comunica con"
+    id="id-6be7543de7b741d6a82761cdcfa7e556">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-if-legacy-proto.xml#id-if-legacy-proto"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-corebank.xml#id-app-corebank"/>
+</archimate:ServingRelationship>

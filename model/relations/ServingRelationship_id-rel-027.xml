@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="expone API"
+    id="id-rel-027">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-as-payment-init.xml#id-as-payment-init"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-bs-pis.xml#id-bs-pis"/>
+</archimate:ServingRelationship>

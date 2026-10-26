@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aceleración de Lectura en Memoria (CQRS)"
+    id="id-cap-cache"
+    documentation="Capacidad para atender consultas masivas de datos sin tocar el Core transaccional.">
+  <properties
+      key="Design Pattern"
+      value="CQRS / In-Memory Grid"/>
+</archimate:Capability>

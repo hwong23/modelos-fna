@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Iniciación de Pagos (PIS - Bre-B)"
+    id="id-bs-pis"
+    documentation="Iniciación de transferencias y pagos en tiempo real."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Consulta de Cuentas (AIS)"
+    id="id-as-account-info"
+    documentation="Exposición desacoplada de saldos y productos."/>

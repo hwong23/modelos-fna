@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperabilidad Estandarizada (FDX / OpenAPI 3.0)"
+    id="id-goal-interop"
+    documentation="Asegurar contratos de interfaz uniformes para el ecosistema.">
+  <properties
+      key="Standard / Specification"
+      value="FDX / OAS 3.0"/>
+</archimate:Goal>

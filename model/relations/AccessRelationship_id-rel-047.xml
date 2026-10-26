@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gestiona"
+    id="id-rel-047">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-consentmgr.xml#id-app-consentmgr"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-do-consent-grant.xml#id-do-consent-grant"/>
+</archimate:AccessRelationship>

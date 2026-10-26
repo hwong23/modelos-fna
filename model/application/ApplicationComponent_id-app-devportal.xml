@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Developer API Portal &amp; Sandbox"
+    id="id-app-devportal"
+    documentation="Portal autoservicio para desarrolladores TPP y entorno de pruebas."/>

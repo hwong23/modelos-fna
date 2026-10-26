@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="define"
+    id="id-rel-063">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-art-openapi-spec.xml#id-art-openapi-spec"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-if-rest-openapi.xml#id-if-rest-openapi"/>
+</archimate:RealizationRelationship>

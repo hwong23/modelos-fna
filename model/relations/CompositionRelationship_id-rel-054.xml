@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-rel-054">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-node-k8s-cluster.xml#id-node-k8s-cluster"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-node-datagrid-node.xml#id-node-datagrid-node"/>
+</archimate:CompositionRelationship>

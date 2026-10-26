@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REd Hat API Gateway Runtime Engine"
+    id="id-e74e7168cc4644ab923675a5ee6bb530"
+    documentation="Motor de procesamiento de tráfico y ejecución de plugins del API Gateway."/>

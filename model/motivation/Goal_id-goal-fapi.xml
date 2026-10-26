@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seguridad de Grado Financiero (FAPI 2.0 / mTLS)"
+    id="id-goal-fapi"
+    documentation="Garantizar autenticación robusta y cifrado punto a punto.">
+  <properties
+      key="Security Protocol"
+      value="FAPI 2.0 / mTLS"/>
+</archimate:Goal>

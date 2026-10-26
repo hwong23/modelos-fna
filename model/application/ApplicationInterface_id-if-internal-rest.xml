@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interfaz REST/JSON Interna"
+    id="id-if-internal-rest"
+    documentation="Comunicación ligera entre microservicios adaptadores."/>

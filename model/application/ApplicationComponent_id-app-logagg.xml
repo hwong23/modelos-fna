@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logs Aggregation Engine"
+    id="id-app-logagg"
+    documentation="Consolidación de registros de auditoría y trazas en tiempo real."/>

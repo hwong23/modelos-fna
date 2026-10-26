@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-rel-014">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-grp-security-plane.xml#id-grp-security-plane"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-consentmgr.xml#id-app-consentmgr"/>
+</archimate:CompositionRelationship>

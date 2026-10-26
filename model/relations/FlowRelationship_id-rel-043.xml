@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="envía orden de pago a"
+    id="id-rel-043">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-adapter-pis.xml#id-app-adapter-pis"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-payment-proc.xml#id-app-payment-proc"/>
+</archimate:FlowRelationship>

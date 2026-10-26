@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="autentica usuarios para"
+    id="id-rel-037">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-idp.xml#id-app-idp"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-consentmgr.xml#id-app-consentmgr"/>
+</archimate:ServingRelationship>

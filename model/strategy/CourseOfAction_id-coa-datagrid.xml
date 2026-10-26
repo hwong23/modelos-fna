@@ -1,0 +1,5 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Despliegue de Capa Data Grid CQRS Distribuida"
+    id="id-coa-datagrid"
+    documentation="Curso de acción para implementar almacenamiento en memoria de alta velocidad."/>

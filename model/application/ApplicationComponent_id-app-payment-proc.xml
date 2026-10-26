@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesador de Pagos e Interconexión Bre-B"
+    id="id-app-payment-proc"
+    documentation="Conector con el sistema de pagos inmediatos del Banco de la República."/>

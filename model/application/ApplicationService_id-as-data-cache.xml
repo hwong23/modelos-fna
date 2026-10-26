@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Caching y Lectura Rápida (CQRS)"
+    id="id-as-data-cache"
+    documentation="Provisión de respuestas sub-segundas desde memoria."/>

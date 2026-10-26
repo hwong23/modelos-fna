@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proceso de Autorización y Otorgamiento de Consentimiento"
+    id="id-bp-consent-grant"
+    documentation="Flujo interactivo donde el PSU concede acceso a sus datos al TPP."/>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kubernetes / Red Hat OpenShift Container Platform"
+    id="id-tec-k8s"
+    documentation="Plataforma de orquestación de contenedores en la nube/on-premise."/>

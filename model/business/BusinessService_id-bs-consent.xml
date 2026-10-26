@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Gestión Ciudadana del Consentimiento"
+    id="id-bs-consent"
+    documentation="Portal/App donde el cliente autoriza, consulta o revoca permisos."/>

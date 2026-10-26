@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b4c960bbf63f4d4b8704a89134b44965">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-node-gw-pod.xml#id-node-gw-pod"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-e74e7168cc4644ab923675a5ee6bb530.xml#id-e74e7168cc4644ab923675a5ee6bb530"/>
+</archimate:AssignmentRelationship>

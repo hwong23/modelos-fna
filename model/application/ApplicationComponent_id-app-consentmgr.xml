@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity &amp; Consent Manager (FAPI 2.0 / PAR / RAR)"
+    id="id-app-consentmgr"
+    documentation="Motor de control de permisos, revocación y autorización FAPI.">
+  <properties
+      key="Security Protocol"
+      value="OAuth 2.0 PAR / RAR"/>
+</archimate:ApplicationComponent>

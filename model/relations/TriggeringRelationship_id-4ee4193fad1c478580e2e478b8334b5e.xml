@@ -1,0 +1,11 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4ee4193fad1c478580e2e478b8334b5e">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-actor-tpp.xml#id-actor-tpp"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-if-fapi-mtls.xml#id-if-fapi-mtls"/>
+</archimate:TriggeringRelationship>

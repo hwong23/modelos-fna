@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3b1479a06b7249f0a3e65bb402b71dc6">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-node-datagrid-node.xml#id-node-datagrid-node"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-40c5476be7f64441a9b34c8c48ef9284.xml#id-40c5476be7f64441a9b34c8c48ef9284"/>
+</archimate:AssociationRelationship>

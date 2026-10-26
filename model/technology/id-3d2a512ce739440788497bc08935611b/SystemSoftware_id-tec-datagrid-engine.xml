@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redis Enterprise Cluster / Apache Ignite Engine"
+    id="id-tec-datagrid-engine"
+    documentation="Motor de base de datos en memoria para almacenamiento distribuido."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proceso de Consulta de Información Financiera"
+    id="id-bp-data-fetch"
+    documentation="Flujo automático de extracción de datos via API estandarizada."/>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OB Adapter Microservices PODs"
+    id="id-node-adapter-pod"
+    documentation="Instancias contenedorizadas de los adaptadores de microservicios."/>

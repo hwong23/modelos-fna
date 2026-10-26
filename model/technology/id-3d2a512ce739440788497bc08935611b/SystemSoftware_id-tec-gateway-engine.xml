@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kong API Gateway Engine / Envoy"
+    id="id-tec-gateway-engine"
+    documentation="Motor de ejecución de proxy y políticas de red."/>

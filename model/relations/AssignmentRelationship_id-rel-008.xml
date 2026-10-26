@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="asume rol"
+    id="id-rel-008">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-actor-tpp.xml#id-actor-tpp"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-role-pisp.xml#id-role-pisp"/>
+</archimate:AssignmentRelationship>

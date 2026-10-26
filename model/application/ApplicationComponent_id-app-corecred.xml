@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core de Créditos y Tarjetas"
+    id="id-app-corecred"
+    documentation="Módulo de tarjetas de crédito y préstamos."/>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apache Kafka / IBM MQ Messaging Cluster"
+    id="id-tec-kafka"
+    documentation="Malla de eventos asíncronos para sincronización de datos."/>

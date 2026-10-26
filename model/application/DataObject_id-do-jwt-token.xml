@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Token de Acceso JWT (OAuth2 / FAPI Claims)"
+    id="id-do-jwt-token"
+    documentation="Token criptográfico con permisos y contexto de autorización."/>

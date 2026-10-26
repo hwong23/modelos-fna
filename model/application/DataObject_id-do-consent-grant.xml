@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registro de Consentimiento (Consent Grant Record)"
+    id="id-do-consent-grant"
+    documentation="Metadatos de permiso, vigencia y scopes otorgados."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Bancario Legado (COBIS / Unix / ACE Syb)"
+    id="id-app-corebank"
+    documentation="Sistema transaccional central de la entidad financiera."/>

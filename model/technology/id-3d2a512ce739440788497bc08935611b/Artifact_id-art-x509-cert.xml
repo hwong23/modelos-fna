@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificado Digital X.509 mTLS"
+    id="id-art-x509-cert"
+    documentation="Certificado de seguridad e identidad para transporte mTLS."/>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiza"
+    id="id-rel-002">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-cap-consent.xml#id-cap-consent"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-goal-fapi.xml#id-goal-fapi"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Información de Cuentas (AIS)"
+    id="id-bs-ais"
+    documentation="Exposición de saldos, movimientos y productos financieros. Servicio de software que entrega saldos, detalles de cuentas y transacciones en formato JSON estandarizado."/>

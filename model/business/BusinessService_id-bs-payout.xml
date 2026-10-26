@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Pagos Embebidos (Embedded Payouts)"
+    id="id-bs-payout"
+    documentation="Pagos e integraciones comerciales en plataformas de terceros."/>

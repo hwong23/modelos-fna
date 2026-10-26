@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interfaz de Protocolos Legados (SOAP/XML/Sockets TCP)"
+    id="id-if-legacy-proto"
+    documentation="Conector heredado con los Cores de fondo."/>

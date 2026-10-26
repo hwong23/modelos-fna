@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="invalida/actualiza caché en"
+    id="id-7325bd7d35bc41d8b1fe3486f3883746">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-if-async-msg.xml#id-if-async-msg"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-datagrid.xml#id-app-datagrid"/>
+</archimate:ServingRelationship>

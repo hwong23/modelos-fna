@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soporta"
+    id="id-rel-034">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-adapter-pis.xml#id-app-adapter-pis"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-payment-proc.xml#id-app-payment-proc"/>
+</archimate:RealizationRelationship>

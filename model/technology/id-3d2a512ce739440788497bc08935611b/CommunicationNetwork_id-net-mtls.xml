@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Red Segura mTLS (TLS 1.3 / Private Link)"
+    id="id-net-mtls"
+    documentation="Canal cifrado punto a punto entre TPP y API Gateway."/>

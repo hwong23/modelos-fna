@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keycloak / Ping Identity / ForgeRock FAPI Server"
+    id="id-tec-iam-engine"
+    documentation="Motor de gestión de identidades compatible con FAPI 2.0."/>

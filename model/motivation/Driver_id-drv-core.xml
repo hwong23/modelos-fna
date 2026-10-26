@@ -1,0 +1,5 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inmunización y Protección del Core Bancario Legado"
+    id="id-drv-core"
+    documentation="Evitar la saturación del Core transaccional ante picos de consultas masivas de TPPs."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Initiation Service Provider (PISP)"
+    id="id-role-pisp"
+    documentation="Rol de iniciación de órdenes de pago de inmediato."/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gobierno y Gestión del Ciclo de Vida de APIs"
+    id="id-cap-apigov"
+    documentation="Capacidad para publicar, monitorear y asegurar APIs corporativas."/>

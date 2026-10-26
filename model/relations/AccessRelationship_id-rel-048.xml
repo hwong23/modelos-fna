@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="emite"
+    id="id-rel-048">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-consentmgr.xml#id-app-consentmgr"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-do-jwt-token.xml#id-do-jwt-token"/>
+</archimate:AccessRelationship>

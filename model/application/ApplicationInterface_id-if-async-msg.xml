@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interfaz Mensajería Asíncrona (Kafka / IBM MQ)"
+    id="id-if-async-msg"
+    documentation="Cola de mensajes para invalidación de caché y eventos."/>

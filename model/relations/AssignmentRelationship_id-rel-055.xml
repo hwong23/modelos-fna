@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ejecuta en"
+    id="id-rel-055">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-tec-gateway-engine.xml#id-tec-gateway-engine"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-node-gw-pod.xml#id-node-gw-pod"/>
+</archimate:AssignmentRelationship>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clúster Kubernetes Multizona"
+    id="id-node-k8s-cluster"
+    documentation="Infraestructura de cómputo redundante de alta disponibilidad."/>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="publica eventos"
+    id="id-55d5a721f7f6478e96e33d943ab32c4f">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-net-mtls.xml#id-net-mtls"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-art-x509-cert.xml#id-art-x509-cert"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bank Identity Provider (Bank IdP / Keycloak / Ping)"
+    id="id-app-idp"
+    documentation="Servidor central de identidad de clientes institucionales."/>

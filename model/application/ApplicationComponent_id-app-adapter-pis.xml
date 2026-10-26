@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pagos Adapter Microservice"
+    id="id-app-adapter-pis"
+    documentation="Orquesta instrucciones de pago FDX hacia la pasarela Bre-B.">
+  <properties
+      key="Design Pattern"
+      value="Adapter Pattern"/>
+</archimate:ApplicationComponent>

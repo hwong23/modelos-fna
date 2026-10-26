@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Iniciación de Pagos (PIS)"
+    id="id-as-payment-init"
+    documentation="Ejecución transaccional de transferencias."/>

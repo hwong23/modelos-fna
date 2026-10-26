@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aloja"
+    id="id-rel-058">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-node-gw-pod.xml#id-node-gw-pod"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-app-apigw.xml#id-app-apigw"/>
+</archimate:ServingRelationship>

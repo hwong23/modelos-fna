@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión Granular del Consentimiento del Usuario"
+    id="id-cap-consent"
+    documentation="Capacidad para administrar permisos de acceso a datos bajo el control del cliente."/>
