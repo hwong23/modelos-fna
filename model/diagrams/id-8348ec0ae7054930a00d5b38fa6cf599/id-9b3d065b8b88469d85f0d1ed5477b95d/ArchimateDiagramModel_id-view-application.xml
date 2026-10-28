@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2. Vista de Estructura de Aplicaciones y Patrón CQRS"
     id="id-view-application"
-    documentation="Mapeo detallado de componentes de software, desacoplamiento CQRS y microservicios adaptadores.">
+    documentation="La solución de Finanzas Abiertas se estructura en capas funcionales interconectadas, cada una responsable de las capacidades de la solución.&#xA;&#xA;Mapeo detallado de componentes de software, desacoplamiento CQRS y microservicios adaptadores.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="v2-n-grp-gw"
